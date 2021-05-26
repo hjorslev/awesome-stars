@@ -200,6 +200,8 @@
 
 ## PowerShell 
 
+- [pspete/psPAS](https://github.com/pspete/psPAS) - PowerShell module for CyberArk Privileged Access Security REST API
+- [hjorslev/SteamPS](https://github.com/hjorslev/SteamPS) - Module that utilizes PowerShell as a wrapper for SteamCMD and engages with several Steam APIs.
 - [StartAutomating/Irregular](https://github.com/StartAutomating/Irregular) - Regular Expressions made Strangely Simple
 - [EliteLoser/ConvertTo-Json](https://github.com/EliteLoser/ConvertTo-Json) - Svendsen Tech's ConvertTo-STJson is a pure-PowerShell ConvertTo-Json for PowerShell version 2
 - [JustinGrote/Press](https://github.com/JustinGrote/Press) - A continuous developement environment for Powershell Modules either via local development or leveraging GitHub and Github Actions
@@ -417,7 +419,7 @@
 
 ## SQF 
 
-- [A3Antistasi/antistasi-1.x](https://github.com/A3Antistasi/antistasi-1.x) - Antistasi Unofficial Community old version
+- [A3Antistasi/A3-Antistasi](https://github.com/A3Antistasi/A3-Antistasi) - A3-Antistasi is the new official Antistasi version
 
 ## Shell 
 
