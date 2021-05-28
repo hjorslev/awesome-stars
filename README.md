@@ -245,7 +245,7 @@
 - [EvotecIT/PSPublishModule](https://github.com/EvotecIT/PSPublishModule) - 
 - [blindzero/Connect-MS365](https://github.com/blindzero/Connect-MS365) - Powershell module to connect to all MS365 services and install required modules or packages.
 - [JanDeDobbeleer/oh-my-posh2](https://github.com/JanDeDobbeleer/oh-my-posh2) - A prompt theming engine for Powershell
-- [Powershell-du-Zero/Sandbox](https://github.com/Powershell-du-Zero/Sandbox) - This module provides a PowerShell wrapper for the Windows Sanbox.
+- [thomas-illiet/Sandbox](https://github.com/thomas-illiet/Sandbox) - This module provides a PowerShell wrapper for the Windows Sanbox.
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [StartAutomating/EZOut](https://github.com/StartAutomating/EZOut) - EZOut is a PowerShell module to help take the pain out of writing format and types XML
 - [jfhbrook/PSeudo](https://github.com/jfhbrook/PSeudo) - Execute PowerShell commands as Administrator in Windows 10 "like sudo"
@@ -400,6 +400,7 @@
 
 ## Python 
 
+- [roflcoopter/viseron](https://github.com/roflcoopter/viseron) - Self-hosted NVR with object detection
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [PiotrMachowski/Xiaomi-cloud-tokens-extractor](https://github.com/PiotrMachowski/Xiaomi-cloud-tokens-extractor) - This tool/script retrieves tokens for all devices connected to Xiaomi cloud and encryption keys for BLE devices.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
