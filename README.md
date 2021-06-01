@@ -158,6 +158,7 @@
 
 ## Others 
 
+- [mjtechguy/wireguard-site-to-site](https://github.com/mjtechguy/wireguard-site-to-site) - Wireguard site-to-site (network-to-network) VPN Configuration examples
 - [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [OyvindSabo/gremlin-style-guide](https://github.com/OyvindSabo/gremlin-style-guide) - A style guide for the Gremlin query language
@@ -427,6 +428,7 @@
 
 ## Shell 
 
+- [whiskerz007/proxmox_hassos_install](https://github.com/whiskerz007/proxmox_hassos_install) - 
 - [lancachenet/monolithic](https://github.com/lancachenet/monolithic) - A monolithic lancache service capable of caching all CDNs in a single instance
 - [DNSCrypt/dnscrypt-server-docker](https://github.com/DNSCrypt/dnscrypt-server-docker) - A Docker image for a non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled DNS resolver
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
