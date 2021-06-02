@@ -47,6 +47,7 @@
 
 ## C# # 
 
+- [files-community/Files](https://github.com/files-community/Files) - A modern file explorer that pushes the boundaries of the platform.
 - [PowerShell/SecretManagement](https://github.com/PowerShell/SecretManagement) - PowerShell module to consistent usage of secrets through different extension vaults
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [olefriis/Eco2](https://github.com/olefriis/Eco2) - Take control of your Danfoss Eco™ 2 thermostats!
@@ -81,6 +82,7 @@
 
 ## C++ 
 
+- [diasurgical/devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems
 - [stephenegriffin/mfcmapi](https://github.com/stephenegriffin/mfcmapi) - MFCMAPI
 - [HCI-Lab-Saarland/MultiTouchKit](https://github.com/HCI-Lab-Saarland/MultiTouchKit) - 
 - [adafruit/Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel) - Arduino library for controlling single-wire LED pixels (NeoPixel, WS2812, etc.)
@@ -191,7 +193,6 @@
 - [mdziekon/UniEngine](https://github.com/mdziekon/UniEngine) - OGame-like Game Engine
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 - [fisharebest/webtrees](https://github.com/fisharebest/webtrees) - Online genealogy
-- [GetDKAN/dkan2](https://github.com/GetDKAN/dkan2) - Drupal 8 version of DKAN
 - [GetDKAN/dkan](https://github.com/GetDKAN/dkan) - DKAN Open Data Portal
 - [giansalex/Php-Nuget-Server](https://github.com/giansalex/Php-Nuget-Server) - PHP Nuget Server
 - [Piwigo/Piwigo](https://github.com/Piwigo/Piwigo) - Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute!
