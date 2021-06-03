@@ -18,6 +18,7 @@
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Lua](#lua)
   - [Others](#others)
   - [PHP](#php)
   - [PowerShell](#powershell)
@@ -43,6 +44,7 @@
 
 ## C 
 
+- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [heXeo/ubnt-fan-speed](https://github.com/heXeo/ubnt-fan-speed) - Ubiquiti ubnt-fan-speed
 
 ## C# # 
@@ -82,6 +84,7 @@
 
 ## C++ 
 
+- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [diasurgical/devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems
 - [stephenegriffin/mfcmapi](https://github.com/stephenegriffin/mfcmapi) - MFCMAPI
 - [HCI-Lab-Saarland/MultiTouchKit](https://github.com/HCI-Lab-Saarland/MultiTouchKit) - 
@@ -108,6 +111,7 @@
 
 ## Go 
 
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Open-Source Photo Management powered by Go and Google TensorFlow
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [drud/ddev](https://github.com/drud/ddev) - DDEV-Local: a local PHP development environment system
@@ -157,6 +161,10 @@
 - [MicrosoftDocs/office-docs-powershell](https://github.com/MicrosoftDocs/office-docs-powershell) - PowerShell Reference for Office Products - Short URL: aka.ms/office-powershell
 - [ToxicRevolution/CSGORankMeWeb](https://github.com/ToxicRevolution/CSGORankMeWeb) - Web interface for Rank Me CSGO Stat tracking plugin
 - [alexcroox/Arsenal.js](https://github.com/alexcroox/Arsenal.js) - Arma 3 Virtual Arsenal in Javascript
+
+## Lua 
+
+- [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 
 ## Others 
 
