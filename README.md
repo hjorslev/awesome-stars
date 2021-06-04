@@ -197,6 +197,7 @@
 
 ## PHP 
 
+- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
 - [imperian-systems/unifi-controller](https://github.com/imperian-systems/unifi-controller) - Open source Unifi controller
 - [mdziekon/UniEngine](https://github.com/mdziekon/UniEngine) - OGame-like Game Engine
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
