@@ -18,6 +18,7 @@
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jupyter Notebook](#jupyter-notebook)
   - [Lua](#lua)
   - [Others](#others)
   - [PHP](#php)
@@ -161,6 +162,10 @@
 - [MicrosoftDocs/office-docs-powershell](https://github.com/MicrosoftDocs/office-docs-powershell) - PowerShell Reference for Office Products - Short URL: aka.ms/office-powershell
 - [ToxicRevolution/CSGORankMeWeb](https://github.com/ToxicRevolution/CSGORankMeWeb) - Web interface for Rank Me CSGO Stat tracking plugin
 - [alexcroox/Arsenal.js](https://github.com/alexcroox/Arsenal.js) - Arma 3 Virtual Arsenal in Javascript
+
+## Jupyter Notebook 
+
+- [dfinke/PowerShellHumanizer](https://github.com/dfinke/PowerShellHumanizer) - PowerShell Humanizer wraps Humanizer: meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 
 ## Lua 
 
