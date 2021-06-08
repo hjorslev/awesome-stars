@@ -28,6 +28,7 @@
   - [Rust](#rust)
   - [SCSS](#scss)
   - [SQF](#sqf)
+  - [Sass](#sass)
   - [Shell](#shell)
   - [TeX](#tex)
   - [TypeScript](#typescript)
@@ -442,6 +443,10 @@
 
 - [A3Antistasi/A3-Antistasi](https://github.com/A3Antistasi/A3-Antistasi) - A3-Antistasi is the new official Antistasi version
 
+## Sass 
+
+- [Weilbyte/PVEDiscordDark](https://github.com/Weilbyte/PVEDiscordDark) - A Discord-like dark theme for the Proxmox Web UI.
+
 ## Shell 
 
 - [whiskerz007/proxmox_hassos_install](https://github.com/whiskerz007/proxmox_hassos_install) - 
@@ -465,7 +470,7 @@
 
 ## TypeScript 
 
-- [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - A small app for making quick flowcharts from text ⿻
+- [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Platform for building serverless applications and APIs (Node.js, React, GraphQL)
 - [karanpratapsingh/fullstack-starterkit](https://github.com/karanpratapsingh/fullstack-starterkit) - GraphQL first full-stack starter kit with Node, React. Powered by TypeScript
 - [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme) - Available on the VSCode Marketplace
