@@ -130,6 +130,7 @@
 
 ## Java 
 
+- [krlawrence/graph](https://github.com/krlawrence/graph) - Practical Gremlin - An Apache TinkerPop Tutorial
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [jlegewie/zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.
 
@@ -221,6 +222,7 @@
 
 ## PowerShell 
 
+- [PowerShell/Crescendo](https://github.com/PowerShell/Crescendo) - a module for wrapping native applications in a PowerShell function and module
 - [pspete/psPAS](https://github.com/pspete/psPAS) - PowerShell module for CyberArk Privileged Access Security REST API
 - [hjorslev/SteamPS](https://github.com/hjorslev/SteamPS) - Module that utilizes PowerShell as a wrapper for SteamCMD and engages with several Steam APIs.
 - [StartAutomating/Irregular](https://github.com/StartAutomating/Irregular) - Regular Expressions made Strangely Simple
