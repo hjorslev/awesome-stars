@@ -231,6 +231,8 @@
 
 ## PowerShell 
 
+- [rabadiw/ps1](https://github.com/rabadiw/ps1) - PowerShell scripts and modules to help with daily developer tasks.
+- [PoshCode/Metadata](https://github.com/PoshCode/Metadata) - Serialization for the PowerShell metadata format
 - [PowerShell/Crescendo](https://github.com/PowerShell/Crescendo) - a module for wrapping native applications in a PowerShell function and module
 - [pspete/psPAS](https://github.com/pspete/psPAS) - PowerShell module for CyberArk Privileged Access Security REST API
 - [hjorslev/SteamPS](https://github.com/hjorslev/SteamPS) - Module that utilizes PowerShell as a wrapper for SteamCMD and engages with several Steam APIs.
@@ -432,6 +434,7 @@
 
 ## Python 
 
+- [nonsleepr/ha-eufy-security](https://github.com/nonsleepr/ha-eufy-security) - Custom integration of Home Assistant with EufySecurity
 - [roflcoopter/viseron](https://github.com/roflcoopter/viseron) - Self-hosted NVR with object detection
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [PiotrMachowski/Xiaomi-cloud-tokens-extractor](https://github.com/PiotrMachowski/Xiaomi-cloud-tokens-extractor) - This tool/script retrieves tokens for all devices connected to Xiaomi cloud and encryption keys for BLE devices.
@@ -482,6 +485,7 @@
 
 ## TypeScript 
 
+- [rbardini/resumed](https://github.com/rbardini/resumed) - 👔 Lightweight JSON Resume builder, no-frills alternative to resume-cli
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
 - [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
