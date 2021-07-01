@@ -232,6 +232,7 @@
 
 ## PowerShell 
 
+- [leeford/Backup-TeamsChat](https://github.com/leeford/Backup-TeamsChat) - Backup Teams chat messages (not channel messages) for safe keeping
 - [rabadiw/ps1](https://github.com/rabadiw/ps1) - PowerShell scripts and modules to help with daily developer tasks.
 - [PoshCode/Metadata](https://github.com/PoshCode/Metadata) - Serialization for the PowerShell metadata format
 - [PowerShell/Crescendo](https://github.com/PowerShell/Crescendo) - a module for wrapping native applications in a PowerShell function and module
