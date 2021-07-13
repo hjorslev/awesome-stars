@@ -233,6 +233,7 @@
 
 ## PowerShell 
 
+- [WiredPulse/EventLog_Parsers](https://github.com/WiredPulse/EventLog_Parsers) - Series of scripts to parse the event log for analysis
 - [leeford/Backup-TeamsChat](https://github.com/leeford/Backup-TeamsChat) - Backup Teams chat messages (not channel messages) for safe keeping
 - [rabadiw/ps1](https://github.com/rabadiw/ps1) - PowerShell scripts and modules to help with daily developer tasks.
 - [PoshCode/Metadata](https://github.com/PoshCode/Metadata) - Serialization for the PowerShell metadata format
