@@ -185,6 +185,7 @@
 
 ## Others 
 
+- [microsoft/azure-pipelines-yaml](https://github.com/microsoft/azure-pipelines-yaml) - Azure Pipelines YAML examples, templates, and community interaction
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [mjtechguy/wireguard-site-to-site](https://github.com/mjtechguy/wireguard-site-to-site) - Wireguard site-to-site (network-to-network) VPN Configuration examples
 - [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
@@ -233,6 +234,7 @@
 
 ## PowerShell 
 
+- [davidprowe/BadBlood](https://github.com/davidprowe/BadBlood) - BadBlood by @davidprowe, Secframe.com, fills a Microsoft Active Directory Domain with a structure and thousands of objects. The output of the tool is a domain similar to a domain in the real world.  After BadBlood is ran on a domain, security analysts and engineers can practice using tools to gain an understanding and prescribe to securing Active Directory. Each time this tool runs, it produces different results.  The domain, users, groups, computers and permissions are different. Every. Single. Time.
 - [WiredPulse/EventLog_Parsers](https://github.com/WiredPulse/EventLog_Parsers) - Series of scripts to parse the event log for analysis
 - [leeford/Backup-TeamsChat](https://github.com/leeford/Backup-TeamsChat) - Backup Teams chat messages (not channel messages) for safe keeping
 - [rabadiw/ps1](https://github.com/rabadiw/ps1) - PowerShell scripts and modules to help with daily developer tasks.
@@ -438,6 +440,7 @@
 
 ## Python 
 
+- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [nonsleepr/ha-eufy-security](https://github.com/nonsleepr/ha-eufy-security) - Custom integration of Home Assistant with EufySecurity
 - [roflcoopter/viseron](https://github.com/roflcoopter/viseron) - Self-hosted NVR with object detection
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
