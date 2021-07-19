@@ -142,6 +142,8 @@
 
 ## JavaScript 
 
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [emilstahl/ipv6](https://github.com/emilstahl/ipv6) - IPv6-adresse.dk source & data
@@ -216,6 +218,9 @@
 
 ## PHP 
 
+- [getkirby/kirby](https://github.com/getkirby/kirby) - Kirby's core application folder
+- [picocms/Pico](https://github.com/picocms/Pico) - Pico is a stupidly simple, blazing fast, flat file CMS.
+- [typemill/typemill](https://github.com/typemill/typemill) - TYPEMILL is a simple and lightweight Flat-File-CMS for authors and publishers.
 - [Art-of-WiFi/UniFi-API-browser](https://github.com/Art-of-WiFi/UniFi-API-browser) - Tool to browse data exposed by Ubiquiti's UniFi Controller API (demo: https://api-browser-demo.artofwifi.net/)
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
 - [imperian-systems/unifi-controller](https://github.com/imperian-systems/unifi-controller) - Open source Unifi controller
