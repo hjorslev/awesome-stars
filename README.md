@@ -52,7 +52,7 @@
 
 ## C# # 
 
-- [files-community/Files](https://github.com/files-community/Files) - A modern file explorer that pushes the boundaries of the platform.
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that pushes the boundaries of the platform.
 - [PowerShell/SecretManagement](https://github.com/PowerShell/SecretManagement) - PowerShell module to consistent usage of secrets through different extension vaults
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [olefriis/Eco2](https://github.com/olefriis/Eco2) - Take control of your Danfoss Eco™ 2 thermostats!
