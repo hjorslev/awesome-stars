@@ -248,6 +248,7 @@
 
 ## PowerShell 
 
+- [quonic/ProxmoxCLI](https://github.com/quonic/ProxmoxCLI) - A Proxmox PowerShell module for accessing your Proxmox APIs
 - [cfalta/PowerShellArmoury](https://github.com/cfalta/PowerShellArmoury) - A PowerShell armoury for security guys and girls
 - [davidprowe/BadBlood](https://github.com/davidprowe/BadBlood) - BadBlood by @davidprowe, Secframe.com, fills a Microsoft Active Directory Domain with a structure and thousands of objects. The output of the tool is a domain similar to a domain in the real world.  After BadBlood is ran on a domain, security analysts and engineers can practice using tools to gain an understanding and prescribe to securing Active Directory. Each time this tool runs, it produces different results.  The domain, users, groups, computers and permissions are different. Every. Single. Time.
 - [WiredPulse/EventLog_Parsers](https://github.com/WiredPulse/EventLog_Parsers) - Series of scripts to parse the event log for analysis
@@ -510,6 +511,7 @@
 
 ## TypeScript 
 
+- [ardoq/ardoq-sdk-js](https://github.com/ardoq/ardoq-sdk-js) - A software development kit for integrating with Ardoq
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - The best platform to write and share markdown.
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [AitorDB/home-assistant-sun-card](https://github.com/AitorDB/home-assistant-sun-card) - Home assistant sun card based on Google weather design
