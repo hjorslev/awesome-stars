@@ -248,6 +248,7 @@
 
 ## PowerShell 
 
+- [commial/LiveDiffAD](https://github.com/commial/LiveDiffAD) - AD Live changes viewer
 - [quonic/ProxmoxCLI](https://github.com/quonic/ProxmoxCLI) - A Proxmox PowerShell module for accessing your Proxmox APIs
 - [cfalta/PowerShellArmoury](https://github.com/cfalta/PowerShellArmoury) - A PowerShell armoury for security guys and girls
 - [davidprowe/BadBlood](https://github.com/davidprowe/BadBlood) - BadBlood by @davidprowe, Secframe.com, fills a Microsoft Active Directory Domain with a structure and thousands of objects. The output of the tool is a domain similar to a domain in the real world.  After BadBlood is ran on a domain, security analysts and engineers can practice using tools to gain an understanding and prescribe to securing Active Directory. Each time this tool runs, it produces different results.  The domain, users, groups, computers and permissions are different. Every. Single. Time.
