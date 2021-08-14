@@ -225,6 +225,8 @@
 
 ## PHP 
 
+- [pyrocms/pyrocms](https://github.com/pyrocms/pyrocms) - Pyro is an experienced and powerful Laravel PHP CMS.
+- [OleVik/grav-theme-scholar](https://github.com/OleVik/grav-theme-scholar) - Scholar is an academic-focused theme, for publishing papers, articles, books, documentation, your blog, and even your resumé, with Grav.
 - [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [electerious/Lychee](https://github.com/electerious/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [getkirby/kirby](https://github.com/getkirby/kirby) - Kirby's core application folder
