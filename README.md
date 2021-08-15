@@ -101,6 +101,7 @@
 
 ## CSS 
 
+- [laravel-streams/streams](https://github.com/laravel-streams/streams) - Streams is an open-source web application multi-tool for Laravel.
 - [EliverLara/firefox-sweet-theme](https://github.com/EliverLara/firefox-sweet-theme) - :candy: A dark and modern theme for firefox with vibrant colors
 
 ## Clojure 
