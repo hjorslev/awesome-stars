@@ -87,6 +87,7 @@
 
 ## C++ 
 
+- [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181.
 - [arvidn/libtorrent](https://github.com/arvidn/libtorrent) - an efficient feature complete C++ bittorrent implementation
 - [chrxh/alien](https://github.com/chrxh/alien) - alien is a GPU-accelerated artificial life simulation program.
@@ -121,7 +122,7 @@
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [accurics/terrascan](https://github.com/accurics/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Privately browse, organize, and share your photo collection. Free & Open Source. 🌈
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Privately hosted app for browsing, organizing, and sharing your photo collection. Say goodbye to uploading your visual memories to the cloud! 🌈
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [drud/ddev](https://github.com/drud/ddev) - DDEV-Local: a local PHP development environment system
@@ -186,7 +187,6 @@
 
 ## Jupyter Notebook 
 
-- [hooram/ownphotos](https://github.com/hooram/ownphotos) - Self hosted alternative to Google Photos
 - [dfinke/PowerShellHumanizer](https://github.com/dfinke/PowerShellHumanizer) - PowerShell Humanizer wraps Humanizer: meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 
 ## Lua 
@@ -229,7 +229,6 @@
 - [pyrocms/pyrocms](https://github.com/pyrocms/pyrocms) - Pyro is an experienced and powerful Laravel PHP CMS.
 - [OleVik/grav-theme-scholar](https://github.com/OleVik/grav-theme-scholar) - Scholar is an academic-focused theme, for publishing papers, articles, books, documentation, your blog, and even your resumé, with Grav.
 - [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
-- [electerious/Lychee](https://github.com/electerious/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [getkirby/kirby](https://github.com/getkirby/kirby) - Kirby's core application folder
 - [picocms/Pico](https://github.com/picocms/Pico) - Pico is a stupidly simple, blazing fast, flat file CMS.
 - [typemill/typemill](https://github.com/typemill/typemill) - TYPEMILL is a simple and lightweight Flat-File-CMS for authors and publishers.
@@ -461,6 +460,7 @@
 
 ## Python 
 
+- [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [nonsleepr/ha-eufy-security](https://github.com/nonsleepr/ha-eufy-security) - Custom integration of Home Assistant with EufySecurity
 - [roflcoopter/viseron](https://github.com/roflcoopter/viseron) - Self-hosted NVR with object detection
@@ -492,6 +492,7 @@
 
 ## Shell 
 
+- [LibrePhotos/librephotos-linux](https://github.com/LibrePhotos/librephotos-linux) - 
 - [ej52/proxmox-scripts](https://github.com/ej52/proxmox-scripts) - 
 - [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
