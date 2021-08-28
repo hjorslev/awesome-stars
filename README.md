@@ -146,6 +146,7 @@
 
 ## JavaScript 
 
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
 - [pixelfed/docs](https://github.com/pixelfed/docs) - Pixelfed Documentation
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -249,6 +250,8 @@
 
 ## PowerShell 
 
+- [EvotecIT/O365Essentials](https://github.com/EvotecIT/O365Essentials) - A module that helps to manage some tasks on Office 365/Azure via undocumented API
+- [MicrosoftDocs/windows-powershell-docs](https://github.com/MicrosoftDocs/windows-powershell-docs) - This repo is used to contribute to Windows 10, Windows Server 2016, and MDOP PowerShell module documentation.
 - [Azure/Azure-Security-Center](https://github.com/Azure/Azure-Security-Center) - Welcome to the Azure Security Center community repository
 - [commial/LiveDiffAD](https://github.com/commial/LiveDiffAD) - AD Live changes viewer
 - [quonic/ProxmoxCLI](https://github.com/quonic/ProxmoxCLI) - A Proxmox PowerShell module for accessing your Proxmox APIs
@@ -308,7 +311,7 @@
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [StartAutomating/EZOut](https://github.com/StartAutomating/EZOut) - EZOut is a PowerShell module to help take the pain out of writing format and types XML
 - [jfhbrook/PSeudo](https://github.com/jfhbrook/PSeudo) - Execute PowerShell commands as Administrator in Windows 10 "like sudo"
-- [rmbolger/Posh-ACME](https://github.com/rmbolger/Posh-ACME) - ACME protocol client for obtaining certificates using Let's Encrypt (or other ACME compliant CA)
+- [rmbolger/Posh-ACME](https://github.com/rmbolger/Posh-ACME) - PowerShell module and ACME client to create certificates from Let's Encrypt (or other ACME CA)
 - [jdhitsolutions/PSTypeExtensionTools](https://github.com/jdhitsolutions/PSTypeExtensionTools) - A set of PowerShell tools for working with type extensions.
 - [dfinke/NameIT](https://github.com/dfinke/NameIT) - PowerShell module for randomly generating data
 - [StartAutomating/PowerArcade](https://github.com/StartAutomating/PowerArcade) - A Retro Arcade Game Console in PowerShell
@@ -459,6 +462,7 @@
 
 ## Python 
 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [nonsleepr/ha-eufy-security](https://github.com/nonsleepr/ha-eufy-security) - Custom integration of Home Assistant with EufySecurity
@@ -476,6 +480,7 @@
 
 ## Rust 
 
+- [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
 - [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 
 ## SCSS 
@@ -492,6 +497,7 @@
 
 ## Shell 
 
+- [bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - 🛡️ Make your web services secure by default !
 - [LibrePhotos/librephotos-linux](https://github.com/LibrePhotos/librephotos-linux) - 
 - [ej52/proxmox-scripts](https://github.com/ej52/proxmox-scripts) - 
 - [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
@@ -517,6 +523,7 @@
 
 ## TypeScript 
 
+- [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell) - Provides PowerShell language and debugging support for Visual Studio Code
 - [ardoq/ardoq-sdk-js](https://github.com/ardoq/ardoq-sdk-js) - A software development kit for integrating with Ardoq
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - The best platform to write and share markdown.
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
