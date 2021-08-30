@@ -226,6 +226,7 @@
 
 ## PHP 
 
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine
 - [pyrocms/pyrocms](https://github.com/pyrocms/pyrocms) - Pyro is an experienced and powerful Laravel PHP CMS.
 - [OleVik/grav-theme-scholar](https://github.com/OleVik/grav-theme-scholar) - Scholar is an academic-focused theme, for publishing papers, articles, books, documentation, your blog, and even your resumé, with Grav.
