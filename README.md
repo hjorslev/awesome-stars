@@ -132,6 +132,7 @@
 
 ## HTML 
 
+- [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [LRvdLinden/homeassistant-config](https://github.com/LRvdLinden/homeassistant-config) - 🏠 By LRvdLinden -- My Home Assistant configuration. Be sure to 🌟 this repository for updates!
 - [AaronDinnage/Licensing](https://github.com/AaronDinnage/Licensing) - Microsoft 365 licensing diagrams
@@ -197,6 +198,7 @@
 
 ## Others 
 
+- [SorkinType/Merriweather](https://github.com/SorkinType/Merriweather) - Merriweather is a serif typeface. It is offered in Variable font format and static formats ( OTF, TTF WOFF etc).
 - [microsoft/azure-pipelines-yaml](https://github.com/microsoft/azure-pipelines-yaml) - Azure Pipelines YAML examples, templates, and community interaction
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
