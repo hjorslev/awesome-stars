@@ -120,6 +120,7 @@
 
 ## Go 
 
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [accurics/terrascan](https://github.com/accurics/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
@@ -148,6 +149,7 @@
 
 ## JavaScript 
 
+- [hap-wi/roxy-wi](https://github.com/hap-wi/roxy-wi) - Web interface for managing Haproxy, Nginx and Keepalived servers
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
 - [pixelfed/docs](https://github.com/pixelfed/docs) - Pixelfed Documentation
