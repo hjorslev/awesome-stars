@@ -149,6 +149,8 @@
 
 ## JavaScript 
 
+- [magicsunday/webtrees-pedigree-chart](https://github.com/magicsunday/webtrees-pedigree-chart) - SVG based pedigree chart module for webtrees genealogy application.
+- [magicsunday/webtrees-descendants-chart](https://github.com/magicsunday/webtrees-descendants-chart) - SVG based descendants chart module for webtrees genealogy application.
 - [hap-wi/roxy-wi](https://github.com/hap-wi/roxy-wi) - Web interface for managing Haproxy, Nginx and Keepalived servers
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
@@ -232,6 +234,7 @@
 
 ## PHP 
 
+- [flarum/core](https://github.com/flarum/core) - Simple forum software for building great communities.
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine
 - [pyrocms/pyrocms](https://github.com/pyrocms/pyrocms) - Pyro is an experienced and powerful Laravel PHP CMS.
