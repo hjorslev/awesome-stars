@@ -202,6 +202,7 @@
 
 ## Others 
 
+- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [SorkinType/Merriweather](https://github.com/SorkinType/Merriweather) - Merriweather is a serif typeface. It is offered in Variable font format and static formats ( OTF, TTF WOFF etc).
 - [microsoft/azure-pipelines-yaml](https://github.com/microsoft/azure-pipelines-yaml) - Azure Pipelines YAML examples, templates, and community interaction
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
