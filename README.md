@@ -262,6 +262,7 @@
 
 ## PowerShell 
 
+- [pluralsight/PS-AutoLab-Env](https://github.com/pluralsight/PS-AutoLab-Env) - A PowerShell module for creating lab configurations using Lability and Desired State Configuration. This is a complete update of the 3.x versions. Look at README.md for more information.
 - [EvotecIT/O365Essentials](https://github.com/EvotecIT/O365Essentials) - A module that helps to manage some tasks on Office 365/Azure via undocumented API
 - [MicrosoftDocs/windows-powershell-docs](https://github.com/MicrosoftDocs/windows-powershell-docs) - This repo is used to contribute to Windows 10, Windows Server 2016, and MDOP PowerShell module documentation.
 - [Azure/Azure-Security-Center](https://github.com/Azure/Azure-Security-Center) - Welcome to the Azure Security Center community repository
@@ -310,7 +311,7 @@
 - [sqlcollaborative/dbatools](https://github.com/sqlcollaborative/dbatools) - 🚀 SQL Server automation and instance migrations have never been safer, faster or freer
 - [kevinblumenfeld/Posh365](https://github.com/kevinblumenfeld/Posh365) - Connect. Provision. Maintain.
 - [PoShLog/PoShLog](https://github.com/PoShLog/PoShLog) - :nut_and_bolt:  PoShLog is PowerShell cross-platform logging module. It allows you to log structured event data into console, file and much more places easily. It's built upon great C# logging library Serilog - https://serilog.net/
-- [fireeye/flare-vm](https://github.com/fireeye/flare-vm) - 
+- [mandiant/flare-vm](https://github.com/mandiant/flare-vm) - 
 - [proxb/PoshRSJob](https://github.com/proxb/PoshRSJob) - Provides an alternative to PSjobs with greater performance and less overhead to run commands in the background, freeing up the console and allowing throttling on the jobs.
 - [majkinetor/posh](https://github.com/majkinetor/posh) - Powershell modules and functions by majkinetor
 - [AutomationStudyGroup/Homework](https://github.com/AutomationStudyGroup/Homework) - Homework
@@ -476,7 +477,7 @@
 
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - 🛡️ Make your web services secure by default !
-- [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service.
+- [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [nonsleepr/ha-eufy-security](https://github.com/nonsleepr/ha-eufy-security) - Custom integration of Home Assistant with EufySecurity
 - [roflcoopter/viseron](https://github.com/roflcoopter/viseron) - Self-hosted NVR with object detection
@@ -510,7 +511,7 @@
 
 ## Shell 
 
-- [LibrePhotos/librephotos-linux](https://github.com/LibrePhotos/librephotos-linux) - 
+- [LibrePhotos/librephotos-linux](https://github.com/LibrePhotos/librephotos-linux) - Here you can find the installation script for a local Linux install.
 - [ej52/proxmox-scripts](https://github.com/ej52/proxmox-scripts) - 
 - [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 - [whiskerz007/proxmox_hassos_install](https://github.com/whiskerz007/proxmox_hassos_install) - 
