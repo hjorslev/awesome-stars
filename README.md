@@ -202,6 +202,7 @@
 
 ## Others 
 
+- [juntossomosmais/frontend-guideline](https://github.com/juntossomosmais/frontend-guideline) - 📝 Front-end Guideline by Juntos Somos Mais
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [SorkinType/Merriweather](https://github.com/SorkinType/Merriweather) - Merriweather is a serif typeface. It is offered in Variable font format and static formats ( OTF, TTF WOFF etc).
 - [microsoft/azure-pipelines-yaml](https://github.com/microsoft/azure-pipelines-yaml) - Azure Pipelines YAML examples, templates, and community interaction
@@ -235,6 +236,8 @@
 
 ## PHP 
 
+- [osTicket/osTicket](https://github.com/osTicket/osTicket) - The osTicket open source ticketing system official project repository, for versions 1.8 and later
+- [bludit/bludit](https://github.com/bludit/bludit) - Simple, Fast, Secure, Flat-File CMS
 - [flarum/core](https://github.com/flarum/core) - Simple forum software for building great communities.
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine
@@ -262,6 +265,8 @@
 
 ## PowerShell 
 
+- [ansible-collections/community.windows](https://github.com/ansible-collections/community.windows) - Windows community collection for Ansible
+- [alexverboon/MDATP](https://github.com/alexverboon/MDATP) - Microsoft 365 Defender - Resource Hub
 - [pluralsight/PS-AutoLab-Env](https://github.com/pluralsight/PS-AutoLab-Env) - A PowerShell module for creating lab configurations using Lability and Desired State Configuration. This is a complete update of the 3.x versions. Look at README.md for more information.
 - [EvotecIT/O365Essentials](https://github.com/EvotecIT/O365Essentials) - A module that helps to manage some tasks on Office 365/Azure via undocumented API
 - [MicrosoftDocs/windows-powershell-docs](https://github.com/MicrosoftDocs/windows-powershell-docs) - This repo is used to contribute to Windows 10, Windows Server 2016, and MDOP PowerShell module documentation.
