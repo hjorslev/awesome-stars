@@ -237,6 +237,7 @@
 
 ## PHP 
 
+- [mchekin/rpg](https://github.com/mchekin/rpg) - Online Role Playing Game (based on Laravel)
 - [osTicket/osTicket](https://github.com/osTicket/osTicket) - The osTicket open source ticketing system official project repository, for versions 1.8 and later
 - [bludit/bludit](https://github.com/bludit/bludit) - Simple, Fast, Secure, Flat-File CMS
 - [flarum/core](https://github.com/flarum/core) - Simple forum software for building great communities.
@@ -266,6 +267,7 @@
 
 ## PowerShell 
 
+- [jhoneill/MsftGraph](https://github.com/jhoneill/MsftGraph) - A PowerShell module for interacting with the Microsoft Graph API for Directory, OneNote, OneDrive, Outlook, Planner, Teams and Sharepoint in Office 365 or consumer versions
 - [ansible-collections/community.windows](https://github.com/ansible-collections/community.windows) - Windows community collection for Ansible
 - [alexverboon/MDATP](https://github.com/alexverboon/MDATP) - Microsoft 365 Defender - Resource Hub
 - [pluralsight/PS-AutoLab-Env](https://github.com/pluralsight/PS-AutoLab-Env) - A PowerShell module for creating lab configurations using Lability and Desired State Configuration. This is a complete update of the 3.x versions. Look at README.md for more information.
