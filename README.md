@@ -268,6 +268,8 @@
 
 ## PowerShell 
 
+- [FriedrichWeinmann/AutoRest](https://github.com/FriedrichWeinmann/AutoRest) - 
+- [FriedrichWeinmann/RestConnect](https://github.com/FriedrichWeinmann/RestConnect) - 
 - [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - Windows Hardening settings and configurations
 - [jhoneill/MsftGraph](https://github.com/jhoneill/MsftGraph) - A PowerShell module for interacting with the Microsoft Graph API for Directory, OneNote, OneDrive, Outlook, Planner, Teams and Sharepoint in Office 365 or consumer versions
 - [ansible-collections/community.windows](https://github.com/ansible-collections/community.windows) - Windows community collection for Ansible
