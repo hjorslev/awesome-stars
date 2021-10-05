@@ -268,6 +268,7 @@
 
 ## PowerShell 
 
+- [SUBnet192/PKI](https://github.com/SUBnet192/PKI) - PKI Infrastructure build
 - [FriedrichWeinmann/AutoRest](https://github.com/FriedrichWeinmann/AutoRest) - 
 - [FriedrichWeinmann/RestConnect](https://github.com/FriedrichWeinmann/RestConnect) - 
 - [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - Windows Hardening settings and configurations
