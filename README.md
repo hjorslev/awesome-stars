@@ -174,7 +174,6 @@
 - [ebekker/pwsh-github-action-base](https://github.com/ebekker/pwsh-github-action-base) - Base support for implementing GitHub Actions in PowerShell
 - [andreasbm/web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
 - [lukePeavey/quotable](https://github.com/lukePeavey/quotable) - Random Quotes API
-- [pprathameshmore/QuoteGarden](https://github.com/pprathameshmore/QuoteGarden) - A RESTful API for quotes. The database currently includes more than 75000 quotes.
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
 - [mqttjs/MQTT.js](https://github.com/mqttjs/MQTT.js) - The MQTT client for Node.js and the browser
 - [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
@@ -268,6 +267,7 @@
 
 ## PowerShell 
 
+- [baswijdenes/Optimized.Mga](https://github.com/baswijdenes/Optimized.Mga) - PowerShell module for Microsoft Graph REST API. To optimize, speed, and bulk use Microsoft Graph API in PowerShell. You can can enter your own URL so you aren't restricted to the limitations of the official Microsoft Module. Includes ways to speed up the process, handle throttling, and re-authenticate after the token expires.
 - [SUBnet192/PKI](https://github.com/SUBnet192/PKI) - PKI Infrastructure build
 - [FriedrichWeinmann/AutoRest](https://github.com/FriedrichWeinmann/AutoRest) - 
 - [FriedrichWeinmann/RestConnect](https://github.com/FriedrichWeinmann/RestConnect) - 
