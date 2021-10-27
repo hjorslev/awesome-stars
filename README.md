@@ -501,6 +501,7 @@
 
 ## Ruby 
 
+- [fluent/fluentd](https://github.com/fluent/fluentd) - Fluentd: Unified Logging Layer (project under CNCF)
 - [hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
 - [krlawrence/graph](https://github.com/krlawrence/graph) - Practical Gremlin - An Apache TinkerPop Tutorial
 - [dkhamsing/awesome_bot](https://github.com/dkhamsing/awesome_bot) - :white_check_mark: Validate links in awesome projects
