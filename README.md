@@ -201,6 +201,7 @@
 
 ## Others 
 
+- [aleksanderklug/toolbox.py](https://github.com/aleksanderklug/toolbox.py) - OSINT-related developments in Python — Tools, scripts and other fun things
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [juntossomosmais/frontend-guideline](https://github.com/juntossomosmais/frontend-guideline) - 📝 Front-end Guideline by Juntos Somos Mais
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -266,6 +267,7 @@
 
 ## PowerShell 
 
+- [microsoft/ps-rule](https://github.com/microsoft/ps-rule) - Validate infrastructure as code (IaC) and DevOps repositories using GitHub Actions.
 - [baswijdenes/Optimized.Mga](https://github.com/baswijdenes/Optimized.Mga) - PowerShell module for Microsoft Graph REST API. To optimize, speed, and bulk use Microsoft Graph API in PowerShell. You can can enter your own URL so you aren't restricted to the limitations of the official Microsoft Module. Includes ways to speed up the process, handle throttling, and re-authenticate after the token expires.
 - [SUBnet192/PKI](https://github.com/SUBnet192/PKI) - PKI Infrastructure build
 - [FriedrichWeinmann/AutoRest](https://github.com/FriedrichWeinmann/AutoRest) - 
