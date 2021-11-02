@@ -150,6 +150,7 @@
 
 ## JavaScript 
 
+- [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [magicsunday/webtrees-pedigree-chart](https://github.com/magicsunday/webtrees-pedigree-chart) - SVG based pedigree chart module for webtrees genealogy application.
 - [magicsunday/webtrees-descendants-chart](https://github.com/magicsunday/webtrees-descendants-chart) - SVG based descendants chart module for webtrees genealogy application.
 - [hap-wi/roxy-wi](https://github.com/hap-wi/roxy-wi) - Web interface for managing Haproxy, Nginx and Keepalived servers
@@ -194,6 +195,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
 - [dfinke/PowerShellHumanizer](https://github.com/dfinke/PowerShellHumanizer) - PowerShell Humanizer wraps Humanizer: meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 
 ## Lua 
