@@ -51,6 +51,7 @@
 
 ## C# # 
 
+- [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) - The main repository for the development of the evolution game Thrive.
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that pushes the boundaries of the platform.
 - [PowerShell/SecretManagement](https://github.com/PowerShell/SecretManagement) - PowerShell module to consistent usage of secrets through different extension vaults
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
@@ -270,6 +271,7 @@
 
 ## PowerShell 
 
+- [potatoqualitee/psmodulecache](https://github.com/potatoqualitee/psmodulecache) - This action makes caching PowerShell modules from the PowerShell Gallery easy for both Linux and Windows runners.
 - [dfinke/PowerShellPivot](https://github.com/dfinke/PowerShellPivot) - 
 - [microsoft/ps-rule](https://github.com/microsoft/ps-rule) - Validate infrastructure as code (IaC) and DevOps repositories using GitHub Actions.
 - [baswijdenes/Optimized.Mga](https://github.com/baswijdenes/Optimized.Mga) - PowerShell module for Microsoft Graph REST API. To optimize, speed, and bulk use Microsoft Graph API in PowerShell. You can can enter your own URL so you aren't restricted to the limitations of the official Microsoft Module. Includes ways to speed up the process, handle throttling, and re-authenticate after the token expires.
@@ -283,7 +285,7 @@
 - [pluralsight/PS-AutoLab-Env](https://github.com/pluralsight/PS-AutoLab-Env) - A PowerShell module for creating lab configurations using Lability and Desired State Configuration. This is a complete update of the 3.x versions. Look at README.md for more information.
 - [EvotecIT/O365Essentials](https://github.com/EvotecIT/O365Essentials) - A module that helps to manage some tasks on Office 365/Azure via undocumented API
 - [MicrosoftDocs/windows-powershell-docs](https://github.com/MicrosoftDocs/windows-powershell-docs) - This repo is used to contribute to Windows 10, Windows Server 2016, and MDOP PowerShell module documentation.
-- [Azure/Azure-Security-Center](https://github.com/Azure/Azure-Security-Center) - Welcome to the Azure Security Center community repository
+- [Azure/Microsoft-Defender-for-Cloud](https://github.com/Azure/Microsoft-Defender-for-Cloud) - Welcome to the Azure Security Center community repository
 - [commial/LiveDiffAD](https://github.com/commial/LiveDiffAD) - AD Live changes viewer
 - [quonic/ProxmoxCLI](https://github.com/quonic/ProxmoxCLI) - A Proxmox PowerShell module for accessing your Proxmox APIs
 - [cfalta/PowerShellArmoury](https://github.com/cfalta/PowerShellArmoury) - A PowerShell armoury for security guys and girls
@@ -555,6 +557,7 @@
 
 ## TypeScript 
 
+- [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 - [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell) - Provides PowerShell language and debugging support for Visual Studio Code
 - [ardoq/ardoq-sdk-js](https://github.com/ardoq/ardoq-sdk-js) - A software development kit for integrating with Ardoq
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - The best platform to write and share markdown.
