@@ -271,6 +271,7 @@
 
 ## PowerShell 
 
+- [SP3269/posh-jwt](https://github.com/SP3269/posh-jwt) - JWT (JSON Web Tokens) implementation in Powershell
 - [potatoqualitee/psmodulecache](https://github.com/potatoqualitee/psmodulecache) - This action makes caching PowerShell modules from the PowerShell Gallery easy for both Linux and Windows runners.
 - [dfinke/PowerShellPivot](https://github.com/dfinke/PowerShellPivot) - 
 - [microsoft/ps-rule](https://github.com/microsoft/ps-rule) - Validate infrastructure as code (IaC) and DevOps repositories using GitHub Actions.
@@ -285,7 +286,7 @@
 - [pluralsight/PS-AutoLab-Env](https://github.com/pluralsight/PS-AutoLab-Env) - A PowerShell module for creating lab configurations using Lability and Desired State Configuration. This is a complete update of the 3.x versions. Look at README.md for more information.
 - [EvotecIT/O365Essentials](https://github.com/EvotecIT/O365Essentials) - A module that helps to manage some tasks on Office 365/Azure via undocumented API
 - [MicrosoftDocs/windows-powershell-docs](https://github.com/MicrosoftDocs/windows-powershell-docs) - This repo is used to contribute to Windows 10, Windows Server 2016, and MDOP PowerShell module documentation.
-- [Azure/Microsoft-Defender-for-Cloud](https://github.com/Azure/Microsoft-Defender-for-Cloud) - Welcome to the Azure Security Center community repository
+- [Azure/Microsoft-Defender-for-Cloud](https://github.com/Azure/Microsoft-Defender-for-Cloud) - Welcome to the Microsoft Defender for Cloud community repository
 - [commial/LiveDiffAD](https://github.com/commial/LiveDiffAD) - AD Live changes viewer
 - [quonic/ProxmoxCLI](https://github.com/quonic/ProxmoxCLI) - A Proxmox PowerShell module for accessing your Proxmox APIs
 - [cfalta/PowerShellArmoury](https://github.com/cfalta/PowerShellArmoury) - A PowerShell armoury for security guys and girls
