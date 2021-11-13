@@ -22,6 +22,7 @@
   - [Lua](#lua)
   - [Others](#others)
   - [PHP](#php)
+  - [Perl](#perl)
   - [PowerShell](#powershell)
   - [Python](#python)
   - [Ruby](#ruby)
@@ -46,6 +47,7 @@
 
 ## C 
 
+- [nbs-system/naxsi](https://github.com/nbs-system/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [heXeo/ubnt-fan-speed](https://github.com/heXeo/ubnt-fan-speed) - Ubiquiti ubnt-fan-speed
 
@@ -207,6 +209,7 @@
 
 ## Others 
 
+- [wallarm/awesome-nginx-security](https://github.com/wallarm/awesome-nginx-security) - 🔥 A curated list of awesome links related to application security related to the environments with NGINX or Kubernetes Ingres Controller (based on NGINX)
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
@@ -272,6 +275,10 @@
 - [mex/vman.info](https://github.com/mex/vman.info) - 
 - [cweagans/composer-patches](https://github.com/cweagans/composer-patches) - Simple patches plugin for Composer
 - [planetteamspeak/ts3phpframework](https://github.com/planetteamspeak/ts3phpframework) - Modern use-at-will framework that provides individual components to manage TeamSpeak 3 Server instances
+
+## Perl 
+
+- [SpiderLabs/ModSecurity-nginx](https://github.com/SpiderLabs/ModSecurity-nginx) - ModSecurity v3 Nginx Connector
 
 ## PowerShell 
 
