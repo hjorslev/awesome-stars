@@ -284,7 +284,7 @@
 
 - [jdhitsolutions/PSClock](https://github.com/jdhitsolutions/PSClock) - :watch: A set of PowerShell commands for creating and managing a transparent WPF-based clock that runs on your Windows desktop.
 - [SP3269/posh-jwt](https://github.com/SP3269/posh-jwt) - JWT (JSON Web Tokens) implementation in Powershell
-- [potatoqualitee/psmodulecache](https://github.com/potatoqualitee/psmodulecache) - This action makes caching PowerShell modules from the PowerShell Gallery easy for both Linux and Windows runners.
+- [potatoqualitee/psmodulecache](https://github.com/potatoqualitee/psmodulecache) - This action makes caching PowerShell modules from the PowerShell Gallery easy for Linux, Windows and macOS runners.
 - [dfinke/PowerShellPivot](https://github.com/dfinke/PowerShellPivot) - 
 - [microsoft/ps-rule](https://github.com/microsoft/ps-rule) - Validate infrastructure as code (IaC) and DevOps repositories using GitHub Actions.
 - [baswijdenes/Optimized.Mga](https://github.com/baswijdenes/Optimized.Mga) - PowerShell module for Microsoft Graph REST API. To optimize, speed, and bulk use Microsoft Graph API in PowerShell. You can can enter your own URL so you aren't restricted to the limitations of the official Microsoft Module. Includes ways to speed up the process, handle throttling, and re-authenticate after the token expires.
