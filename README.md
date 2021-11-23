@@ -547,6 +547,7 @@
 
 ## Shell 
 
+- [pfelk/pfelk](https://github.com/pfelk/pfelk) - pfSense/OPNsense + ELK
 - [LibrePhotos/librephotos-linux](https://github.com/LibrePhotos/librephotos-linux) - Here you can find the installation script for a local Linux install.
 - [ej52/proxmox-scripts](https://github.com/ej52/proxmox-scripts) - 
 - [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
