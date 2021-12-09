@@ -277,7 +277,7 @@
 - [giansalex/Php-Nuget-Server](https://github.com/giansalex/Php-Nuget-Server) - PHP Nuget Server
 - [Piwigo/Piwigo](https://github.com/Piwigo/Piwigo) - Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute!
 - [SimonPadbury/b4st](https://github.com/SimonPadbury/b4st) - A Bootstrap 4 Starter Theme, for WordPress
-- [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS
+- [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [xPaw/PHP-Source-Query](https://github.com/xPaw/PHP-Source-Query) - 🐘 PHP library to query servers that implement Steam query protocol (also known as Source Engine Query protocol)
 - [mex/vman.info](https://github.com/mex/vman.info) - 
 - [cweagans/composer-patches](https://github.com/cweagans/composer-patches) - Simple patches plugin for Composer
