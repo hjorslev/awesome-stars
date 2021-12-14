@@ -289,6 +289,7 @@
 
 ## PowerShell 
 
+- [improsec/Get-bADpasswords](https://github.com/improsec/Get-bADpasswords) - Get insights into the actual strength and quality of passwords in Active Directory.
 - [gtworek/PSBits](https://github.com/gtworek/PSBits) - Simple (relatively) things allowing you to dig a bit deeper than usual.
 - [jdhitsolutions/PSClock](https://github.com/jdhitsolutions/PSClock) - :watch: A set of PowerShell commands for creating and managing a transparent WPF-based clock that runs on your Windows desktop.
 - [SP3269/posh-jwt](https://github.com/SP3269/posh-jwt) - JWT (JSON Web Tokens) implementation in Powershell
