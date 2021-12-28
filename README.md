@@ -291,6 +291,7 @@
 
 ## PowerShell 
 
+- [HardenAD/SecureAD](https://github.com/HardenAD/SecureAD) - Hardening Active Directory version 2
 - [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
 - [improsec/Get-bADpasswords](https://github.com/improsec/Get-bADpasswords) - Get insights into the actual strength and quality of passwords in Active Directory.
 - [gtworek/PSBits](https://github.com/gtworek/PSBits) - Simple (relatively) things allowing you to dig a bit deeper than usual.
@@ -562,7 +563,7 @@
 ## Shell 
 
 - [hassio-addons/addon-matrix](https://github.com/hassio-addons/addon-matrix) - Matrix - Home Assistant Community Add-ons
-- [pfelk/pfelk](https://github.com/pfelk/pfelk) - pfSense/OPNsense + ELK
+- [pfelk/pfelk](https://github.com/pfelk/pfelk) - pfSense/OPNsense + Elastic Stack
 - [LibrePhotos/librephotos-linux](https://github.com/LibrePhotos/librephotos-linux) - Here you can find the installation script for a local Linux install.
 - [ej52/proxmox-scripts](https://github.com/ej52/proxmox-scripts) - 
 - [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
