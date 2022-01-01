@@ -216,6 +216,7 @@
 
 ## Others 
 
+- [arallsopp/hass-hue-icons](https://github.com/arallsopp/hass-hue-icons) - Additional vector icons for home assistant to model Philips  Hue bulbs and fixtures.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [mauran/API-Danmark](https://github.com/mauran/API-Danmark) - 🇩🇰 Liste over danske API'er
 - [siemucsm/siemucsm](https://github.com/siemucsm/siemucsm) - SIEM USE Case Selection Methodology
