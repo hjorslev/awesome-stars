@@ -564,6 +564,7 @@
 
 ## Shell 
 
+- [StamusNetworks/SELKS](https://github.com/StamusNetworks/SELKS) - A Suricata based IDS/IPS/NSM distro
 - [hassio-addons/addon-matrix](https://github.com/hassio-addons/addon-matrix) - Matrix - Home Assistant Community Add-ons
 - [pfelk/pfelk](https://github.com/pfelk/pfelk) - pfSense/OPNsense + Elastic Stack
 - [LibrePhotos/librephotos-linux](https://github.com/LibrePhotos/librephotos-linux) - Here you can find the installation script for a local Linux install.
