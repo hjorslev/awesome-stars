@@ -53,6 +53,7 @@
 
 ## C# # 
 
+- [jborean93/PSOpenAD](https://github.com/jborean93/PSOpenAD) - 
 - [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) - The main repository for the development of the evolution game Thrive.
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that pushes the boundaries of the platform.
 - [PowerShell/SecretManagement](https://github.com/PowerShell/SecretManagement) - PowerShell module to consistent usage of secrets through different extension vaults
@@ -90,7 +91,7 @@
 ## C++ 
 
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV, SRT and GB28181.
+- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV and SRT.
 - [arvidn/libtorrent](https://github.com/arvidn/libtorrent) - an efficient feature complete C++ bittorrent implementation
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [chrxh/alien](https://github.com/chrxh/alien) - alien is a CUDA-powered artificial life simulation program.
@@ -523,6 +524,7 @@
 
 ## Python 
 
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted open source website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change. Open source web page change detection - Now also includes XPATH and JSON API change detection and monitoring support!
 - [fuatakgun/eufy_security](https://github.com/fuatakgun/eufy_security) - Home Assistant integration to manage Eufy Security devices as cameras, home base stations, doorbells, motion and contact sensors.
 - [JonasPed/homeassistant-eloverblik](https://github.com/JonasPed/homeassistant-eloverblik) - Home Assistant Custom Component showing data from eloverblik.dk
 - [legrego/homeassistant-elasticsearch](https://github.com/legrego/homeassistant-elasticsearch) - Publish Home-Assistant events to Elasticsearch
