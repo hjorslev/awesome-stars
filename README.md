@@ -31,6 +31,7 @@
   - [SQF](#sqf)
   - [Sass](#sass)
   - [Shell](#shell)
+  - [Smarty](#smarty)
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [UnrealScript](#unrealscript)
@@ -358,7 +359,7 @@
 - [keithbabinec/PowerShellCiPipelineStarterKit](https://github.com/keithbabinec/PowerShellCiPipelineStarterKit) - A minimal PowerShell script module starter with Azure DevOps CI Pipeline configuration.
 - [keithbabinec/PowerShellModuleStarterKit](https://github.com/keithbabinec/PowerShellModuleStarterKit) - A starter kit for new PowerShell script modules including unit tests.
 - [PowershellFrameworkCollective/PSModuleDevelopment](https://github.com/PowershellFrameworkCollective/PSModuleDevelopment) - Provides tools that help with module development
-- [sqlcollaborative/dbatools](https://github.com/sqlcollaborative/dbatools) - 🚀 SQL Server automation and instance migrations have never been safer, faster or freer
+- [dataplat/dbatools](https://github.com/dataplat/dbatools) - 🚀 SQL Server automation and instance migrations have never been safer, faster or freer
 - [kevinblumenfeld/Posh365](https://github.com/kevinblumenfeld/Posh365) - Connect. Provision. Maintain.
 - [PoShLog/PoShLog](https://github.com/PoShLog/PoShLog) - :nut_and_bolt:  PoShLog is PowerShell cross-platform logging module. It allows you to log structured event data into console, file and much more places easily. It's built upon great C# logging library Serilog - https://serilog.net/
 - [mandiant/flare-vm](https://github.com/mandiant/flare-vm) - 
@@ -525,6 +526,7 @@
 
 ## Python 
 
+- [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted open source website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change. Open source web page change detection - Now also includes XPATH and JSON API change detection and monitoring support!
 - [fuatakgun/eufy_security](https://github.com/fuatakgun/eufy_security) - Home Assistant integration to manage Eufy Security devices as cameras, home base stations, doorbells, motion and contact sensors.
 - [JonasPed/homeassistant-eloverblik](https://github.com/JonasPed/homeassistant-eloverblik) - Home Assistant Custom Component showing data from eloverblik.dk
@@ -589,13 +591,17 @@
 - [pi-hole/PADD](https://github.com/pi-hole/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 
+## Smarty 
+
+- [Shadowss/TravianZ](https://github.com/Shadowss/TravianZ) - Travian T3.6 , BEST VERSION EVER | Server restarted ! Speed 50x , Troops 50x.
+
 ## TeX 
 
 - [david-christiansen/itu-thesis](https://github.com/david-christiansen/itu-thesis) - A highly unofficial, still experimental LaTeX document class for ITU M.Sc. and Ph.D. theses and dissertations
 
 ## TypeScript 
 
-- [PiotrMachowski/lovelace-xiaomi-vacuum-map-card](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card) - This card provides a user-friendly way to fully control Xiaomi (and possibly other) vacuums in Home Assistant.
+- [PiotrMachowski/lovelace-xiaomi-vacuum-map-card](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card) - This card provides a user-friendly way to fully control Xiaomi (Roborock/Viomi/Dreame/Roidmi) and Neato (+ possibly other) vacuums in Home Assistant.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
