@@ -35,6 +35,7 @@
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [UnrealScript](#unrealscript)
+  - [Vim script](#vim-script)
   - [Visual Basic .NET](#visual-basic-.net)
   - [Vue](#vue)
 
@@ -159,6 +160,7 @@
 
 ## JavaScript 
 
+- [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
@@ -261,6 +263,8 @@
 
 ## PHP 
 
+- [jstar88/opbe](https://github.com/jstar88/opbe) - Ogame probabilistic battle engine
+- [supernova-ws/SuperNova](https://github.com/supernova-ws/SuperNova) - oGame-like browser sci-fi space strategy
 - [RackTables/racktables](https://github.com/RackTables/racktables) - RackTables current development repository
 - [statamic/cms](https://github.com/statamic/cms) - Statamic 3: The Core Composer Package
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
@@ -553,6 +557,7 @@
 
 ## Rust 
 
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
@@ -604,6 +609,7 @@
 
 ## TypeScript 
 
+- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [PiotrMachowski/lovelace-xiaomi-vacuum-map-card](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card) - This card provides a user-friendly way to fully control Xiaomi (Roborock/Viomi/Dreame/Roidmi) and Neato (+ possibly other) vacuums in Home Assistant.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
@@ -632,6 +638,10 @@
 - [eezstreet/SWATEliteForce](https://github.com/eezstreet/SWATEliteForce) - A modification for SWAT 4: The Stetchkov Syndicate
 - [Xinecraft/SWAT-Vote](https://github.com/Xinecraft/SWAT-Vote) - SWAT4 Voting Mod By Xinecraft
 - [sergeii/swat-gs2](https://github.com/sergeii/swat-gs2) - SWAT4 GameSpy v2 protocol query listener
+
+## Vim script 
+
+- [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
 
 ## Visual Basic .NET 
 
