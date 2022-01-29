@@ -57,7 +57,7 @@
 
 - [jborean93/PSOpenAD](https://github.com/jborean93/PSOpenAD) - 
 - [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) - The main repository for the development of the evolution game Thrive.
-- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that pushes the boundaries of the platform.
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
 - [PowerShell/SecretManagement](https://github.com/PowerShell/SecretManagement) - PowerShell module to consistent usage of secrets through different extension vaults
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [olefriis/Eco2](https://github.com/olefriis/Eco2) - Take control of your Danfoss Eco™ 2 thermostats!
@@ -532,6 +532,7 @@
 
 ## Python 
 
+- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted open source website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change. Open source web page change detection - Now also includes XPATH and JSON API change detection and monitoring support!
 - [fuatakgun/eufy_security](https://github.com/fuatakgun/eufy_security) - Home Assistant integration to manage Eufy Security devices as cameras, home base stations, doorbells, motion and contact sensors.
