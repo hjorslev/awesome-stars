@@ -372,7 +372,7 @@
 - [proxb/PoshRSJob](https://github.com/proxb/PoshRSJob) - Provides an alternative to PSjobs with greater performance and less overhead to run commands in the background, freeing up the console and allowing throttling on the jobs.
 - [majkinetor/posh](https://github.com/majkinetor/posh) - Powershell modules and functions by majkinetor
 - [AutomationStudyGroup/Homework](https://github.com/AutomationStudyGroup/Homework) - Homework
-- [TheTaylorLee/AdminToolbox](https://github.com/TheTaylorLee/AdminToolbox) - Repository for the AdminToolbox PowerShell Module
+- [TheTaylorLee/AdminToolbox](https://github.com/TheTaylorLee/AdminToolbox) - Repository for the AdminToolbox PowerShell Modules
 - [SteffenBlake/PowershellOauth](https://github.com/SteffenBlake/PowershellOauth) - An extremely simple lightweight standalone Powershell script that lets you perform OAuth in the command line
 - [EvotecIT/PSPublishModule](https://github.com/EvotecIT/PSPublishModule) - 
 - [blindzero/Connect-MS365](https://github.com/blindzero/Connect-MS365) - Powershell module to connect to all MS365 services and install required modules or packages.
