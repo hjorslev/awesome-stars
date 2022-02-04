@@ -263,6 +263,7 @@
 
 ## PHP 
 
+- [Yaro2709/New-Star](https://github.com/Yaro2709/New-Star) - Web. browser game engine :)
 - [jstar88/opbe](https://github.com/jstar88/opbe) - Ogame probabilistic battle engine
 - [supernova-ws/SuperNova](https://github.com/supernova-ws/SuperNova) - oGame-like browser sci-fi space strategy
 - [RackTables/racktables](https://github.com/RackTables/racktables) - RackTables current development repository
