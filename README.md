@@ -270,6 +270,7 @@
 
 ## PHP 
 
+- [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
 - [Yaro2709/New-Star](https://github.com/Yaro2709/New-Star) - Web. browser game engine :)
 - [jstar88/opbe](https://github.com/jstar88/opbe) - Ogame probabilistic battle engine
 - [supernova-ws/SuperNova](https://github.com/supernova-ws/SuperNova) - oGame-like browser sci-fi space strategy
