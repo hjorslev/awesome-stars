@@ -148,7 +148,6 @@
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [SorkinType/Merriweather](https://github.com/SorkinType/Merriweather) - Merriweather is a serif typeface. It is offered in Variable font format and static formats ( OTF, TTF WOFF etc).
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-- [LRvdLinden/homeassistant-config](https://github.com/LRvdLinden/homeassistant-config) - 🏠 By LRvdLinden -- My Home Assistant configuration. Be sure to 🌟 this repository for updates!
 - [AaronDinnage/Licensing](https://github.com/AaronDinnage/Licensing) - Microsoft 365 licensing diagrams
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
