@@ -308,6 +308,7 @@
 
 ## PowerShell 
 
+- [ConfigJon/Firmware-Management](https://github.com/ConfigJon/Firmware-Management) - Firmware and BIOS management scripts.
 - [mmims/PSUtilities](https://github.com/mmims/PSUtilities) - Collection of PowerShell utility scripts.
 - [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - Mega collection of 250+ useful cross-platform PowerShell scripts.
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
