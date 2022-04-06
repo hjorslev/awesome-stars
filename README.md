@@ -66,7 +66,7 @@
 - [SeeminglyScience/EditorServicesCommandSuite](https://github.com/SeeminglyScience/EditorServicesCommandSuite) - Collection of editor commands for use in PowerShell Editor Services.
 - [AdhocAdam/smletsexchangeconnector](https://github.com/AdhocAdam/smletsexchangeconnector) - SMLets PowerShell based Exchange Connector for controlling Microsoft System Center Service Manager 2016+
 - [PowerShell/GraphicalTools](https://github.com/PowerShell/GraphicalTools) - Modules that mix PowerShell and GUIs/CUIs! - built on Avalonia and gui.cs
-- [gerardog/gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows - run elevated without spawning a new Console Host Window
+- [gerardog/gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows
 - [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine) - A bash inspired readline implementation for PowerShell
 - [microsoft/PSRule](https://github.com/microsoft/PSRule) - Validate infrastructure as code (IaC) and objects using PowerShell rules.
 - [powercode/PSParallel](https://github.com/powercode/PSParallel) - PowerShell module to invoke scriptblocks in parallel runspaces
