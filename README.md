@@ -161,6 +161,7 @@
 
 ## JavaScript 
 
+- [kasuganosoras/SuperMicro-IPMI-LicenseGenerator](https://github.com/kasuganosoras/SuperMicro-IPMI-LicenseGenerator) - 🔑 SuperMicro 超微主板 IPMI 高级功能授权解锁 Key 生成工具
 - [okaybenji/text-engine](https://github.com/okaybenji/text-engine) - A browser-based text adventure game engine and sample game
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
@@ -390,7 +391,7 @@
 - [AutomationStudyGroup/Homework](https://github.com/AutomationStudyGroup/Homework) - Homework
 - [TheTaylorLee/AdminToolbox](https://github.com/TheTaylorLee/AdminToolbox) - Repository for the AdminToolbox PowerShell Modules
 - [SteffenBlake/PowershellOauth](https://github.com/SteffenBlake/PowershellOauth) - An extremely simple lightweight standalone Powershell script that lets you perform OAuth in the command line
-- [EvotecIT/PSPublishModule](https://github.com/EvotecIT/PSPublishModule) - 
+- [EvotecIT/PSPublishModule](https://github.com/EvotecIT/PSPublishModule) - This module is a module builder helper that helps build PowerShell modules "Evotec way". It allows us to make sure our modules are built the same way every time making the process really easy to build and publish new versions.
 - [blindzero/Connect-MS365](https://github.com/blindzero/Connect-MS365) - Powershell module to connect to all MS365 services and install required modules or packages.
 - [JanDeDobbeleer/oh-my-posh2](https://github.com/JanDeDobbeleer/oh-my-posh2) - A prompt theming engine for Powershell
 - [thomas-illiet/Sandbox](https://github.com/thomas-illiet/Sandbox) - This module provides a PowerShell wrapper for the Windows Sanbox.
