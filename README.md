@@ -55,6 +55,7 @@
 
 ## C# # 
 
+- [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Download ScriptAnalyzer from PowerShellGallery
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 - [jborean93/PSOpenAD](https://github.com/jborean93/PSOpenAD) - 
 - [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) - The main repository for the development of the evolution game Thrive.
