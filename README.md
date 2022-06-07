@@ -280,6 +280,7 @@
 
 ## PHP 
 
+- [verza22/glarium](https://github.com/verza22/glarium) - Ikariam clone
 - [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
 - [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while ex
 - [Yaro2709/New-Star](https://github.com/Yaro2709/New-Star) - Web. browser game engine :)
