@@ -130,6 +130,7 @@
 
 ## Go 
 
+- [lkarlslund/adalanche](https://github.com/lkarlslund/adalanche) - Active Directory ACL Visualizer and Explorer - who's really Domain Admin?
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
@@ -522,7 +523,7 @@
 - [ironmansoftware/poshud](https://github.com/ironmansoftware/poshud) - Dashboard used for Poshud.com
 - [My-Random-Thoughts/QA-Checks-v4](https://github.com/My-Random-Thoughts/QA-Checks-v4) - PowerShell scripts to ensure consistent and reliable build quality and configuration for your servers
 - [poshbotio/PoshBot](https://github.com/poshbotio/PoshBot) - Powershell-based bot framework
-- [fresh2dev/AnyBox](https://github.com/fresh2dev/AnyBox) - Designed to facilitate script input/output with an easily customizable WPF window.
+- [fresh2dev/AnyBox](https://github.com/fresh2dev/AnyBox) - The easiest way to develop apps for Windows.
 - [MSAdministrator/TemplatePowerShellModule](https://github.com/MSAdministrator/TemplatePowerShellModule) - A Template PowerShell Module
 - [adamdriscoll/selenium-powershell](https://github.com/adamdriscoll/selenium-powershell) - PowerShell module to run a Selenium WebDriver.
 - [NathanTheGr8/SCCMPackageAutomation](https://github.com/NathanTheGr8/SCCMPackageAutomation) - A Powershell Module for SCCM Package Automation
