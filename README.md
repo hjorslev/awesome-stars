@@ -19,6 +19,7 @@
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
 - [Others](#others)
@@ -227,6 +228,10 @@
 - [ToxicRevolution/CSGORankMeWeb](https://github.com/ToxicRevolution/CSGORankMeWeb) - Web interface for Rank Me CSGO Stat tracking plugin
 - [alexcroox/Arsenal.js](https://github.com/alexcroox/Arsenal.js) - Arma 3 Virtual Arsenal in Javascript
 
+## Jinja 
+
+- [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
+
 ## Jupyter Notebook 
 
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
@@ -292,7 +297,7 @@
 - [jstar88/opbe](https://github.com/jstar88/opbe) - Ogame probabilistic battle engine
 - [supernova-ws/SuperNova](https://github.com/supernova-ws/SuperNova) - oGame-like browser sci-fi space strategy
 - [RackTables/racktables](https://github.com/RackTables/racktables) - RackTables current development repository
-- [statamic/cms](https://github.com/statamic/cms) - Statamic 3: The Core Composer Package
+- [statamic/cms](https://github.com/statamic/cms) - The core Laravel CMS Composer package
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [mchekin/rpg](https://github.com/mchekin/rpg) - Online Role Playing Game (based on Laravel)
 - [osTicket/osTicket](https://github.com/osTicket/osTicket) - The osTicket open source ticketing system official project repository, for versions 1.8 and later
