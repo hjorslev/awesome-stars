@@ -156,6 +156,7 @@
 ## HTML 
 
 - [cartographia/geospatial-intelligence-library](https://github.com/cartographia/geospatial-intelligence-library) - 🛰 Your geospatial intelligence tool belt for digital investigations
+- [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 - [xvvvyz/tilde](https://github.com/xvvvyz/tilde) - Minimal browser startpage.
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [SorkinType/Merriweather](https://github.com/SorkinType/Merriweather) - Merriweather is a serif typeface. It is offered in Variable font format and static formats ( OTF, TTF WOFF etc).
@@ -209,6 +210,7 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [ShinobiCCTV/Shinobi](https://github.com/ShinobiCCTV/Shinobi) - :zap: Shinobi Pro - The Next Generation in Open-Source Video Management Software with support for over 6000 IP and USB Cameras
 - [pawelgrzybek/snippet-generator](https://github.com/pawelgrzybek/snippet-generator) - Snippet generator for Visual Studio Code, Sublime Text and Atom
+- [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [emmabostian/react-button](https://github.com/emmabostian/react-button) - Created with CodeSandbox
 - [ebekker/pwsh-github-action-base](https://github.com/ebekker/pwsh-github-action-base) - Base support for implementing GitHub Actions in PowerShell
 - [andreasbm/web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
@@ -252,7 +254,6 @@
 - [6mile/DevSecOps-Playbook](https://github.com/6mile/DevSecOps-Playbook) - This is a step-by-step guide to implementing a DevSecOps program for any size organization
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
-- [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 - [arallsopp/hass-hue-icons](https://github.com/arallsopp/hass-hue-icons) - Additional vector icons for home assistant to model Philips  Hue bulbs and fixtures.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [mauran/API-Danmark](https://github.com/mauran/API-Danmark) - 🇩🇰 Liste over danske API'er
@@ -611,7 +612,6 @@
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
-- [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 
 ## SCSS 
 
