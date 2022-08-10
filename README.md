@@ -37,7 +37,6 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [UnrealScript](#unrealscript)
-- [Vim script](#vim-script)
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 
@@ -243,6 +242,7 @@
 
 ## Lua 
 
+- [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 
 ## Others 
@@ -692,10 +692,6 @@
 - [eezstreet/SWATEliteForce](https://github.com/eezstreet/SWATEliteForce) - A modification for SWAT 4: The Stetchkov Syndicate
 - [Xinecraft/SWAT-Vote](https://github.com/Xinecraft/SWAT-Vote) - SWAT4 Voting Mod By Xinecraft
 - [sergeii/swat-gs2](https://github.com/sergeii/swat-gs2) - SWAT4 GameSpy v2 protocol query listener
-
-## Vim script 
-
-- [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
 
 ## Visual Basic .NET 
 
