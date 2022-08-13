@@ -435,7 +435,7 @@
 - [ryan-leap/ShapeArray](https://github.com/ryan-leap/ShapeArray) - Produces an array (with optional embedded text) which can be used for formatting console output
 - [mithrandyr/SimplySql](https://github.com/mithrandyr/SimplySql) - PowerShell module for querying various SQL databases
 - [jdhitsolutions/PSBackup](https://github.com/jdhitsolutions/PSBackup) - A collection of PowerShell scripts and functions that I use to backup key files and folders.
-- [alt3/Docusaurus.PowerShell](https://github.com/alt3/Docusaurus.PowerShell) - Docusaurus websites for Powershell modules
+- [alt3/Docusaurus.PowerShell](https://github.com/alt3/Docusaurus.PowerShell) - Docusaurus websites for PowerShell modules
 - [techthoughts2/Catesta](https://github.com/techthoughts2/Catesta) - Catesta is a PowerShell module project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.
 - [techthoughts2/PSGalleryExplorer](https://github.com/techthoughts2/PSGalleryExplorer) - Search, explore, and discover PowerShell Gallery modules.
 - [gravejester/psInlineProgress](https://github.com/gravejester/psInlineProgress) - Write inline progress bars in PowerShell.
@@ -674,7 +674,7 @@
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [AitorDB/home-assistant-sun-card](https://github.com/AitorDB/home-assistant-sun-card) - Home assistant sun card based on Google weather design
 - [rbardini/resumed](https://github.com/rbardini/resumed) - 👔 Lightweight JSON Resume builder, no-frills alternative to resume-cli
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
 - [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
