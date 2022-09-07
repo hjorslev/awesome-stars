@@ -352,7 +352,7 @@
 - [Gerenios/AADInternals](https://github.com/Gerenios/AADInternals) - AADInternals PowerShell module for administering Azure AD and Office 365
 - [FriedrichWeinmann/Refactor](https://github.com/FriedrichWeinmann/Refactor) - PowerShell Code analysis and refactoring framework
 - [DarkCoderSc/PowerRemoteDesktop](https://github.com/DarkCoderSc/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell.
-- [HardenAD/SecureAD](https://github.com/HardenAD/SecureAD) - Hardening Active Directory version 2
+- [LoicVeirman/SecureAD](https://github.com/LoicVeirman/SecureAD) - Hardening Active Directory version 2
 - [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
 - [improsec/Get-bADpasswords](https://github.com/improsec/Get-bADpasswords) - Get insights into the actual strength and quality of passwords in Active Directory.
 - [gtworek/PSBits](https://github.com/gtworek/PSBits) - Simple (relatively) things allowing you to dig a bit deeper than usual.
