@@ -63,7 +63,7 @@
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 - [jborean93/PSOpenAD](https://github.com/jborean93/PSOpenAD) - 
 - [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) - The main repository for the development of the evolution game Thrive.
-- [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
 - [PowerShell/SecretManagement](https://github.com/PowerShell/SecretManagement) - PowerShell module to consistent usage of secrets through different extension vaults
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [olefriis/Eco2](https://github.com/olefriis/Eco2) - Take control of your Danfoss Eco™ 2 thermostats!
@@ -679,7 +679,7 @@
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-- [PiotrMachowski/lovelace-xiaomi-vacuum-map-card](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card) - This card provides a user-friendly way to fully control Xiaomi (Roborock/Viomi/Dreame/Roidmi) and Neato (+ possibly other) vacuums in Home Assistant.
+- [PiotrMachowski/lovelace-xiaomi-vacuum-map-card](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card) - This card provides a user-friendly way to fully control Xiaomi, Valetudo, Neato and Roomba (+ possibly other) vacuums in Home Assistant.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
