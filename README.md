@@ -155,7 +155,7 @@
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [drud/ddev](https://github.com/drud/ddev) - DDEV-Local: a local PHP development environment system
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS
 
 ## HTML 
 
@@ -343,6 +343,7 @@
 
 ## PowerShell 
 
+- [bjompen/PSSecretScanner](https://github.com/bjompen/PSSecretScanner) - Scan your repos for accidentily exposed secrets using powershell
 - [StartAutomating/PSSVG](https://github.com/StartAutomating/PSSVG) - Script SVGs with PowerShell
 - [scipag/HardeningKitty](https://github.com/scipag/HardeningKitty) - HardeningKitty - Checks and hardens your Windows configuration
 - [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests based on MITRE's ATT&CK.
