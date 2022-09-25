@@ -71,7 +71,6 @@
 - [SeeminglyScience/EditorServicesCommandSuite](https://github.com/SeeminglyScience/EditorServicesCommandSuite) - Collection of editor commands for use in PowerShell Editor Services.
 - [AdhocAdam/smletsexchangeconnector](https://github.com/AdhocAdam/smletsexchangeconnector) - SMLets PowerShell based Exchange Connector for controlling Microsoft System Center Service Manager 2016+
 - [PowerShell/GraphicalTools](https://github.com/PowerShell/GraphicalTools) - Modules that mix PowerShell and GUIs/CUIs! - built on Avalonia and gui.cs
-- [gerardog/gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows
 - [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine) - A bash inspired readline implementation for PowerShell
 - [microsoft/PSRule](https://github.com/microsoft/PSRule) - Validate infrastructure as code (IaC) and objects using PowerShell rules.
 - [powercode/PSParallel](https://github.com/powercode/PSParallel) - PowerShell module to invoke scriptblocks in parallel runspaces
@@ -159,6 +158,7 @@
 
 ## HTML 
 
+- [clong/DetectionLab](https://github.com/clong/DetectionLab) - Automate the creation of a lab environment complete with security tooling and logging best practices
 - [cartographia/geospatial-intelligence-library](https://github.com/cartographia/geospatial-intelligence-library) - 🛰 Your geospatial intelligence tool belt for digital investigations
 - [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 - [xvvvyz/tilde](https://github.com/xvvvyz/tilde) - Minimal browser startpage.
@@ -343,6 +343,10 @@
 
 ## PowerShell 
 
+- [microsoft/Microsoft365DSC](https://github.com/microsoft/Microsoft365DSC) - Manages, configures, extracts and monitors Microsoft 365 tenant configurations
+- [WazeHell/vulnerable-AD](https://github.com/WazeHell/vulnerable-AD) - Create a vulnerable active directory that's allowing you to test most of the active directory attacks in a local lab
+- [S3cur3Th1sSh1t/WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn) - Automation for internal Windows Penetrationtest / AD-Security
+- [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) - Module template with build pipeline and examples, including DSC elements.
 - [bjompen/PSSecretScanner](https://github.com/bjompen/PSSecretScanner) - Scan your repos for accidentily exposed secrets using powershell
 - [StartAutomating/PSSVG](https://github.com/StartAutomating/PSSVG) - Script SVGs with PowerShell
 - [scipag/HardeningKitty](https://github.com/scipag/HardeningKitty) - HardeningKitty - Checks and hardens your Windows configuration
@@ -585,6 +589,7 @@
 
 ## Python 
 
+- [Porchetta-Industries/CrackMapExec](https://github.com/Porchetta-Industries/CrackMapExec) - A swiss army knife for pentesting networks
 - [MTrab/energidataservice](https://github.com/MTrab/energidataservice) - Fetches spot prices from Energi Data Service
 - [custom-components/nordpool](https://github.com/custom-components/nordpool) - nordpool sensor for ha.
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
@@ -621,6 +626,7 @@
 
 ## Rust 
 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
