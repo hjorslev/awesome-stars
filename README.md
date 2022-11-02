@@ -361,7 +361,7 @@
 - [soteria-security/365Inspect](https://github.com/soteria-security/365Inspect) - A PowerShell script that automates the security assessment of Microsoft Office 365 environments.
 - [ConfigJon/Firmware-Management](https://github.com/ConfigJon/Firmware-Management) - Firmware and BIOS management scripts.
 - [mmims/PSUtilities](https://github.com/mmims/PSUtilities) - Collection of PowerShell utility scripts.
-- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - Mega collection of 400+ useful cross-platform PowerShell scripts.
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - Mega collection of 500+ useful cross-platform PowerShell scripts.
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [Gerenios/AADInternals](https://github.com/Gerenios/AADInternals) - AADInternals PowerShell module for administering Azure AD and Office 365
 - [FriedrichWeinmann/Refactor](https://github.com/FriedrichWeinmann/Refactor) - PowerShell Code analysis and refactoring framework
@@ -686,7 +686,7 @@
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [PiotrMachowski/lovelace-xiaomi-vacuum-map-card](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card) - This card provides a user-friendly way to fully control Xiaomi, Valetudo, Neato and Roomba (+ possibly other) vacuums in Home Assistant.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
