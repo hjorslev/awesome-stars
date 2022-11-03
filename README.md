@@ -154,7 +154,7 @@
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [drud/ddev](https://github.com/drud/ddev) - Docker-based local PHP+Node.js web development environments
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 ## HTML 
 
@@ -345,6 +345,7 @@
 
 ## PowerShell 
 
+- [TobiasPSP/Modules.PsoProgressButton](https://github.com/TobiasPSP/Modules.PsoProgressButton) - Easy access to taskbar button animation such as progress bar or colorization
 - [santisq/PSTree](https://github.com/santisq/PSTree) - tree like function for PowerShell
 - [microsoft/Microsoft365DSC](https://github.com/microsoft/Microsoft365DSC) - Manages, configures, extracts and monitors Microsoft 365 tenant configurations
 - [WazeHell/vulnerable-AD](https://github.com/WazeHell/vulnerable-AD) - Create a vulnerable active directory that's allowing you to test most of the active directory attacks in a local lab
