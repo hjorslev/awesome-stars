@@ -35,6 +35,7 @@
 - [Sass](#sass)
 - [Shell](#shell)
 - [Smarty](#smarty)
+- [Svelte](#svelte)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [UnrealScript](#unrealscript)
@@ -188,7 +189,6 @@
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [andreypopov/node-red-contrib-miio-roborock](https://github.com/andreypopov/node-red-contrib-miio-roborock) - Xioami Roborock node-red nodes
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Open source cloud replacement for vacuum robots enabling local-only operation
@@ -540,7 +540,7 @@
 - [rgel/PowerShell](https://github.com/rgel/PowerShell) - Must-have PowerShell scripts and modules
 - [MSAdministrator/PPRT](https://github.com/MSAdministrator/PPRT) - This module is used to report phishing URLs to their WHOIS/RDAP abuse contact information.
 - [MicrosoftDocs/Virtualization-Documentation](https://github.com/MicrosoftDocs/Virtualization-Documentation) - Place to store our documentation, code samples, etc for public consumption.
-- [anpur/powershellget-module](https://github.com/anpur/powershellget-module) - Unofficial example of PowerShellGet-friendly package. How to create, publish and use.
+- [apurin/powershellget-module](https://github.com/apurin/powershellget-module) - Unofficial example of PowerShellGet-friendly package. How to create, publish and use.
 - [whistler-consulting/LenovoInfo](https://github.com/whistler-consulting/LenovoInfo) - Powershell module to determine Lenovo device warranty status
 - [RamblingCookieMonster/PSDepend](https://github.com/RamblingCookieMonster/PSDepend) - PowerShell Dependency Handler
 - [EvotecIT/PSSharedGoods](https://github.com/EvotecIT/PSSharedGoods) - PSSharedGoods is little PowerShell Module that primary purpose is to be useful for multiple tasks, unrelated to each other. I've created this module as “a glue” between my other modules.
@@ -680,6 +680,10 @@
 ## Smarty 
 
 - [Shadowss/TravianZ](https://github.com/Shadowss/TravianZ) - Travian T3.6 , BEST VERSION EVER | Server restarted ! Speed 50x , Troops 50x.
+
+## Svelte 
+
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
 
 ## TeX 
 
