@@ -35,7 +35,6 @@
 - [Sass](#sass)
 - [Shell](#shell)
 - [Smarty](#smarty)
-- [Svelte](#svelte)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [UnrealScript](#unrealscript)
@@ -681,10 +680,6 @@
 
 - [Shadowss/TravianZ](https://github.com/Shadowss/TravianZ) - Travian T3.6 , BEST VERSION EVER | Server restarted ! Speed 50x , Troops 50x.
 
-## Svelte 
-
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
-
 ## TeX 
 
 - [david-christiansen/itu-thesis](https://github.com/david-christiansen/itu-thesis) - A highly unofficial, still experimental LaTeX document class for ITU M.Sc. and Ph.D. theses and dissertations
@@ -698,6 +693,7 @@
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [PiotrMachowski/lovelace-xiaomi-vacuum-map-card](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card) - This card provides a user-friendly way to fully control Xiaomi, Valetudo, Neato and Roomba (+ possibly other) vacuums in Home Assistant.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 - [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell) - Provides PowerShell language and debugging support for Visual Studio Code
