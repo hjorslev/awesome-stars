@@ -343,6 +343,7 @@
 
 ## PowerShell 
 
+- [LxLeChat/ConvertToPSClass](https://github.com/LxLeChat/ConvertToPSClass) - Convert PSObject to PS Classes. I'm using it to create PS Classes from Json strings.
 - [12Knocksinna/Office365itpros](https://github.com/12Knocksinna/Office365itpros) - Office 365 for IT Pros PowerShell examples
 - [mdgrs-mei/FancyClearHost](https://github.com/mdgrs-mei/FancyClearHost) - Clears your PowerShell host in a fancy way.
 - [EvotecIT/PSPGP](https://github.com/EvotecIT/PSPGP) - PSPGP is a PowerShell module that provides PGP functionality in PowerShell. It allows encrypting and decrypting files/folders and strings using PGP.
