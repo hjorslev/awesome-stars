@@ -595,6 +595,7 @@
 
 ## Python 
 
+- [tohojo/flent](https://github.com/tohojo/flent) - The FLExible Network Tester.
 - [Porchetta-Industries/CrackMapExec](https://github.com/Porchetta-Industries/CrackMapExec) - A swiss army knife for pentesting networks
 - [MTrab/energidataservice](https://github.com/MTrab/energidataservice) - Fetches spot prices from Energi Data Service
 - [custom-components/nordpool](https://github.com/custom-components/nordpool) - nordpool sensor for ha.
