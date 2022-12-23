@@ -279,7 +279,7 @@
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [OyvindSabo/gremlin-style-guide](https://github.com/OyvindSabo/gremlin-style-guide) - A style guide for the Gremlin query language
 - [zenika-open-source/promote-open-source-project](https://github.com/zenika-open-source/promote-open-source-project) - 📄 How to promote my open source project?
-- [bennettsharon/MS-Azure-Study-Guides](https://github.com/bennettsharon/MS-Azure-Study-Guides) - 
+- [bennettsharon/AZ-Study-Guides](https://github.com/bennettsharon/AZ-Study-Guides) - 
 - [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - :symbols: A collection of GitHub issue and pull request templates
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
