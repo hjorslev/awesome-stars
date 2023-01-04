@@ -598,7 +598,7 @@
 - [tohojo/flent](https://github.com/tohojo/flent) - The FLExible Network Tester.
 - [Porchetta-Industries/CrackMapExec](https://github.com/Porchetta-Industries/CrackMapExec) - A swiss army knife for pentesting networks
 - [MTrab/energidataservice](https://github.com/MTrab/energidataservice) - Fetches spot prices from Energi Data Service
-- [custom-components/nordpool](https://github.com/custom-components/nordpool) - nordpool sensor for ha.
+- [custom-components/nordpool](https://github.com/custom-components/nordpool) - This component allows you to pull in the energy prices into Home-Assistant.
 - [locustio/locust](https://github.com/locustio/locust) - Scalable load testing tool written in Python
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [MTrab/HAConfig](https://github.com/MTrab/HAConfig) - My Home Assistant Configuration
