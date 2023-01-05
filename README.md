@@ -250,6 +250,8 @@
 
 ## Others 
 
+- [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [lamw/homelab](https://github.com/lamw/homelab) - VMware Community Homelabs
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [Nickyie/Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources) - A Library of various cybersecurity resources
@@ -343,6 +345,8 @@
 
 ## PowerShell 
 
+- [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Graphics (AMD/NVIDIA/Intel ARC), Software Apps, and Resources.
+- [builtbybel/bloatbox](https://github.com/builtbybel/bloatbox) - ☑️🌠 Remove Bloatwares from Windows 10
 - [LxLeChat/ConvertToPSClass](https://github.com/LxLeChat/ConvertToPSClass) - Convert PSObject to PS Classes. I'm using it to create PS Classes from Json strings.
 - [12Knocksinna/Office365itpros](https://github.com/12Knocksinna/Office365itpros) - Office 365 for IT Pros PowerShell examples
 - [mdgrs-mei/FancyClearHost](https://github.com/mdgrs-mei/FancyClearHost) - Clears your PowerShell host in a fancy way.
