@@ -63,7 +63,7 @@
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 - [jborean93/PSOpenAD](https://github.com/jborean93/PSOpenAD) - 
 - [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) - The main repository for the development of the evolution game Thrive.
-- [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [PowerShell/SecretManagement](https://github.com/PowerShell/SecretManagement) - PowerShell module to consistent usage of secrets through different extension vaults
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [olefriis/Eco2](https://github.com/olefriis/Eco2) - Take control of your Danfoss Eco™ 2 thermostats!
@@ -159,6 +159,7 @@
 
 ## HTML 
 
+- [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [clong/DetectionLab](https://github.com/clong/DetectionLab) - Automate the creation of a lab environment complete with security tooling and logging best practices
 - [cartographia/geospatial-intelligence-library](https://github.com/cartographia/geospatial-intelligence-library) - 🛰 Your geospatial intelligence tool belt for digital investigations
 - [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
@@ -250,6 +251,7 @@
 
 ## Others 
 
+- [brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) - 🎓 Because Education should be free. Contributions welcome! 🕵️
 - [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [lamw/homelab](https://github.com/lamw/homelab) - VMware Community Homelabs
@@ -345,6 +347,11 @@
 
 ## PowerShell 
 
+- [EvotecIT/PowerBGInfo](https://github.com/EvotecIT/PowerBGInfo) - PowerBGInfo is a PowerShell module that is used to generate background information for Windows machines. It's a replacement for BGInfo that doesn't require installation and is much more flexible.
+- [adamdriscoll/pwsh-github-actions](https://github.com/adamdriscoll/pwsh-github-actions) - Examples of using PowerShell in GitHub actions
+- [PowerShellGuides/PowerShellGuide](https://github.com/PowerShellGuides/PowerShellGuide) - The Standard Repository for all PowerShell Knowledge and Wisdom
+- [Jaykul/PowerShellTemplate](https://github.com/Jaykul/PowerShellTemplate) - 
+- [quonic/weakshell](https://github.com/quonic/weakshell) - Just a few PS scripts that I use from time to time to help automate tasks.
 - [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Graphics (AMD/NVIDIA/Intel ARC), Software Apps, and Resources.
 - [builtbybel/bloatbox](https://github.com/builtbybel/bloatbox) - ☑️🌠 Remove Bloatwares from Windows 10
 - [LxLeChat/ConvertToPSClass](https://github.com/LxLeChat/ConvertToPSClass) - Convert PSObject to PS Classes. I'm using it to create PS Classes from Json strings.
