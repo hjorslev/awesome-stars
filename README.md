@@ -348,6 +348,7 @@
 
 ## PowerShell 
 
+- [psclplg/aad-guardian](https://github.com/psclplg/aad-guardian) - 
 - [EvotecIT/PowerBGInfo](https://github.com/EvotecIT/PowerBGInfo) - PowerBGInfo is a PowerShell module that is used to generate background information for Windows machines. It's a replacement for BGInfo that doesn't require installation and is much more flexible.
 - [adamdriscoll/pwsh-github-actions](https://github.com/adamdriscoll/pwsh-github-actions) - Examples of using PowerShell in GitHub actions
 - [PowerShellGuides/PowerShellGuide](https://github.com/PowerShellGuides/PowerShellGuide) - The Standard Repository for all PowerShell Knowledge and Wisdom
