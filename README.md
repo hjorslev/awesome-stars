@@ -58,6 +58,7 @@
 
 ## C# # 
 
+- [eviabs/downtify-premium](https://github.com/eviabs/downtify-premium) - Downtify is an open source Spofity downloader which makes it possible to download all your favourite songs and/or playlists directly from spotify. A Spotify Premium account is required.
 - [insomnimus/ps-dotenv](https://github.com/insomnimus/ps-dotenv) - A feature complete and unintrusive direnv for Powershell Core
 - [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Download ScriptAnalyzer from PowerShellGallery
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
@@ -146,7 +147,7 @@
 - [lkarlslund/Adalanche](https://github.com/lkarlslund/Adalanche) - Active Directory ACL Visualizer and Explorer - who's really Domain Admin? (Commerical versions available from NetSection)
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A blazing fast cross platform/shell prompt renderer
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
@@ -348,6 +349,7 @@
 
 ## PowerShell 
 
+- [NetSPI/MicroBurst](https://github.com/NetSPI/MicroBurst) - A collection of scripts for assessing Microsoft Azure security
 - [psclplg/aad-guardian](https://github.com/psclplg/aad-guardian) - 
 - [EvotecIT/PowerBGInfo](https://github.com/EvotecIT/PowerBGInfo) - PowerBGInfo is a PowerShell module that is used to generate background information for Windows machines. It's a replacement for BGInfo that doesn't require installation and is much more flexible.
 - [adamdriscoll/pwsh-github-actions](https://github.com/adamdriscoll/pwsh-github-actions) - Examples of using PowerShell in GitHub actions
