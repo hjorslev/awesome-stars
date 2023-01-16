@@ -58,6 +58,7 @@
 
 ## C# # 
 
+- [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your readi
 - [eviabs/downtify-premium](https://github.com/eviabs/downtify-premium) - Downtify is an open source Spofity downloader which makes it possible to download all your favourite songs and/or playlists directly from spotify. A Spotify Premium account is required.
 - [insomnimus/ps-dotenv](https://github.com/insomnimus/ps-dotenv) - A feature complete and unintrusive direnv for Powershell Core
 - [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Download ScriptAnalyzer from PowerShellGallery
@@ -750,6 +751,7 @@
 
 ## Vue 
 
+- [joni1802/ts3-manager](https://github.com/joni1802/ts3-manager) - A modern web interface for maintaining Teamspeak3 servers
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 
 
