@@ -674,6 +674,7 @@
 
 ## Shell 
 
+- [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [marrobHD/proxmox-tools](https://github.com/marrobHD/proxmox-tools) - 📦 A collection of stuff that I and others wrote for Proxmox 📦
 - [vlombardino/Proxmox](https://github.com/vlombardino/Proxmox) - Notes and scripts
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox Helper Scripts
