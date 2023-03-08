@@ -290,6 +290,7 @@
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [juntossomosmais/frontend-guideline](https://github.com/juntossomosmais/frontend-guideline) - 📝 Front-end Guideline by Juntos Somos Mais
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+- [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [pixelfed/docs](https://github.com/pixelfed/docs) - Pixelfed Documentation
 - [microsoft/azure-pipelines-yaml](https://github.com/microsoft/azure-pipelines-yaml) - Azure Pipelines YAML examples, templates, and community interaction
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
@@ -748,7 +749,6 @@
 - [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell) - Provides PowerShell language and debugging support for Visual Studio Code
 - [ardoq/ardoq-sdk-js](https://github.com/ardoq/ardoq-sdk-js) - A software development kit for integrating with Ardoq
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - The best platform to write and share markdown.
-- [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [AitorDB/home-assistant-sun-card](https://github.com/AitorDB/home-assistant-sun-card) - Home assistant sun card based on Google weather design
 - [rbardini/resumed](https://github.com/rbardini/resumed) - 👔 Lightweight JSON Resume builder, no-frills alternative to resume-cli
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
