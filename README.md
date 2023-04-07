@@ -265,6 +265,7 @@
 
 ## Others 
 
+- [hjorrip/Email-Redirect-Phishing-Hunt](https://github.com/hjorrip/Email-Redirect-Phishing-Hunt) - 
 - [bungle/awesome-resty](https://github.com/bungle/awesome-resty) - A List of Quality OpenResty Libraries, and Resources.
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [h5bp/server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs
