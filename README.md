@@ -378,7 +378,7 @@
 - [PowerShellGuides/PowerShellGuide](https://github.com/PowerShellGuides/PowerShellGuide) - The Standard Repository for all PowerShell Knowledge and Wisdom
 - [Jaykul/PowerShellTemplate](https://github.com/Jaykul/PowerShellTemplate) - 
 - [quonic/weakshell](https://github.com/quonic/weakshell) - Just a few PS scripts that I use from time to time to help automate tasks.
-- [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption,  Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
+- [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
 - [builtbybel/bloatbox](https://github.com/builtbybel/bloatbox) - ☑️🌠 Remove Bloatwares from Windows 10
 - [LxLeChat/ConvertToPSClass](https://github.com/LxLeChat/ConvertToPSClass) - Convert PSObject to PS Classes. I'm using it to create PS Classes from Json strings.
 - [12Knocksinna/Office365itpros](https://github.com/12Knocksinna/Office365itpros) - Office 365 for IT Pros PowerShell examples
