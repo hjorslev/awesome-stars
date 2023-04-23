@@ -385,7 +385,7 @@
 - [mdgrs-mei/FancyClearHost](https://github.com/mdgrs-mei/FancyClearHost) - Clears your PowerShell host in a fancy way.
 - [EvotecIT/PSPGP](https://github.com/EvotecIT/PSPGP) - PSPGP is a PowerShell module that provides PGP functionality in PowerShell. It allows encrypting and decrypting files/folders and strings using PGP.
 - [TobiasPSP/Modules.PsoProgressButton](https://github.com/TobiasPSP/Modules.PsoProgressButton) - Easy access to taskbar button animation such as progress bar or colorization
-- [santisq/PSTree](https://github.com/santisq/PSTree) - tree like function for PowerShell
+- [santisq/PSTree](https://github.com/santisq/PSTree) - tree like cmdlet for PowerShell
 - [microsoft/Microsoft365DSC](https://github.com/microsoft/Microsoft365DSC) - Manages, configures, extracts and monitors Microsoft 365 tenant configurations
 - [WazeHell/vulnerable-AD](https://github.com/WazeHell/vulnerable-AD) - Create a vulnerable active directory that's allowing you to test most of the active directory attacks in a local lab
 - [S3cur3Th1sSh1t/WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn) - Automation for internal Windows Penetrationtest / AD-Security
@@ -636,7 +636,7 @@
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [yandex/gixy](https://github.com/yandex/gixy) - Nginx configuration static analyzer
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premiere source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [tohojo/flent](https://github.com/tohojo/flent) - The FLExible Network Tester.
 - [Porchetta-Industries/CrackMapExec](https://github.com/Porchetta-Industries/CrackMapExec) - A swiss army knife for pentesting networks
