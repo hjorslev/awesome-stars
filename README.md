@@ -671,6 +671,7 @@
 
 ## Ruby 
 
+- [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [fluent/fluentd](https://github.com/fluent/fluentd) - Fluentd: Unified Logging Layer (project under CNCF)
 - [hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
 - [krlawrence/graph](https://github.com/krlawrence/graph) - Practical Gremlin - An Apache TinkerPop Tutorial
