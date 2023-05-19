@@ -265,6 +265,7 @@
 
 ## Others 
 
+- [trickest/zip](https://github.com/trickest/zip) - Monitoring the internet for new .zip domains
 - [fabionoth/awesome-cyber-security](https://github.com/fabionoth/awesome-cyber-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 - [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 - [hjorrip/Email-Redirect-Phishing-Hunt](https://github.com/hjorrip/Email-Redirect-Phishing-Hunt) - 
