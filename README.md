@@ -531,7 +531,7 @@
 - [chocolatey-community/chocolatey-packages-template](https://github.com/chocolatey-community/chocolatey-packages-template) - A template to use when setting up to create packages both manual and automatic
 - [jantari/LSUClient](https://github.com/jantari/LSUClient) - Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍💻
 - [psake/PowerShellBuild](https://github.com/psake/PowerShellBuild) - Common build tasks for psake and Invoke-Build that build and test PowerShell modules
-- [EsOsO/Logging](https://github.com/EsOsO/Logging) - Powershell Logging Module
+- [RootITUp/Logging](https://github.com/RootITUp/Logging) - Powershell Logging Module
 - [BloodHoundAD/BloodHound](https://github.com/BloodHoundAD/BloodHound) - Six Degrees of Domain Admin
 - [PowerShell/JEA](https://github.com/PowerShell/JEA) - Just Enough Administration
 - [RamblingCookieMonster/PSSQLite](https://github.com/RamblingCookieMonster/PSSQLite) - PowerShell module to query SQLite databases
