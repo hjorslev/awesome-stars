@@ -637,6 +637,7 @@
 
 ## Python 
 
+- [TKCERT/pfFocus](https://github.com/TKCERT/pfFocus) - Generate meaningful output from your pfSense configuration backup, like Markdown documentation.
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
