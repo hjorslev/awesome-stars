@@ -309,6 +309,7 @@
 - [zenika-open-source/promote-open-source-project](https://github.com/zenika-open-source/promote-open-source-project) - 📄 How to promote my open source project?
 - [bennettsharon/AZ-Study-Guides](https://github.com/bennettsharon/AZ-Study-Guides) - 
 - [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - :symbols: A collection of GitHub issue and pull request templates
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [dsccommunity/TheDSCBook](https://github.com/dsccommunity/TheDSCBook) - leanpub manuscript for The DSC Book, forever edition
@@ -486,7 +487,6 @@
 - [EvotecIT/PSPublishModule](https://github.com/EvotecIT/PSPublishModule) - This module is a module builder helper that helps build PowerShell modules "Evotec way". It allows us to make sure our modules are built the same way every time making the process really easy to build
 - [blindzero/Connect-MS365](https://github.com/blindzero/Connect-MS365) - Powershell module to connect to all MS365 services and install required modules or packages.
 - [JanDeDobbeleer/oh-my-posh2](https://github.com/JanDeDobbeleer/oh-my-posh2) - A prompt theming engine for Powershell
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [StartAutomating/EZOut](https://github.com/StartAutomating/EZOut) - EZOut is a PowerShell module to help take the pain out of writing format and types XML
 - [jfhbrook/PSeudo](https://github.com/jfhbrook/PSeudo) - Execute PowerShell commands as Administrator in Windows 10 "like sudo"
 - [rmbolger/Posh-ACME](https://github.com/rmbolger/Posh-ACME) - PowerShell module and ACME client to create certificates from Let's Encrypt (or other ACME CA)
