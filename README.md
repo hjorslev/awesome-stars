@@ -137,6 +137,7 @@
 
 ## Dart 
 
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## Dockerfile 
@@ -450,7 +451,7 @@
 - [JustinGrote/Press](https://github.com/JustinGrote/Press) - A continuous developement environment for Powershell Modules either via local development or leveraging GitHub and Github Actions
 - [T0pCyber/hawk](https://github.com/T0pCyber/hawk) - Powershell Based tool for gathering information related to O365 intrusions and potential Breaches
 - [StartAutomating/OnQ](https://github.com/StartAutomating/OnQ) - Easy Asynchronous Event-Driven Scripting with PowerShell
-- [damienvanrobaeys/PS1-To-EXE-Generator](https://github.com/damienvanrobaeys/PS1-To-EXE-Generator) - PS1 to EXE Generator: Create an EXE for your PS1 scripts
+- [damienvanrobaeys/PS1ToEXE-Generator](https://github.com/damienvanrobaeys/PS1ToEXE-Generator) - PS1 to EXE Generator: Create an EXE for your PS1 scripts
 - [steviecoaster/Uh-Oh](https://github.com/steviecoaster/Uh-Oh) - PowerShell wrapper for https://staytus.co
 - [FriedrichWeinmann/SPOTools](https://github.com/FriedrichWeinmann/SPOTools) - Sharepoint Online Utilities
 - [Badgerati/PSClass](https://github.com/Badgerati/PSClass) - PowerShell module to help determine class dependencies, and the order that you need to import them
@@ -690,7 +691,6 @@
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
 - [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 
