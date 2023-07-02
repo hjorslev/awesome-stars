@@ -185,7 +185,6 @@
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [SorkinType/Merriweather](https://github.com/SorkinType/Merriweather) - Merriweather is a serif typeface. It is offered in Variable font format and static formats ( OTF, TTF WOFF etc).
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-- [AaronDinnage/Licensing](https://github.com/AaronDinnage/Licensing) - Microsoft 365 licensing diagrams
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 - [Xainey/PSTestReport](https://github.com/Xainey/PSTestReport) - Simple Bootstrap PowerShell Test Report
@@ -251,6 +250,8 @@
 
 ## Jinja 
 
+- [robertdebock/ansible-role-rsyslog](https://github.com/robertdebock/ansible-role-rsyslog) - Install and configure rsyslog on your system.
+- [metno/ansible-role-rsyslog](https://github.com/metno/ansible-role-rsyslog) - Configuration of sending logs to one or more syslog servers.
 - [hifis-net/ansible-role-unattended-upgrades](https://github.com/hifis-net/ansible-role-unattended-upgrades) - Setup unattended-upgrades on Debian-based systems
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 
