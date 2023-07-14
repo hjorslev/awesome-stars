@@ -379,6 +379,7 @@
 
 ## PowerShell 
 
+- [mvelazc0/BadZure](https://github.com/mvelazc0/BadZure) - BadZure orchestrates the setup of Azure Active Directory tenants, populating them with diverse entities while also introducing common security misconfigurations to create vulnerable tenants with multi
 - [last-byte/PersistenceSniper](https://github.com/last-byte/PersistenceSniper) - Powershell module that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines. Made with ❤️ by @last0x00 and @dottor_morte
 - [jaols/ServiceAccountHandler](https://github.com/jaols/ServiceAccountHandler) - Handle change of windows service account passwords. Highly adapteble.
 - [S3cur3Th1sSh1t/PowerSharpPack](https://github.com/S3cur3Th1sSh1t/PowerSharpPack) - 
@@ -715,6 +716,8 @@
 
 ## Shell 
 
+- [MisterCalvin/pterodactyl-swat4-egg](https://github.com/MisterCalvin/pterodactyl-swat4-egg) - SWAT 4 egg for Pterodactyl Panel
+- [MisterCalvin/swat4-server-docker](https://github.com/MisterCalvin/swat4-server-docker) - SWAT 4 Dedicated server running inside a Docker container (with mod support)
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [marrobHD/proxmox-tools](https://github.com/marrobHD/proxmox-tools) - 📦 A collection of stuff that I and others wrote for Proxmox 📦
 - [vlombardino/Proxmox](https://github.com/vlombardino/Proxmox) - Notes and scripts
