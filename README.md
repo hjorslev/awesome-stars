@@ -233,7 +233,6 @@
 - [lukePeavey/quotable](https://github.com/lukePeavey/quotable) - Random Quotes API
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
 - [ironmansoftware/universal-dashboard](https://github.com/ironmansoftware/universal-dashboard) - Build beautiful websites with PowerShell.
-- [mqttjs/MQTT.js](https://github.com/mqttjs/MQTT.js) - The MQTT client for Node.js and the browser
 - [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
 - [pi0/clippyjs](https://github.com/pi0/clippyjs) - Add Clippy or his friends to any website for instant nostalgia
 - [WeiChiaChang/modern-js-cheatsheet](https://github.com/WeiChiaChang/modern-js-cheatsheet) - Modern-JS-Cheatsheet 繁體中文版
@@ -272,6 +271,7 @@
 
 ## Others 
 
+- [LearningKijo/KQL](https://github.com/LearningKijo/KQL) - Threat Hunting query in Microsoft 365 Defender, XDR. Provide out-of-the-box KQL hunting queries - App, Email, Identity and Endpoint.
 - [trickest/zip](https://github.com/trickest/zip) - Monitoring the internet for new .zip domains
 - [fabionoth/awesome-cyber-security](https://github.com/fabionoth/awesome-cyber-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 - [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
@@ -784,6 +784,7 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [pnp/cli-microsoft365](https://github.com/pnp/cli-microsoft365) - Manage Microsoft 365 and SharePoint Framework projects on any platform
+- [mqttjs/MQTT.js](https://github.com/mqttjs/MQTT.js) - The MQTT client for Node.js and the browser
 - [ng-bootstrap/ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) - Angular powered Bootstrap
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
