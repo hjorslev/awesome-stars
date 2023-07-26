@@ -335,6 +335,7 @@
 
 ## PHP 
 
+- [mkucej/i-librarian-free](https://github.com/mkucej/i-librarian-free) - I, Librarian - open-source version of  a PDF managing SaaS.
 - [fr0tt/benotes](https://github.com/fr0tt/benotes) - An open source self hosted notes and bookmarks taking web app.
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [verza22/glarium](https://github.com/verza22/glarium) - Ikariam clone
@@ -645,6 +646,7 @@
 
 ## Python 
 
+- [JPCERTCC/LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log
 - [GNS3/gns3-gui](https://github.com/GNS3/gns3-gui) - GNS3 Graphical Network Simulator
 - [OTRF/ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - A community-driven, open-source project to share detection logic, adversary tradecraft and resources to make detection development more efficient.
 - [ckan/ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.hu
