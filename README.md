@@ -152,6 +152,7 @@
 
 ## Go 
 
+- [Miguel-Dorta/rtsp-recorder](https://github.com/Miguel-Dorta/rtsp-recorder) - A very basic/simple RTSP recorder for Linux
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
