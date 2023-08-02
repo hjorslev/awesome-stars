@@ -252,6 +252,7 @@
 
 ## Jinja 
 
+- [maxhoesel-ansible/ansible-collection-pterodactyl](https://github.com/maxhoesel-ansible/ansible-collection-pterodactyl) - A collection to manage Pterodactyl Panel and Daemon hosts
 - [robertdebock/ansible-role-rsyslog](https://github.com/robertdebock/ansible-role-rsyslog) - Install and configure rsyslog on your system.
 - [metno/ansible-role-rsyslog](https://github.com/metno/ansible-role-rsyslog) - Configuration of sending logs to one or more syslog servers.
 - [hifis-net/ansible-role-unattended-upgrades](https://github.com/hifis-net/ansible-role-unattended-upgrades) - Setup unattended-upgrades on Debian-based systems
@@ -721,7 +722,6 @@
 
 ## Shell 
 
-- [maxhoesel-ansible/ansible-collection-pterodactyl](https://github.com/maxhoesel-ansible/ansible-collection-pterodactyl) - A collection to manage Pterodactyl Panel and Daemon hosts
 - [MisterCalvin/pterodactyl-swat4-egg](https://github.com/MisterCalvin/pterodactyl-swat4-egg) - SWAT 4 egg for Pterodactyl Panel
 - [MisterCalvin/swat4-server-docker](https://github.com/MisterCalvin/swat4-server-docker) - SWAT 4 Dedicated server running inside a Docker container (with mod support)
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
