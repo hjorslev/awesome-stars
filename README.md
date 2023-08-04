@@ -152,6 +152,7 @@
 
 ## Go 
 
+- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
 - [Miguel-Dorta/rtsp-recorder](https://github.com/Miguel-Dorta/rtsp-recorder) - A very basic/simple RTSP recorder for Linux
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
@@ -722,6 +723,7 @@
 
 ## Shell 
 
+- [infothrill/ansible-role-lynis](https://github.com/infothrill/ansible-role-lynis) - An Ansible role to install Lynis, an open source security auditing tool.
 - [MisterCalvin/pterodactyl-swat4-egg](https://github.com/MisterCalvin/pterodactyl-swat4-egg) - SWAT 4 egg for Pterodactyl Panel
 - [MisterCalvin/swat4-server-docker](https://github.com/MisterCalvin/swat4-server-docker) - SWAT 4 Dedicated server running inside a Docker container (with mod support)
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
