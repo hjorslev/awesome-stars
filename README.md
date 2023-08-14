@@ -42,6 +42,7 @@
 - [UnrealScript](#unrealscript)
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
+- [YAML](#yaml)
 
 ## Arduino 
 
@@ -813,6 +814,10 @@
 
 - [joni1802/ts3-manager](https://github.com/joni1802/ts3-manager) - A modern web interface for maintaining Teamspeak3 servers
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+
+## YAML 
+
+- [ansible-lockdown/UBUNTU22-CIS](https://github.com/ansible-lockdown/UBUNTU22-CIS) - Ansible role for Ubuntu22 CIS Baseline
 
 
 ## License
