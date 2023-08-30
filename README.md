@@ -341,6 +341,7 @@
 
 ## PHP 
 
+- [bsmithio/OPNsense-Dashboard](https://github.com/bsmithio/OPNsense-Dashboard) - A functional and useful dashboard for OPNsense that utilizes InfluxDB, Grafana, Graylog, and Telegraf.
 - [Yupy/BtiTracker-1.5.0](https://github.com/Yupy/BtiTracker-1.5.0) - BitTorrent Tracker Source
 - [mkucej/i-librarian-free](https://github.com/mkucej/i-librarian-free) - I, Librarian - open-source version of  a PDF managing SaaS.
 - [fr0tt/benotes](https://github.com/fr0tt/benotes) - An open source self hosted notes and bookmarks taking web app.
