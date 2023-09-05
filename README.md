@@ -769,6 +769,7 @@
 
 ## TypeScript 
 
+- [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - ⚡ A modern, simple, connected, and electric BitTorrent app ⚡. For mobile, desktop & server.
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
