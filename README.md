@@ -411,7 +411,7 @@
 - [TobiasPSP/Modules.PsoProgressButton](https://github.com/TobiasPSP/Modules.PsoProgressButton) - Easy access to taskbar button animation such as progress bar or colorization
 - [santisq/PSTree](https://github.com/santisq/PSTree) - tree like cmdlet for PowerShell!
 - [microsoft/Microsoft365DSC](https://github.com/microsoft/Microsoft365DSC) - Manages, configures, extracts and monitors Microsoft 365 tenant configurations
-- [WazeHell/vulnerable-AD](https://github.com/WazeHell/vulnerable-AD) - Create a vulnerable active directory that's allowing you to test most of the active directory attacks in a local lab
+- [safebuffer/vulnerable-AD](https://github.com/safebuffer/vulnerable-AD) - Create a vulnerable active directory that's allowing you to test most of the active directory attacks in a local lab
 - [S3cur3Th1sSh1t/WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn) - Automation for internal Windows Penetrationtest / AD-Security
 - [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) - Module template with build pipeline and examples, including DSC elements.
 - [bjompen/PSSecretScanner](https://github.com/bjompen/PSSecretScanner) - Scan your repos for accidentily exposed secrets using powershell
