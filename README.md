@@ -666,7 +666,7 @@
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [tohojo/flent](https://github.com/tohojo/flent) - The FLExible Network Tester.
-- [Porchetta-Industries/CrackMapExec](https://github.com/Porchetta-Industries/CrackMapExec) - A swiss army knife for pentesting networks
+- [byt3bl33d3r/CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - A swiss army knife for pentesting networks
 - [MTrab/energidataservice](https://github.com/MTrab/energidataservice) - Fetches spot prices from Energi Data Service
 - [custom-components/nordpool](https://github.com/custom-components/nordpool) - This component allows you to pull in the energy prices into Home-Assistant.
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
