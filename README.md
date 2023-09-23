@@ -12,6 +12,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Clojure](#clojure)
+- [Cypher](#cypher)
 - [D](#d)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
@@ -136,6 +137,10 @@
 
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
+
+## Cypher 
+
+- [krlawrence/graph](https://github.com/krlawrence/graph) - Practical Gremlin - An Apache TinkerPop Tutorial
 
 ## D 
 
@@ -698,7 +703,6 @@
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [fluent/fluentd](https://github.com/fluent/fluentd) - Fluentd: Unified Logging Layer (project under CNCF)
 - [hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
-- [krlawrence/graph](https://github.com/krlawrence/graph) - Practical Gremlin - An Apache TinkerPop Tutorial
 - [sottenad/jService](https://github.com/sottenad/jService) - A set of simple trivia service that serves the answers/questions pulled from jArchive
 - [dkhamsing/awesome_bot](https://github.com/dkhamsing/awesome_bot) - :white_check_mark: Validate links in awesome projects
 
