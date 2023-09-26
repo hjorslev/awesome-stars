@@ -6,13 +6,13 @@
 ## Contents
 
 - [Arduino](#arduino)
+- [AsciiDoc](#asciidoc)
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
 - [Clojure](#clojure)
-- [Cypher](#cypher)
 - [D](#d)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
@@ -48,6 +48,10 @@
 ## Arduino 
 
 - [JChristensen/ledFire_FW](https://github.com/JChristensen/ledFire_FW) - LED PWM Fire Effect using ATtiny84A (firmware)
+
+## AsciiDoc 
+
+- [krlawrence/graph](https://github.com/krlawrence/graph) - Practical Gremlin - An Apache TinkerPop Tutorial
 
 ## Batchfile 
 
@@ -137,10 +141,6 @@
 
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
-
-## Cypher 
-
-- [krlawrence/graph](https://github.com/krlawrence/graph) - Practical Gremlin - An Apache TinkerPop Tutorial
 
 ## D 
 
