@@ -64,7 +64,6 @@
 - [fooinha/nginx-json-log](https://github.com/fooinha/nginx-json-log) - Highly configurable JSON format logging per Location - nginx logging module - aka. kasha 🍲
 - [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests based on MITRE's ATT&CK.
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
-- [gtworek/PSBits](https://github.com/gtworek/PSBits) - Simple (relatively) things allowing you to dig a bit deeper than usual.
 - [nbs-system/naxsi](https://github.com/nbs-system/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Make your web services secure by default !
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
@@ -439,6 +438,7 @@
 - [LoicVeirman/SecureAD](https://github.com/LoicVeirman/SecureAD) - Hardening Active Directory version 2
 - [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
 - [improsec/Get-bADpasswords](https://github.com/improsec/Get-bADpasswords) - Get insights into the actual strength and quality of passwords in Active Directory.
+- [gtworek/PSBits](https://github.com/gtworek/PSBits) - Simple (relatively) things allowing you to dig a bit deeper than usual.
 - [jdhitsolutions/PSClock](https://github.com/jdhitsolutions/PSClock) - :watch: A set of PowerShell commands for creating and managing a transparent WPF-based clock that runs on your Windows desktop.
 - [SP3269/posh-jwt](https://github.com/SP3269/posh-jwt) - JWT (JSON Web Tokens) implementation in Powershell
 - [potatoqualitee/psmodulecache](https://github.com/potatoqualitee/psmodulecache) - This action makes caching PowerShell modules from the PowerShell Gallery easy for Linux, Windows and macOS runners.
