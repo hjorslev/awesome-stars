@@ -229,7 +229,7 @@
 - [magicsunday/webtrees-pedigree-chart](https://github.com/magicsunday/webtrees-pedigree-chart) - SVG based pedigree chart module for webtrees genealogy application.
 - [magicsunday/webtrees-descendants-chart](https://github.com/magicsunday/webtrees-descendants-chart) - SVG based descendants chart module for webtrees genealogy application.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
