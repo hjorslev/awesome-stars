@@ -350,6 +350,7 @@
 
 ## PHP 
 
+- [MISP/MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform
 - [bsmithio/OPNsense-Dashboard](https://github.com/bsmithio/OPNsense-Dashboard) - A functional and useful dashboard for OPNsense that utilizes InfluxDB, Grafana, Graylog, and Telegraf.
 - [Yupy/BtiTracker-1.5.0](https://github.com/Yupy/BtiTracker-1.5.0) - BitTorrent Tracker Source
 - [mkucej/i-librarian-free](https://github.com/mkucej/i-librarian-free) - I, Librarian - open-source version of  a PDF managing SaaS.
@@ -774,7 +775,7 @@
 
 ## TypeScript 
 
-- [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - ⚡ A modern, simple, connected, and electric BitTorrent app ⚡. For mobile, desktop & server.
+- [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - BitTorrent client ⚡. For mobile, desktop & server.
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
