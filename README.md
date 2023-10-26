@@ -191,7 +191,7 @@
 - [VulcanWM/global-css-art](https://github.com/VulcanWM/global-css-art) - 
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [clong/DetectionLab](https://github.com/clong/DetectionLab) - Automate the creation of a lab environment complete with security tooling and logging best practices
-- [adamfowlerit/msportals.io](https://github.com/adamfowlerit/msportals.io) - Microsoft Administrator Sites
+- [adamfowlerit/msportals.io](https://github.com/adamfowlerit/msportals.io) - MSPortals.io - Microsoft Administrator Sites
 - [neonpangolin/geospatial-intelligence-library](https://github.com/neonpangolin/geospatial-intelligence-library) - 🛰 Your geospatial intelligence tool belt for digital investigations
 - [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 - [xvvvyz/tilde](https://github.com/xvvvyz/tilde) - Minimal browser startpage.
@@ -264,7 +264,6 @@
 
 ## Jinja 
 
-- [maxhoesel-ansible/ansible-collection-pterodactyl](https://github.com/maxhoesel-ansible/ansible-collection-pterodactyl) - A collection to manage Pterodactyl Panel and Daemon hosts
 - [robertdebock/ansible-role-rsyslog](https://github.com/robertdebock/ansible-role-rsyslog) - Install and configure rsyslog on your system.
 - [metno/ansible-role-rsyslog](https://github.com/metno/ansible-role-rsyslog) - Configuration of sending logs to one or more syslog servers.
 - [hifis-net/ansible-role-unattended-upgrades](https://github.com/hifis-net/ansible-role-unattended-upgrades) - Setup unattended-upgrades on Debian-based systems
@@ -664,6 +663,7 @@
 
 - [JPCERTCC/LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log
 - [GNS3/gns3-gui](https://github.com/GNS3/gns3-gui) - GNS3 Graphical Network Simulator
+- [maxhoesel-ansible/ansible-collection-pterodactyl](https://github.com/maxhoesel-ansible/ansible-collection-pterodactyl) - A collection to manage Pterodactyl Panel and Daemon hosts
 - [OTRF/ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - A community-driven, open-source project to share detection logic, adversary tradecraft and resources to make detection development more efficient.
 - [ckan/ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.hu
 - [TKCERT/pfFocus](https://github.com/TKCERT/pfFocus) - Generate meaningful output from your pfSense configuration backup, like Markdown documentation.
