@@ -712,6 +712,7 @@
 
 ## Rust 
 
+- [PowerShell/DSC](https://github.com/PowerShell/DSC) - This repo is for the DSC v3 project
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
