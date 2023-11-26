@@ -211,6 +211,9 @@
 
 ## JavaScript 
 
+- [paperjs/paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey
+- [joeiddon/perlin](https://github.com/joeiddon/perlin) - A JavaScript library for Perlin Noise generation
+- [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
 - [damian-pastorini/reldens](https://github.com/damian-pastorini/reldens) - Reldens - You can make it - Open Source MMORPG Platform
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [PaulLereverend/NextcloudDuplicateFinder](https://github.com/PaulLereverend/NextcloudDuplicateFinder) - Save some space by finding your duplicate files
@@ -398,6 +401,7 @@
 
 ## PowerShell 
 
+- [fsackur/poke](https://github.com/fsackur/poke) - A powerful reflection module for powershell.
 - [Bert-JanP/Incident-Response-Powershell](https://github.com/Bert-JanP/Incident-Response-Powershell) - This page contains Powershell Digital Forensics & Incident Response solutions. The first is a complete incident response script. The second is a page where all the individual incident response command
 - [Cloud-Architekt/AzureAD-Attack-Defense](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense) - This publication is a collection of various common attack scenarios on Azure Active Directory and how they can be mitigated or detected.
 - [mvelazc0/BadZure](https://github.com/mvelazc0/BadZure) - BadZure orchestrates the setup of Azure Active Directory tenants, populating them with diverse entities while also introducing common security misconfigurations to create vulnerable tenants with multi
