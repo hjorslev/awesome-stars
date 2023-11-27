@@ -237,7 +237,7 @@
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [typemill/typemill](https://github.com/typemill/typemill) - TYPEMILL is a simple and lightweight Flat-File-CMS for authors and publishers.
+- [typemill/typemill](https://github.com/typemill/typemill) - Typemill is a lightweight, flat-file CMS designed for simple, fast, and flexible website and eBook creation using Markdown.
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [emilstahl/ipv6](https://github.com/emilstahl/ipv6) - IPv6-adresse.dk source & data
