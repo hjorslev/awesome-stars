@@ -209,6 +209,7 @@
 
 ## JavaScript 
 
+- [dan335/dominus](https://github.com/dan335/dominus) - Dominus - Multiplayer Social Strategy Web Game
 - [typosquatter/ail-typo-website](https://github.com/typosquatter/ail-typo-website) - Website for ail-typo-squatting library
 - [paperjs/paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey
 - [joeiddon/perlin](https://github.com/joeiddon/perlin) - A JavaScript library for Perlin Noise generation
@@ -353,7 +354,7 @@
 
 - [inovector/MixpostApp](https://github.com/inovector/MixpostApp) - Standalone application with the Laravel Package of Mixpost Lite pre-installed and configured
 - [AndrewPaglusch/FlashPaper](https://github.com/AndrewPaglusch/FlashPaper) - One-time encrypted password/secret sharing
-- [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a strategic project management system for non-project managers.
+- [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
 - [phpipam/phpipam](https://github.com/phpipam/phpipam) - phpipam development repository
 - [MISP/MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform
 - [bsmithio/OPNsense-Dashboard](https://github.com/bsmithio/OPNsense-Dashboard) - A functional and useful dashboard for OPNsense that utilizes InfluxDB, Grafana, Graylog, and Telegraf.
