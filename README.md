@@ -209,6 +209,7 @@
 
 ## JavaScript 
 
+- [tdjsnelling/sqtracker](https://github.com/tdjsnelling/sqtracker) - A modern private BitTorrent tracker platform
 - [dan335/dominus](https://github.com/dan335/dominus) - Dominus - Multiplayer Social Strategy Web Game
 - [typosquatter/ail-typo-website](https://github.com/typosquatter/ail-typo-website) - Website for ail-typo-squatting library
 - [paperjs/paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey
@@ -284,6 +285,7 @@
 
 ## Others 
 
+- [HDVinnie/Torrent-Tracker-Platforms](https://github.com/HDVinnie/Torrent-Tracker-Platforms) - A Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding Languages
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
 - [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
@@ -403,6 +405,7 @@
 
 ## PowerShell 
 
+- [santisq/PSParallelPipeline](https://github.com/santisq/PSParallelPipeline) - Enables parallel processing of pipeline input objects
 - [ansible-collections/ansible.windows](https://github.com/ansible-collections/ansible.windows) - Windows core collection for Ansible
 - [fsackur/poke](https://github.com/fsackur/poke) - A powerful reflection module for powershell.
 - [Bert-JanP/Incident-Response-Powershell](https://github.com/Bert-JanP/Incident-Response-Powershell) - This page contains Powershell Digital Forensics & Incident Response solutions. The first is a complete incident response script. The second is a page where all the individual incident response command
@@ -670,6 +673,7 @@
 
 ## Python 
 
+- [jerrymakesjelly/autoremove-torrents](https://github.com/jerrymakesjelly/autoremove-torrents) - Automatically remove torrents according to your strategies.
 - [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.8+) and Qt 5 (5.10+) for cro
 - [thinkst/opencanary](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot
 - [JPCERTCC/LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log
@@ -723,6 +727,7 @@
 
 ## Rust 
 
+- [torrust/torrust-index](https://github.com/torrust/torrust-index) - This repository serves as the backend for the Torrust Index project.
 - [PowerShell/DSC](https://github.com/PowerShell/DSC) - This repo is for the DSC v3 project
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
