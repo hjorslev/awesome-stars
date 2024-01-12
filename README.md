@@ -209,6 +209,7 @@
 
 ## JavaScript 
 
+- [wpaix/magnethover.js](https://github.com/wpaix/magnethover.js) - Dynamic magnet hover JS effect.
 - [tdjsnelling/sqtracker](https://github.com/tdjsnelling/sqtracker) - A modern private BitTorrent tracker platform
 - [dan335/dominus](https://github.com/dan335/dominus) - Dominus - Multiplayer Social Strategy Web Game
 - [typosquatter/ail-typo-website](https://github.com/typosquatter/ail-typo-website) - Website for ail-typo-squatting library
