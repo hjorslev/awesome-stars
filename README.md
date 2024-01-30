@@ -37,6 +37,7 @@
 - [Sass](#sass)
 - [Shell](#shell)
 - [Smarty](#smarty)
+- [Svelte](#svelte)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [UnrealScript](#unrealscript)
@@ -796,12 +797,17 @@
 
 - [Shadowss/TravianZ](https://github.com/Shadowss/TravianZ) - Travian T3.6 , BEST VERSION EVER | Server restarted ! Speed 50x , Troops 50x.
 
+## Svelte 
+
+- [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
+
 ## TeX 
 
 - [david-christiansen/itu-thesis](https://github.com/david-christiansen/itu-thesis) - A highly unofficial, still experimental LaTeX document class for ITU M.Sc. and Ph.D. theses and dissertations
 
 ## TypeScript 
 
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - BitTorrent client ⚡. For mobile, desktop & server.
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager
