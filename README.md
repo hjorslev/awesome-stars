@@ -409,6 +409,7 @@
 
 ## PowerShell 
 
+- [JustinGrote/ModuleFast-action](https://github.com/JustinGrote/ModuleFast-action) - 
 - [TrimarcJake/Locksmith](https://github.com/TrimarcJake/Locksmith) - A small tool built to find and fix common misconfigurations in Active Directory Certificate Services.
 - [JustinGrote/ModuleFast](https://github.com/JustinGrote/ModuleFast) - A "fast and loose" way to install modules from Powershell Gallery quickly. Meant for CICD, not production
 - [santisq/PSParallelPipeline](https://github.com/santisq/PSParallelPipeline) - Enables parallel processing of pipeline input objects
