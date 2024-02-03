@@ -530,7 +530,6 @@
 - [blindzero/Connect-MS365](https://github.com/blindzero/Connect-MS365) - Powershell module to connect to all MS365 services and install required modules or packages.
 - [JanDeDobbeleer/oh-my-posh2](https://github.com/JanDeDobbeleer/oh-my-posh2) - A prompt theming engine for Powershell
 - [StartAutomating/EZOut](https://github.com/StartAutomating/EZOut) - EZOut is a PowerShell module to help take the pain out of writing format and types XML
-- [jfhbrook/PSeudo](https://github.com/jfhbrook/PSeudo) - Execute PowerShell commands as Administrator in Windows 10 "like sudo"
 - [rmbolger/Posh-ACME](https://github.com/rmbolger/Posh-ACME) - PowerShell module and ACME client to create certificates from Let's Encrypt (or other ACME CA)
 - [jdhitsolutions/PSTypeExtensionTools](https://github.com/jdhitsolutions/PSTypeExtensionTools) - A set of PowerShell tools for working with type extensions.
 - [dfinke/NameIT](https://github.com/dfinke/NameIT) - PowerShell module for randomly generating data
@@ -728,6 +727,7 @@
 
 ## Ruby 
 
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [fluent/fluentd](https://github.com/fluent/fluentd) - Fluentd: Unified Logging Layer (project under CNCF)
 - [hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
@@ -808,7 +808,6 @@
 
 ## TypeScript 
 
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - BitTorrent client ⚡. For mobile, desktop & server.
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager
