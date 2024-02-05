@@ -71,6 +71,7 @@
 
 ## C# # 
 
+- [WindowsGSM/WindowsGSM](https://github.com/WindowsGSM/WindowsGSM) - 🎲 A powerful tool to manage game servers. Equipped with a GUI for server admins to install, import, start, stop, restart, update, and automate multiple servers with a push of a button.
 - [vletoux/pingcastle](https://github.com/vletoux/pingcastle) - PingCastle - Get Active Directory Security at 80% in 20% of the time
 - [Abdelrhman-AK/WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) - Advanced Windows Appearance Editor
 - [pnp/powershell](https://github.com/pnp/powershell) - PnP PowerShell
