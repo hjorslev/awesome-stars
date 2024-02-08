@@ -416,7 +416,7 @@
 - [santisq/PSParallelPipeline](https://github.com/santisq/PSParallelPipeline) - Enables parallel processing of pipeline input objects
 - [ansible-collections/ansible.windows](https://github.com/ansible-collections/ansible.windows) - Windows core collection for Ansible
 - [fsackur/poke](https://github.com/fsackur/poke) - A powerful reflection module for powershell.
-- [Bert-JanP/Incident-Response-Powershell](https://github.com/Bert-JanP/Incident-Response-Powershell) - This page contains Powershell Digital Forensics & Incident Response solutions. The first is a complete incident response script. The second is a page where all the individual incident response command
+- [Bert-JanP/Incident-Response-Powershell](https://github.com/Bert-JanP/Incident-Response-Powershell) - Powershell Digital Forensics & Incident Response Scripts.
 - [Cloud-Architekt/AzureAD-Attack-Defense](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense) - This publication is a collection of various common attack scenarios on Azure Active Directory and how they can be mitigated or detected.
 - [mvelazc0/BadZure](https://github.com/mvelazc0/BadZure) - BadZure orchestrates the setup of Azure AD tenants, populating them with diverse entities while also introducing common security misconfigurations to create vulnerable tenants with multiple attack pat
 - [last-byte/PersistenceSniper](https://github.com/last-byte/PersistenceSniper) - Powershell module that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines. Official Twitter/X account @PersistSniper. Made with
@@ -809,7 +809,7 @@
 
 ## TypeScript 
 
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - BitTorrent client ⚡. For mobile, desktop & server.
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
