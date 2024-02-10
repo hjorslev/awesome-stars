@@ -75,7 +75,7 @@
 - [vletoux/pingcastle](https://github.com/vletoux/pingcastle) - PingCastle - Get Active Directory Security at 80% in 20% of the time
 - [Abdelrhman-AK/WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) - Advanced Windows Appearance Editor
 - [pnp/powershell](https://github.com/pnp/powershell) - PnP PowerShell
-- [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your readi
+- [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [eviabs/downtify-premium](https://github.com/eviabs/downtify-premium) - Downtify is an open source Spofity downloader which makes it possible to download all your favourite songs and/or playlists directly from spotify. A Spotify Premium account is required.
 - [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
 - [insomnimus/ps-dotenv](https://github.com/insomnimus/ps-dotenv) - A feature complete and unintrusive direnv for Powershell Core
@@ -192,7 +192,7 @@
 - [VulcanWM/global-css-art](https://github.com/VulcanWM/global-css-art) - 
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [clong/DetectionLab](https://github.com/clong/DetectionLab) - Automate the creation of a lab environment complete with security tooling and logging best practices
-- [adamfowlerit/msportals.io](https://github.com/adamfowlerit/msportals.io) - MSPortals.io - Microsoft Administrator Sites
+- [adamfowlerit/msportals.io](https://github.com/adamfowlerit/msportals.io) - MSPortals.io - Microsoft Administrator Sites, Training, and Licensing Resources
 - [neonpangolin/geospatial-intelligence-library](https://github.com/neonpangolin/geospatial-intelligence-library) - 🛰 Your geospatial intelligence tool belt for digital investigations
 - [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 - [xvvvyz/tilde](https://github.com/xvvvyz/tilde) - Minimal browser startpage.
@@ -541,7 +541,6 @@
 - [lwsrbrts/PoSHue](https://github.com/lwsrbrts/PoSHue) - Windows PowerShell 5/PowerShell Core 6 Classes for controlling Philips Hue Bridge and Hue Lights, Groups, Sensors.
 - [EliteLoser/PSipcalc](https://github.com/EliteLoser/PSipcalc) - Svendsen Tech's PSipcalc mimics the Linux utility ipcalc in PowerShell and shows extensive network information given a CIDR or IP and subnet mask.
 - [ryan-leap/ShapeArray](https://github.com/ryan-leap/ShapeArray) - Produces an array (with optional embedded text) which can be used for formatting console output
-- [mithrandyr/SimplySql](https://github.com/mithrandyr/SimplySql) - PowerShell module for querying various SQL databases
 - [jdhitsolutions/PSBackup](https://github.com/jdhitsolutions/PSBackup) - A collection of PowerShell scripts and functions that I use to backup key files and folders.
 - [alt3/Docusaurus.Powershell](https://github.com/alt3/Docusaurus.Powershell) - Docusaurus websites for PowerShell modules
 - [techthoughts2/Catesta](https://github.com/techthoughts2/Catesta) - Catesta is a PowerShell module and vault project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.
@@ -854,6 +853,7 @@
 
 ## Visual Basic .NET 
 
+- [mithrandyr/SimplySql](https://github.com/mithrandyr/SimplySql) - PowerShell module for querying various SQL databases
 - [markdomansky/WebJEA](https://github.com/markdomansky/WebJEA) - WebJEA - Secure Self Service Web Forms from PowerShell Scripts
 
 ## Vue 
