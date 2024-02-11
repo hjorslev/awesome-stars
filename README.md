@@ -313,7 +313,6 @@
 - [trimstray/the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
 - [6mile/DevSecOps-Playbook](https://github.com/6mile/DevSecOps-Playbook) - This is a step-by-step guide to implementing a DevSecOps program for any size organization
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
 - [arallsopp/hass-hue-icons](https://github.com/arallsopp/hass-hue-icons) - Additional vector icons for home assistant to model Philips  Hue bulbs and fixtures.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [mauran/API-Danmark](https://github.com/mauran/API-Danmark) - 🇩🇰 Liste over danske API'er
@@ -410,6 +409,7 @@
 
 ## PowerShell 
 
+- [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
 - [JustinGrote/ModuleFast-action](https://github.com/JustinGrote/ModuleFast-action) - 
 - [TrimarcJake/Locksmith](https://github.com/TrimarcJake/Locksmith) - A small tool built to find and fix common misconfigurations in Active Directory Certificate Services.
 - [JustinGrote/ModuleFast](https://github.com/JustinGrote/ModuleFast) - A "fast and loose" way to install modules from Powershell Gallery quickly. Meant for CICD, not production
@@ -814,6 +814,7 @@
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
