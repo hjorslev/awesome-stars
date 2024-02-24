@@ -460,7 +460,7 @@
 - [Gerenios/AADInternals](https://github.com/Gerenios/AADInternals) - AADInternals PowerShell module for administering Azure AD and Office 365
 - [FriedrichWeinmann/Refactor](https://github.com/FriedrichWeinmann/Refactor) - PowerShell Code analysis and refactoring framework
 - [PhrozenIO/PowerRemoteDesktop](https://github.com/PhrozenIO/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell.
-- [LoicVeirman/SecureAD](https://github.com/LoicVeirman/SecureAD) - Hardening Active Directory version 2
+- [LoicVeirman/HardenAD](https://github.com/LoicVeirman/HardenAD) - Hardening Active Directory version 2
 - [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
 - [improsec/Get-bADpasswords](https://github.com/improsec/Get-bADpasswords) - Get insights into the actual strength and quality of passwords in Active Directory.
 - [jdhitsolutions/PSClock](https://github.com/jdhitsolutions/PSClock) - :watch: A set of PowerShell commands for creating and managing a transparent WPF-based clock that runs on your Windows desktop.
