@@ -289,6 +289,7 @@
 
 ## Others 
 
+- [PSModule/Process-PSModule](https://github.com/PSModule/Process-PSModule) - Process a module from source code to published module.
 - [stamparm/ipsum](https://github.com/stamparm/ipsum) - Daily feed of bad IPs (with blacklist hit scores)
 - [pallebone/StrictBlockPAllebone](https://github.com/pallebone/StrictBlockPAllebone) - Manually curated IP Blocklist. Recommended only to update your firewalls weekly with this list. Please read how to use before implementing.
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
@@ -411,6 +412,9 @@
 
 ## PowerShell 
 
+- [PSModule/Utilities](https://github.com/PSModule/Utilities) - The Utilities repository contains a collection of scripts and tools that should have been in PowerShell to start with.
+- [PSModule/PSModuleTemplate](https://github.com/PSModule/PSModuleTemplate) - Template for a PowerShell module repo
+- [PSModule/Build-PSModule](https://github.com/PSModule/Build-PSModule) - Action that is used to build PowerShell modules.
 - [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Persona
 - [cisagov/LME](https://github.com/cisagov/LME) - Logging Made Easy (LME) is a no-cost and open logging and protective monitoring solution serving all organizations.
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
