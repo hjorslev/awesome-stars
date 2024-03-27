@@ -288,6 +288,7 @@
 
 ## Others 
 
+- [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
 - [stamparm/ipsum](https://github.com/stamparm/ipsum) - Daily feed of bad IPs (with blacklist hit scores)
 - [pallebone/StrictBlockPAllebone](https://github.com/pallebone/StrictBlockPAllebone) - Manually curated IP Blocklist. Recommended only to update your firewalls weekly with this list. Please read how to use before implementing.
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
@@ -410,6 +411,8 @@
 
 ## PowerShell 
 
+- [Romanitho/Winget-AutoUpdate](https://github.com/Romanitho/Winget-AutoUpdate) - WAU daily updates apps as system and notify connected users. (Allowlist and Blocklist support)
+- [mthcht/awesome-lists](https://github.com/mthcht/awesome-lists) - Security lists for SOC detections
 - [dfinke/PowerShellAIAssistant](https://github.com/dfinke/PowerShellAIAssistant) - Enhance PowerShell scripting with AI using PowerShell AI Assistant module.
 - [PSModule/Utilities](https://github.com/PSModule/Utilities) - The Utilities repository contains a collection of scripts and tools that should have been in PowerShell to start with.
 - [PSModule/PSModuleTemplate](https://github.com/PSModule/PSModuleTemplate) - Template for a PowerShell module repo.
@@ -495,7 +498,7 @@
 - [PoshCode/Metadata](https://github.com/PoshCode/Metadata) - Serialization for the PowerShell metadata format
 - [PowerShell/Crescendo](https://github.com/PowerShell/Crescendo) - a module for wrapping native applications in a PowerShell function and module
 - [pspete/psPAS](https://github.com/pspete/psPAS) - PowerShell module for CyberArk Privileged Access Security REST API
-- [hjorslev/SteamPS](https://github.com/hjorslev/SteamPS) - Module that utilizes PowerShell as a wrapper for SteamCMD and engages with several Steam APIs.
+- [hjorslev/SteamPS](https://github.com/hjorslev/SteamPS) - Module that utilizes PowerShell as a wrapper for SteamCMD and interacts with various Steam APIs.
 - [StartAutomating/Irregular](https://github.com/StartAutomating/Irregular) - Regular Expressions made Strangely Simple
 - [EliteLoser/ConvertTo-Json](https://github.com/EliteLoser/ConvertTo-Json) - Svendsen Tech's ConvertTo-STJson is a pure-PowerShell ConvertTo-Json for PowerShell version 2
 - [JustinGrote/Press](https://github.com/JustinGrote/Press) - A continuous developement environment for Powershell Modules either via local development or leveraging GitHub and Github Actions
