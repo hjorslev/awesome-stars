@@ -413,7 +413,7 @@
 - [Romanitho/Winget-AutoUpdate](https://github.com/Romanitho/Winget-AutoUpdate) - WAU daily updates apps as system and notify connected users. (Allowlist and Blocklist support)
 - [mthcht/awesome-lists](https://github.com/mthcht/awesome-lists) - Security lists for SOC detections
 - [dfinke/PowerShellAIAssistant](https://github.com/dfinke/PowerShellAIAssistant) - Enhance PowerShell scripting with AI using PowerShell AI Assistant module.
-- [PSModule/Utilities](https://github.com/PSModule/Utilities) - The Utilities repository contains a collection of scripts and tools that should have been in PowerShell to start with.
+- [PSModule/Utilities](https://github.com/PSModule/Utilities) - A PowerShell module with a collection of functions that should have been in PowerShell to start with.
 - [PSModule/PSModuleTemplate](https://github.com/PSModule/PSModuleTemplate) - Template for a PowerShell module repo.
 - [PSModule/Build-PSModule](https://github.com/PSModule/Build-PSModule) - Action that is used to build PowerShell modules.
 - [PSModule/Process-PSModule](https://github.com/PSModule/Process-PSModule) - Process a module from source code to published module.
@@ -762,7 +762,7 @@
 ## SCSS 
 
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
-- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
+- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 
 ## SQF 
 
