@@ -116,6 +116,7 @@
 
 ## C++ 
 
+- [electronicarts/CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) - 
 - [textbrowser/spot-on](https://github.com/textbrowser/spot-on) - Complexity is beautiful. Anywhere, anyone. AMD, ARM, Alpha, PowerPC, Sparc64, etc. Completed.
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
