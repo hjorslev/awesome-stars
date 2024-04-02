@@ -80,7 +80,7 @@
 - [insomnimus/ps-dotenv](https://github.com/insomnimus/ps-dotenv) - A feature complete and unintrusive direnv for Powershell Core
 - [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Download ScriptAnalyzer from PowerShellGallery
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
-- [jborean93/PSOpenAD](https://github.com/jborean93/PSOpenAD) - 
+- [jborean93/PSOpenAD](https://github.com/jborean93/PSOpenAD) - Cross-platform PowerShell module alternative to Microsoft's Active Directory module
 - [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) - The main repository for the development of the evolution game Thrive.
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 - [PowerShell/SecretManagement](https://github.com/PowerShell/SecretManagement) - PowerShell module to consistent usage of secrets through different extension vaults
@@ -411,6 +411,7 @@
 
 ## PowerShell 
 
+- [ChiefIntegrator/Steam-GetOnTop](https://github.com/ChiefIntegrator/Steam-GetOnTop) - This is a suite of PowerShell scripts to get on top of the burden of managing an unwieldy Steam library.
 - [I-Am-Jakoby/PowerShell-for-Hackers](https://github.com/I-Am-Jakoby/PowerShell-for-Hackers) - This repository is a collection of powershell functions every hacker should know
 - [Romanitho/Winget-AutoUpdate](https://github.com/Romanitho/Winget-AutoUpdate) - WAU daily updates apps as system and notify connected users. (Allowlist and Blocklist support)
 - [mthcht/awesome-lists](https://github.com/mthcht/awesome-lists) - Security lists for SOC detections
