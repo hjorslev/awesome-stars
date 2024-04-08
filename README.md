@@ -406,11 +406,11 @@
 
 ## Perl 
 
-- [X4BNet/lists_vpn](https://github.com/X4BNet/lists_vpn) - Lists of VPN providers (atomatically updated)
 - [owasp-modsecurity/ModSecurity-nginx](https://github.com/owasp-modsecurity/ModSecurity-nginx) - ModSecurity v3 Nginx Connector
 
 ## PowerShell 
 
+- [imabdk/PowerShell](https://github.com/imabdk/PowerShell) - All my PowerShell scripts which I'm referencing in the various posts on https://imab.dk
 - [gwblok/garytown](https://github.com/gwblok/garytown) - GaryTown Scripts, Downloads, Etc
 - [ChiefIntegrator/Steam-GetOnTop](https://github.com/ChiefIntegrator/Steam-GetOnTop) - This is a suite of PowerShell scripts to get on top of the burden of managing an unwieldy Steam library.
 - [I-Am-Jakoby/PowerShell-for-Hackers](https://github.com/I-Am-Jakoby/PowerShell-for-Hackers) - This repository is a collection of powershell functions every hacker should know
@@ -778,6 +778,7 @@
 
 ## Shell 
 
+- [X4BNet/lists_vpn](https://github.com/X4BNet/lists_vpn) - Lists of VPN providers (atomatically updated)
 - [firehol/blocklist-ipsets](https://github.com/firehol/blocklist-ipsets) - ipsets dynamically updated with firehol's update-ipsets.sh script
 - [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way!
 - [infothrill/ansible-role-lynis](https://github.com/infothrill/ansible-role-lynis) - An Ansible role to install Lynis, an open source security auditing tool.
