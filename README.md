@@ -116,6 +116,7 @@
 
 ## C++ 
 
+- [Neo23x0/Raccine](https://github.com/Neo23x0/Raccine) - A Simple Ransomware Vaccine
 - [electronicarts/CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) - 
 - [textbrowser/spot-on](https://github.com/textbrowser/spot-on) - Complexity is beautiful. Anywhere, anyone. AMD, ARM, Alpha, PowerPC, Sparc64, etc. Completed.
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
@@ -411,6 +412,7 @@
 
 ## PowerShell 
 
+- [canix1/ADACLScanner](https://github.com/canix1/ADACLScanner) - Repo for ADACLScan.ps1 - Your number one script for ACL's in Active Directory
 - [evild3ad/Microsoft-Analyzer-Suite](https://github.com/evild3ad/Microsoft-Analyzer-Suite) - A collection of PowerShell scripts for analyzing data from Microsoft 365 and Microsoft Entra ID
 - [invictus-ir/Microsoft-Extractor-Suite](https://github.com/invictus-ir/Microsoft-Extractor-Suite) - A PowerShell module for acquisition of data from Microsoft 365 and Azure for Incident Response and Cyber Security purposes.
 - [farag2/Utilities](https://github.com/farag2/Utilities) - Useful things
