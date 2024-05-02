@@ -414,6 +414,7 @@
 
 ## PowerShell 
 
+- [DeploymentResearch/HydrationKitWS2022](https://github.com/DeploymentResearch/HydrationKitWS2022) - 
 - [38ES/PSMake](https://github.com/38ES/PSMake) - PSMake is an all-in-one project management and lifecycle toolset for PowerShell.
 - [canix1/ADACLScanner](https://github.com/canix1/ADACLScanner) - Repo for ADACLScan.ps1 - Your number one script for ACL's in Active Directory
 - [evild3ad/Microsoft-Analyzer-Suite](https://github.com/evild3ad/Microsoft-Analyzer-Suite) - A collection of PowerShell scripts for analyzing data from Microsoft 365 and Microsoft Entra ID
