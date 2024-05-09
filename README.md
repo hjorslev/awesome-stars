@@ -276,7 +276,7 @@
 
 - [robertdebock/ansible-role-rsyslog](https://github.com/robertdebock/ansible-role-rsyslog) - Install and configure rsyslog on your system.
 - [metno/ansible-role-rsyslog](https://github.com/metno/ansible-role-rsyslog) - Configuration of sending logs to one or more syslog servers.
-- [hifis-net/ansible-role-unattended-upgrades](https://github.com/hifis-net/ansible-role-unattended-upgrades) - Setup unattended-upgrades on Debian-based systems
+- [hifis-net/ansible-collection-toolkit](https://github.com/hifis-net/ansible-collection-toolkit) - This Ansible collection provides production-ready Ansible roles used for providing services used in research and by research software engineers, but not exclusively.
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 
 ## Jupyter Notebook 
