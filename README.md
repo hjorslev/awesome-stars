@@ -414,6 +414,8 @@
 
 ## PowerShell 
 
+- [ztrhgf/useful_powershell_modules](https://github.com/ztrhgf/useful_powershell_modules) - 
+- [djust270/IntuneEndpointTools](https://github.com/djust270/IntuneEndpointTools) - A set of tools for managing and diagnosing Intune on Windows endpoints
 - [DeploymentResearch/HydrationKitWS2022](https://github.com/DeploymentResearch/HydrationKitWS2022) - 
 - [38ES/PSMake](https://github.com/38ES/PSMake) - PSMake is an all-in-one project management and lifecycle toolset for PowerShell.
 - [canix1/ADACLScanner](https://github.com/canix1/ADACLScanner) - Repo for ADACLScan.ps1 - Your number one script for ACL's in Active Directory
