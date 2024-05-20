@@ -414,6 +414,7 @@
 
 ## PowerShell 
 
+- [OSDeploy/OSD](https://github.com/OSDeploy/OSD) - OSD Shared Functions
 - [ztrhgf/useful_powershell_modules](https://github.com/ztrhgf/useful_powershell_modules) - 
 - [djust270/IntuneEndpointTools](https://github.com/djust270/IntuneEndpointTools) - A set of tools for managing and diagnosing Intune on Windows endpoints
 - [DeploymentResearch/HydrationKitWS2022](https://github.com/DeploymentResearch/HydrationKitWS2022) - 
