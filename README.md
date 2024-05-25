@@ -414,6 +414,9 @@
 
 ## PowerShell 
 
+- [MSEndpointMgr/ConfigMgr](https://github.com/MSEndpointMgr/ConfigMgr) - Microsoft Endpoint Configuration Manager scripts and tools
+- [MSEndpointMgr/IntuneWin32App](https://github.com/MSEndpointMgr/IntuneWin32App) - Provides a set of functions to manage all aspects of Win32 apps in Microsoft Intune.
+- [MSEndpointMgr/Intune](https://github.com/MSEndpointMgr/Intune) - Microsoft Intune scripts
 - [OSDeploy/OSD](https://github.com/OSDeploy/OSD) - OSD Shared Functions
 - [ztrhgf/useful_powershell_modules](https://github.com/ztrhgf/useful_powershell_modules) - 
 - [djust270/IntuneEndpointTools](https://github.com/djust270/IntuneEndpointTools) - A set of tools for managing and diagnosing Intune on Windows endpoints
