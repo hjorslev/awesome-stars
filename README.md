@@ -418,7 +418,7 @@
 - [MSEndpointMgr/IntuneWin32App](https://github.com/MSEndpointMgr/IntuneWin32App) - Provides a set of functions to manage all aspects of Win32 apps in Microsoft Intune.
 - [MSEndpointMgr/Intune](https://github.com/MSEndpointMgr/Intune) - Microsoft Intune scripts
 - [OSDeploy/OSD](https://github.com/OSDeploy/OSD) - OSD Shared Functions
-- [ztrhgf/useful_powershell_modules](https://github.com/ztrhgf/useful_powershell_modules) - 
+- [ztrhgf/useful_powershell_modules](https://github.com/ztrhgf/useful_powershell_modules) - Source code for modules placed in PowerShell Gallery and on my https://doitpshway.com blog.
 - [djust270/IntuneEndpointTools](https://github.com/djust270/IntuneEndpointTools) - A set of tools for managing and diagnosing Intune on Windows endpoints
 - [DeploymentResearch/HydrationKitWS2022](https://github.com/DeploymentResearch/HydrationKitWS2022) - 
 - [38ES/PSMake](https://github.com/38ES/PSMake) - PSMake is an all-in-one project management and lifecycle toolset for PowerShell.
@@ -437,7 +437,6 @@
 - [PSModule/Build-PSModule](https://github.com/PSModule/Build-PSModule) - Action that is used to build PowerShell modules.
 - [PSModule/Process-PSModule](https://github.com/PSModule/Process-PSModule) - Process a module from source code to published module.
 - [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Persona
-- [cisagov/LME](https://github.com/cisagov/LME) - Logging Made Easy (LME) is a no-cost and open logging and protective monitoring solution serving all organizations.
 - [JustinGrote/ModuleFast-action](https://github.com/JustinGrote/ModuleFast-action) - 
 - [TrimarcJake/Locksmith](https://github.com/TrimarcJake/Locksmith) - A small tool built to find and fix common misconfigurations in Active Directory Certificate Services.
 - [JustinGrote/ModuleFast](https://github.com/JustinGrote/ModuleFast) - A "fast and loose" way to install modules from Powershell Gallery quickly. Meant for CICD, not production
@@ -707,6 +706,7 @@
 ## Python 
 
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
+- [cisagov/LME](https://github.com/cisagov/LME) - Logging Made Easy (LME) is a no-cost and open logging and protective monitoring solution serving all organizations.
 - [socfortress/Wazuh-Rules](https://github.com/socfortress/Wazuh-Rules) - Advanced Wazuh Rules for more accurate threat detection. Feel free to implement within your own Wazuh environment, contribute, or fork!
 - [CorralPeltzer/newTrackon](https://github.com/CorralPeltzer/newTrackon) - newTrackon, a public open BitTorrent trackers monitoring tool
 - [jerrymakesjelly/autoremove-torrents](https://github.com/jerrymakesjelly/autoremove-torrents) - Automatically remove torrents according to your strategies.
