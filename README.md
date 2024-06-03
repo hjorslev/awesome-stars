@@ -256,7 +256,7 @@
 - [ebekker/pwsh-github-action-base](https://github.com/ebekker/pwsh-github-action-base) - Base support for implementing GitHub Actions in PowerShell
 - [andreasbm/web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
 - [lukePeavey/quotable](https://github.com/lukePeavey/quotable) - Random Quotes API
-- [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
+- [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive cli tool for using emojis on commits. 💻
 - [ironmansoftware/universal-dashboard](https://github.com/ironmansoftware/universal-dashboard) - Build beautiful websites with PowerShell.
 - [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
 - [pi0/clippyjs](https://github.com/pi0/clippyjs) - Add Clippy or his friends to any website for instant nostalgia
