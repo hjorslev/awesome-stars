@@ -72,6 +72,7 @@
 
 ## C# # 
 
+- [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) - Blazor Component Library based on Material design with an emphasis on ease of use. Mainly written in C# with Javascript kept to a bare minimum it empowers .NET developers to easily debug it if needed.
 - [WindowsGSM/WindowsGSM](https://github.com/WindowsGSM/WindowsGSM) - 🎲 A powerful tool to manage game servers. Equipped with a GUI for server admins to install, import, start, stop, restart, update, and automate multiple servers with a push of a button.
 - [vletoux/pingcastle](https://github.com/vletoux/pingcastle) - PingCastle - Get Active Directory Security at 80% in 20% of the time
 - [pnp/powershell](https://github.com/pnp/powershell) - PnP PowerShell
@@ -418,6 +419,9 @@
 
 ## PowerShell 
 
+- [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows e
+- [voytas75/VoytasCodeLab](https://github.com/voytas75/VoytasCodeLab) - A diverse collection of scripts, snippets, and functions
 - [Micke-K/IntuneManagement](https://github.com/Micke-K/IntuneManagement) - Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and ed
 - [MSEndpointMgr/ConfigMgr](https://github.com/MSEndpointMgr/ConfigMgr) - Microsoft Endpoint Configuration Manager scripts and tools
 - [MSEndpointMgr/IntuneWin32App](https://github.com/MSEndpointMgr/IntuneWin32App) - Provides a set of functions to manage all aspects of Win32 apps in Microsoft Intune.
