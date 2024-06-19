@@ -64,7 +64,6 @@
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [fooinha/nginx-json-log](https://github.com/fooinha/nginx-json-log) - Highly configurable JSON format logging per Location - nginx logging module - aka. kasha 🍲
 - [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests based on MITRE's ATT&CK.
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [gtworek/PSBits](https://github.com/gtworek/PSBits) - Simple (relatively) things allowing you to dig a bit deeper than usual.
 - [nbs-system/naxsi](https://github.com/nbs-system/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
@@ -74,6 +73,7 @@
 
 - [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) - Blazor Component Library based on Material design with an emphasis on ease of use. Mainly written in C# with Javascript kept to a bare minimum it empowers .NET developers to easily debug it if needed.
 - [WindowsGSM/WindowsGSM](https://github.com/WindowsGSM/WindowsGSM) - 🎲 A powerful tool to manage game servers. Equipped with a GUI for server admins to install, import, start, stop, restart, update, and automate multiple servers with a push of a button.
+- [santisq/PSParallelPipeline](https://github.com/santisq/PSParallelPipeline) - Parallel processing of pipeline input objects!
 - [vletoux/pingcastle](https://github.com/vletoux/pingcastle) - PingCastle - Get Active Directory Security at 80% in 20% of the time
 - [pnp/powershell](https://github.com/pnp/powershell) - PnP PowerShell
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
@@ -230,6 +230,7 @@
 - [damian-pastorini/reldens](https://github.com/damian-pastorini/reldens) - Reldens - You can make it - Open Source MMORPG Platform
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [PaulLereverend/NextcloudDuplicateFinder](https://github.com/PaulLereverend/NextcloudDuplicateFinder) - Save some space by finding your duplicate files
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [kasuganosoras/SuperMicro-IPMI-LicenseGenerator](https://github.com/kasuganosoras/SuperMicro-IPMI-LicenseGenerator) - 🔑 SuperMicro 超微主板 IPMI 高级功能授权解锁 Key 生成工具
 - [okaybenji/text-engine](https://github.com/okaybenji/text-engine) - A browser-based text adventure game engine and sample game
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
@@ -419,6 +420,7 @@
 
 ## PowerShell 
 
+- [andrew-s-taylor/public](https://github.com/andrew-s-taylor/public) - Public Scripts and Apps
 - [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows e
 - [voytas75/VoytasCodeLab](https://github.com/voytas75/VoytasCodeLab) - A diverse collection of scripts, snippets, and functions
@@ -449,7 +451,6 @@
 - [JustinGrote/ModuleFast-action](https://github.com/JustinGrote/ModuleFast-action) - 
 - [TrimarcJake/Locksmith](https://github.com/TrimarcJake/Locksmith) - A small tool built to find and fix common misconfigurations in Active Directory Certificate Services.
 - [JustinGrote/ModuleFast](https://github.com/JustinGrote/ModuleFast) - A "fast and loose" way to install modules from Powershell Gallery quickly. Meant for CICD, not production
-- [santisq/PSParallelPipeline](https://github.com/santisq/PSParallelPipeline) - Enables parallel processing of pipeline input objects
 - [ansible-collections/ansible.windows](https://github.com/ansible-collections/ansible.windows) - Windows core collection for Ansible
 - [fsackur/poke](https://github.com/fsackur/poke) - A powerful reflection module for powershell.
 - [Bert-JanP/Incident-Response-Powershell](https://github.com/Bert-JanP/Incident-Response-Powershell) - PowerShell Digital Forensics & Incident Response Scripts.
