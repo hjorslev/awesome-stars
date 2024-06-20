@@ -197,6 +197,7 @@
 
 ## HTML 
 
+- [maester365/maester](https://github.com/maester365/maester) - The core repository for the Maester module with helper cmdlets that will be called from the Pester tests.
 - [VulcanWM/global-css-art](https://github.com/VulcanWM/global-css-art) - 
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [clong/DetectionLab](https://github.com/clong/DetectionLab) - Automate the creation of a lab environment complete with security tooling and logging best practices
@@ -420,6 +421,7 @@
 
 ## PowerShell 
 
+- [MSEndpointMgr/IntuneEnhancedInventory](https://github.com/MSEndpointMgr/IntuneEnhancedInventory) - Repository for the Intune Enhanced Inventory solution by MSEndpointmgr.com
 - [andrew-s-taylor/public](https://github.com/andrew-s-taylor/public) - Public Scripts and Apps
 - [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows e
@@ -802,6 +804,7 @@
 
 ## Shell 
 
+- [bhdicaire/visioStencils](https://github.com/bhdicaire/visioStencils) - 4,450 visio :art: shapes, stencils, symbols, and icons collection to visually represent your IT infrastructure
 - [microsoft/mdatp-xplat](https://github.com/microsoft/mdatp-xplat) - Microsoft Defender for macOS/Linux - config samples, auxiliary tools
 - [X4BNet/lists_vpn](https://github.com/X4BNet/lists_vpn) - Lists of VPN providers (automatically updated)
 - [firehol/blocklist-ipsets](https://github.com/firehol/blocklist-ipsets) - ipsets dynamically updated with firehol's update-ipsets.sh script
