@@ -155,7 +155,7 @@
 
 ## Dart 
 
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## Dockerfile 
@@ -422,6 +422,8 @@
 
 ## PowerShell 
 
+- [MG-Cloudflow/Intune-Toolkit](https://github.com/MG-Cloudflow/Intune-Toolkit) - The Intune-Toolkit offers a basic & user-friendly interface to connect to Microsoft Graph, manage policy assignments, and handle backup and restore operations
+- [byteben/Win32App-Migration-Tool](https://github.com/byteben/Win32App-Migration-Tool) - 
 - [PeterKlapwijk/PowerShell](https://github.com/PeterKlapwijk/PowerShell) - 
 - [andrew-s-taylor/Intune-Config](https://github.com/andrew-s-taylor/Intune-Config) - 
 - [MSEndpointMgr/IntuneEnhancedInventory](https://github.com/MSEndpointMgr/IntuneEnhancedInventory) - Repository for the Intune Enhanced Inventory solution by MSEndpointmgr.com
@@ -449,7 +451,7 @@
 - [Romanitho/Winget-AutoUpdate](https://github.com/Romanitho/Winget-AutoUpdate) - WAU daily updates apps as system and notify connected users. (Allowlist and Blocklist support)
 - [PSModule/Utilities](https://github.com/PSModule/Utilities) - A PowerShell module with a collection of functions that should have been in PowerShell to start with.
 - [PSModule/PSModuleTemplate](https://github.com/PSModule/PSModuleTemplate) - Template for a PowerShell module repo.
-- [PSModule/Build-PSModule](https://github.com/PSModule/Build-PSModule) - Action that is used to build PowerShell modules.
+- [PSModule/Build-PSModule](https://github.com/PSModule/Build-PSModule) - Action that is used to build a PowerShell module.
 - [PSModule/Process-PSModule](https://github.com/PSModule/Process-PSModule) - Process a module from source code to published module.
 - [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Persona
 - [JustinGrote/ModuleFast-action](https://github.com/JustinGrote/ModuleFast-action) - 
