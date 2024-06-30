@@ -423,6 +423,9 @@
 
 ## PowerShell 
 
+- [windows-admins/Intune](https://github.com/windows-admins/Intune) - 
+- [windows-admins/ConfigMgr](https://github.com/windows-admins/ConfigMgr) - 
+- [mtniehaus/UpdateOS](https://github.com/mtniehaus/UpdateOS) - Sample app for installing Windows updates during an Autopilot deployment
 - [MG-Cloudflow/Intune-Toolkit](https://github.com/MG-Cloudflow/Intune-Toolkit) - The Intune-Toolkit offers a basic & user-friendly interface to connect to Microsoft Graph, manage policy assignments, and handle backup and restore operations
 - [byteben/Win32App-Migration-Tool](https://github.com/byteben/Win32App-Migration-Tool) - 
 - [PeterKlapwijk/PowerShell](https://github.com/PeterKlapwijk/PowerShell) - 
