@@ -423,6 +423,9 @@
 
 ## PowerShell 
 
+- [damienvanrobaeys/Run-in-Sandbox](https://github.com/damienvanrobaeys/Run-in-Sandbox) - Run PS1, VBS, CMD, EXE, MSI, Intunewin, MSIX, or extract ISO, ZIP in Windows Sandbox very quickly just from a right-click
+- [haavarstein/Intune](https://github.com/haavarstein/Intune) - 
+- [haavarstein/Automation-Framework-Community-Edition](https://github.com/haavarstein/Automation-Framework-Community-Edition) - 
 - [windows-admins/Intune](https://github.com/windows-admins/Intune) - 
 - [windows-admins/ConfigMgr](https://github.com/windows-admins/ConfigMgr) - 
 - [mtniehaus/UpdateOS](https://github.com/mtniehaus/UpdateOS) - Sample app for installing Windows updates during an Autopilot deployment
