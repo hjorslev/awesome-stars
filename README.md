@@ -423,6 +423,7 @@
 
 ## PowerShell 
 
+- [OSDeploy/OSDCloud](https://github.com/OSDeploy/OSDCloud) - OSDCloud is a process to fully deploy a Windows OS from a WinPE Environment
 - [damienvanrobaeys/Run-in-Sandbox](https://github.com/damienvanrobaeys/Run-in-Sandbox) - Run PS1, VBS, CMD, EXE, MSI, Intunewin, MSIX, or extract ISO, ZIP in Windows Sandbox very quickly just from a right-click
 - [haavarstein/Intune](https://github.com/haavarstein/Intune) - 
 - [haavarstein/Automation-Framework-Community-Edition](https://github.com/haavarstein/Automation-Framework-Community-Edition) - 
