@@ -16,6 +16,7 @@
 - [D](#d)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [Fluent](#fluent)
 - [Game Maker Language](#game-maker-language)
 - [Go](#go)
 - [HCL](#hcl)
@@ -162,6 +163,10 @@
 
 - [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 
+## Fluent 
+
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
+
 ## Game Maker Language 
 
 - [omicronrex/renex-engine](https://github.com/omicronrex/renex-engine) - A modern fork of various IWBTG engines for GM8.2
@@ -206,7 +211,6 @@
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [SorkinType/Merriweather](https://github.com/SorkinType/Merriweather) - Merriweather is a serif typeface. It is offered in Variable font format and static formats ( OTF, TTF WOFF etc).
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 - [Xainey/PSTestReport](https://github.com/Xainey/PSTestReport) - Simple Bootstrap PowerShell Test Report
@@ -420,6 +424,8 @@
 
 ## PowerShell 
 
+- [ThomasKur/M365Documentation](https://github.com/ThomasKur/M365Documentation) - Automatic Microsoft 365 Documentation to simplify the life of admins and consultants.
+- [petripaavola/Get-IntuneManagementExtensionDiagnostics](https://github.com/petripaavola/Get-IntuneManagementExtensionDiagnostics) - Get-IntuneManagementExtensionDiagnostics script analyzes Intune IME logs and shows events in Timeline
 - [OSDeploy/OSDCloud](https://github.com/OSDeploy/OSDCloud) - OSDCloud is a process to fully deploy a Windows OS from a WinPE Environment
 - [damienvanrobaeys/Run-in-Sandbox](https://github.com/damienvanrobaeys/Run-in-Sandbox) - Run PS1, VBS, CMD, EXE, MSI, Intunewin, MSIX, or extract ISO, ZIP in Windows Sandbox very quickly just from a right-click
 - [haavarstein/Intune](https://github.com/haavarstein/Intune) - 
