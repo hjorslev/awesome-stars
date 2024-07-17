@@ -425,6 +425,7 @@
 
 ## PowerShell 
 
+- [ChrisTitusTech/powershell-profile](https://github.com/ChrisTitusTech/powershell-profile) - Pretty PowerShell that looks good and functions almost as good as Linux terminal
 - [Joly0/Run-in-Sandbox](https://github.com/Joly0/Run-in-Sandbox) - Run PS1, VBS, EXE, MSI in Windows Sandbox very quickly just from a right-click
 - [microsoft/mggraph-intune-samples](https://github.com/microsoft/mggraph-intune-samples) - Github Repository to hold samples for the MGGraph Powershell cmdlets
 - [belibug/Mold](https://github.com/belibug/Mold) - Mold is a fast and powerful templating and cloning engine for PowerShell (and beyond!)
