@@ -201,6 +201,7 @@
 
 ## HTML 
 
+- [microsoftgraph/msgraph-sample-blazor-clientside](https://github.com/microsoftgraph/msgraph-sample-blazor-clientside) - This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from Blazor WebAssembly apps.
 - [maester365/maester](https://github.com/maester365/maester) - The core repository for the Maester module with helper cmdlets that will be called from the Pester tests.
 - [VulcanWM/global-css-art](https://github.com/VulcanWM/global-css-art) - 
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
@@ -535,7 +536,7 @@
 - [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening Settings
 - [jhoneill/MsftGraph](https://github.com/jhoneill/MsftGraph) - A PowerShell module for interacting with the Microsoft Graph API for Directory, OneNote, OneDrive, Outlook, Planner, Teams and Sharepoint in Office 365 or consumer versions
 - [ansible-collections/community.windows](https://github.com/ansible-collections/community.windows) - Windows community collection for Ansible
-- [alexverboon/MDATP](https://github.com/alexverboon/MDATP) - Microsoft Defender XDR - Resource Hub
+- [alexverboon/MDATP](https://github.com/alexverboon/MDATP) - MDATP
 - [pluralsight/PS-AutoLab-Env](https://github.com/pluralsight/PS-AutoLab-Env) - A PowerShell module for creating lab configurations using Lability and Desired State Configuration. Look at README.md for more information.
 - [EvotecIT/O365Essentials](https://github.com/EvotecIT/O365Essentials) - A module that helps to manage some tasks on Office 365/Azure via undocumented API
 - [MicrosoftDocs/windows-powershell-docs](https://github.com/MicrosoftDocs/windows-powershell-docs) - This repo is used to contribute to Windows 10, Windows Server 2016, and MDOP PowerShell module documentation.
