@@ -143,6 +143,8 @@
 
 ## CSS 
 
+- [fudfomo/BlazorAuthDemo](https://github.com/fudfomo/BlazorAuthDemo) - 
+- [damienbod/MicrosoftEntraIDMudBlazor](https://github.com/damienbod/MicrosoftEntraIDMudBlazor) - Securing a MudBlazor UI web application using security headers and Microsoft Entra ID
 - [lipis/flag-icons](https://github.com/lipis/flag-icons) - :flags: A curated collection of all country flags in SVG — plus the CSS for easier integration
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
@@ -428,6 +430,7 @@
 
 ## PowerShell 
 
+- [LearningKijo/MDEtester](https://github.com/LearningKijo/MDEtester) - MDE Tester is designed to help testing various features in Microsoft Defender for Endpoint.
 - [okieselbach/Intune](https://github.com/okieselbach/Intune) - Intune Scripts and Helpers.
 - [andrew-s-taylor/WindowsAutopilotInfo](https://github.com/andrew-s-taylor/WindowsAutopilotInfo) - 
 - [mtniehaus/AutopilotBranding](https://github.com/mtniehaus/AutopilotBranding) - 
@@ -786,7 +789,7 @@
 - [jkirkcaldy/plex-utills](https://github.com/jkirkcaldy/plex-utills) - Manage your Plex library automatically
 - [legrego/homeassistant-elasticsearch](https://github.com/legrego/homeassistant-elasticsearch) - Publish Home-Assistant events to Elasticsearch
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
-- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Make your web services secure by default !
+- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [LibrePhotos/librephotos-linux](https://github.com/LibrePhotos/librephotos-linux) - Here you can find the installation script for a local Linux install.
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
