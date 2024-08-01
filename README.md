@@ -432,6 +432,7 @@
 
 ## PowerShell 
 
+- [erlwes/PSAdaptiveCards](https://github.com/erlwes/PSAdaptiveCards) - Generate Adaptive Cards JSON with PowerShell-code
 - [LearningKijo/MDEtester](https://github.com/LearningKijo/MDEtester) - MDE Tester is designed to help testing various features in Microsoft Defender for Endpoint.
 - [okieselbach/Intune](https://github.com/okieselbach/Intune) - Intune Scripts and Helpers.
 - [andrew-s-taylor/WindowsAutopilotInfo](https://github.com/andrew-s-taylor/WindowsAutopilotInfo) - 
