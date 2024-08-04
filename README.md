@@ -431,6 +431,8 @@
 
 ## PowerShell 
 
+- [MHimken/toolbox](https://github.com/MHimken/toolbox) - This is my toolbox. Watch where you step.
+- [PatchMyPCTeam/Community-Scripts](https://github.com/PatchMyPCTeam/Community-Scripts) - This repository contains, curated scripts from the Patch My PC community. Note this repository is managed by the Patch My PC team. Please see the read me for additional information.
 - [FlorianSLZ/IntuneBulkMaster](https://github.com/FlorianSLZ/IntuneBulkMaster) - Simplify and streamline bulk actions in Microsoft Intune.
 - [erlwes/PSAdaptiveCards](https://github.com/erlwes/PSAdaptiveCards) - Generate Adaptive Cards JSON with PowerShell-code
 - [LearningKijo/MDEtester](https://github.com/LearningKijo/MDEtester) - MDE Tester is designed to help testing various features in Microsoft Defender for Endpoint.
