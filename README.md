@@ -492,7 +492,6 @@
 - [fsackur/poke](https://github.com/fsackur/poke) - A powerful reflection module for powershell.
 - [Bert-JanP/Incident-Response-Powershell](https://github.com/Bert-JanP/Incident-Response-Powershell) - PowerShell Digital Forensics & Incident Response Scripts.
 - [Cloud-Architekt/AzureAD-Attack-Defense](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense) - This publication is a collection of various common attack scenarios on Microsoft Entra ID (formerly known as Azure Active Directory) and how they can be mitigated or detected.
-- [mvelazc0/BadZure](https://github.com/mvelazc0/BadZure) - BadZure orchestrates the setup of Azure AD tenants, populating them with diverse entities while also introducing common security misconfigurations to create vulnerable tenants with multiple attack pat
 - [last-byte/PersistenceSniper](https://github.com/last-byte/PersistenceSniper) - Powershell module that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines. Official Twitter/X account @PersistSniper. Made with
 - [jaols/ServiceAccountHandler](https://github.com/jaols/ServiceAccountHandler) - Handle change of windows service account passwords. Highly adapteble.
 - [S3cur3Th1sSh1t/PowerSharpPack](https://github.com/S3cur3Th1sSh1t/PowerSharpPack) - 
@@ -768,6 +767,7 @@
 - [JPCERTCC/LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log
 - [GNS3/gns3-gui](https://github.com/GNS3/gns3-gui) - GNS3 Graphical Network Simulator
 - [maxhoesel-ansible/ansible-collection-pterodactyl](https://github.com/maxhoesel-ansible/ansible-collection-pterodactyl) - A collection to manage Pterodactyl Panel and Daemon hosts
+- [mvelazc0/BadZure](https://github.com/mvelazc0/BadZure) - BadZure orchestrates the setup of Azure AD tenants, populating them with diverse entities while also introducing common security misconfigurations to create vulnerable tenants with multiple attack pat
 - [OTRF/ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - A community-driven, open-source project to share detection logic, adversary tradecraft and resources to make detection development more efficient.
 - [ckan/ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.hu
 - [TKCERT/pfFocus](https://github.com/TKCERT/pfFocus) - Generate meaningful output from your pfSense configuration backup, like Markdown documentation.
