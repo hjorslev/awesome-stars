@@ -751,6 +751,7 @@
 
 ## PureBasic 
 
+- [tugich/WinAutopilotImport](https://github.com/tugich/WinAutopilotImport) - This tool provides a simple GUI for registering your Windows device with Windows Autopilot.
 - [tugich/SetupPackagerIntune](https://github.com/tugich/SetupPackagerIntune) - Setup Packager helps you to easily package your software installation for Intune or other device management solutions. With just a few clicks you can create a PSADT-capable package from your files and
 
 ## Python 
