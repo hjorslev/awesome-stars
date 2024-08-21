@@ -432,6 +432,7 @@
 
 ## PowerShell 
 
+- [ugurkocde/IntuneAssignmentChecker](https://github.com/ugurkocde/IntuneAssignmentChecker) - 
 - [FlorianSLZ/scloud](https://github.com/FlorianSLZ/scloud) - Code Snippets mentioned at my Blog: scloud.work
 - [MHimken/toolbox](https://github.com/MHimken/toolbox) - This is my toolbox. Watch where you step.
 - [PatchMyPCTeam/Community-Scripts](https://github.com/PatchMyPCTeam/Community-Scripts) - This repository contains, curated scripts from the Patch My PC community. Note this repository is managed by the Patch My PC team. Please see the read me for additional information.
