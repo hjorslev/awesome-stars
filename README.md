@@ -441,7 +441,7 @@
 
 ## PowerShell 
 
-- [ShaunLawrie/PwshSpectreConsole](https://github.com/ShaunLawrie/PwshSpectreConsole) - 👻 PwshSpectreConsole is an opinionated wrapper for the awesome Spectre.Console library
+- [ShaunLawrie/PwshSpectreConsole](https://github.com/ShaunLawrie/PwshSpectreConsole) - 👻 PwshSpectreConsole is a PowerShell wrapper for the awesome Spectre.Console library
 - [erlwes/Get-LenovoInfo](https://github.com/erlwes/Get-LenovoInfo) - Get product- and warranty information of Lenovo PCs
 - [asjimene/CMPackager](https://github.com/asjimene/CMPackager) - Creates ConfigMgr Applications using XML Recipe Files
 - [AntoPorter/Intune-Remediations](https://github.com/AntoPorter/Intune-Remediations) - I hope these Microsoft Intune Remediations inspire you to make your own!
@@ -920,7 +920,7 @@
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [PiotrMachowski/lovelace-xiaomi-vacuum-map-card](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card) - This card provides a user-friendly way to fully control map-based vacuums in Home Assistant. Supported brands include Xiaomi (Roborock/Viomi/Dreame/Roidmi/Valetudo/Valetudo RE), Neato, Wyze, Roomba, E
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 - [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell) - Provides PowerShell language and debugging support for Visual Studio Code
