@@ -441,6 +441,7 @@
 
 ## PowerShell 
 
+- [rafallz10100/AutopilotV2](https://github.com/rafallz10100/AutopilotV2) - Device Serial Number Import Tool for Intune Autopilot V2
 - [ShaunLawrie/PwshSpectreConsole](https://github.com/ShaunLawrie/PwshSpectreConsole) - 👻 PwshSpectreConsole is a PowerShell wrapper for the awesome Spectre.Console library
 - [erlwes/Get-LenovoInfo](https://github.com/erlwes/Get-LenovoInfo) - Get product- and warranty information of Lenovo PCs
 - [asjimene/CMPackager](https://github.com/asjimene/CMPackager) - Creates ConfigMgr Applications using XML Recipe Files
