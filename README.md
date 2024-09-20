@@ -541,7 +541,7 @@
 - [soteria-security/365Inspect](https://github.com/soteria-security/365Inspect) - A PowerShell script that automates the security assessment of Microsoft 365 environments.
 - [ConfigJon/Firmware-Management](https://github.com/ConfigJon/Firmware-Management) - Firmware and BIOS management scripts.
 - [mmims/PSUtilities](https://github.com/mmims/PSUtilities) - Collection of PowerShell utility scripts.
-- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ PowerShell scripts (.ps1) for Linux, Mac OS, and Windows.
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ free PowerShell scripts (.ps1) for Linux, Mac OS, and Windows.
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [Gerenios/AADInternals](https://github.com/Gerenios/AADInternals) - AADInternals PowerShell module for administering Azure AD and Office 365
 - [FriedrichWeinmann/Refactor](https://github.com/FriedrichWeinmann/Refactor) - PowerShell Code analysis and refactoring framework
