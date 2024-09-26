@@ -75,7 +75,6 @@
 ## C# # 
 
 - [rzander/sccmclictr](https://github.com/rzander/sccmclictr) - Client Center for Configuration Manager
-- [ugurkocde/Intune](https://github.com/ugurkocde/Intune) - Intune related scripts
 - [MSEndpointMgr/PSInvoker](https://github.com/MSEndpointMgr/PSInvoker) - Utility application to silently running PowerShell scripts without flashing windows.
 - [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) - Blazor Component Library based on Material design with an emphasis on ease of use. Mainly written in C# with Javascript kept to a bare minimum it empowers .NET developers to easily debug it if needed.
 - [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Persona
@@ -454,6 +453,7 @@
 - [FlorianSLZ/IntuneBulkMaster](https://github.com/FlorianSLZ/IntuneBulkMaster) - The IntuneBulkMaster provides a set of functions for managing and interacting with Microsoft Intune. It is designed to perform bulk operations on Intune-managed devices, such as rebooting, collecting 
 - [erlwes/PSAdaptiveCards](https://github.com/erlwes/PSAdaptiveCards) - Generate Adaptive Cards JSON with PowerShell-code
 - [LearningKijo/MDEtester](https://github.com/LearningKijo/MDEtester) - MDE Tester is designed to help testing various features in Microsoft Defender for Endpoint.
+- [ugurkocde/Intune](https://github.com/ugurkocde/Intune) - Intune related scripts
 - [okieselbach/Intune](https://github.com/okieselbach/Intune) - Intune Scripts and Helpers.
 - [andrew-s-taylor/WindowsAutopilotInfo](https://github.com/andrew-s-taylor/WindowsAutopilotInfo) - 
 - [mtniehaus/AutopilotBranding](https://github.com/mtniehaus/AutopilotBranding) - 
@@ -932,7 +932,7 @@
 - [rbardini/resumed](https://github.com/rbardini/resumed) - 👔 Lightweight JSON Resume builder, no-frills alternative to resume-cli
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
 - [pawelgrzybek/snippet-generator](https://github.com/pawelgrzybek/snippet-generator) - Snippet generator for Visual Studio Code, Sublime Text and Atom
