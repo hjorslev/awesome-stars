@@ -441,6 +441,7 @@
 
 ## PowerShell 
 
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [HCRitter/entra-powershell](https://github.com/HCRitter/entra-powershell) - Microsoft Entra PowerShell
 - [rafallz10100/AutopilotV2](https://github.com/rafallz10100/AutopilotV2) - Device Serial Number Import Tool for Intune Autopilot V2
 - [ShaunLawrie/PwshSpectreConsole](https://github.com/ShaunLawrie/PwshSpectreConsole) - 👻 PwshSpectreConsole is a PowerShell wrapper for the awesome Spectre.Console library
