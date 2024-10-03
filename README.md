@@ -632,7 +632,7 @@
 - [lwsrbrts/PoSHue](https://github.com/lwsrbrts/PoSHue) - Windows PowerShell 5/PowerShell Core 6 Classes for controlling Philips Hue Bridge and Hue Lights, Groups, Sensors.
 - [EliteLoser/PSipcalc](https://github.com/EliteLoser/PSipcalc) - Svendsen Tech's PSipcalc mimics the Linux utility ipcalc in PowerShell and shows extensive network information given a CIDR or IP and subnet mask.
 - [ryan-leap/ShapeArray](https://github.com/ryan-leap/ShapeArray) - Produces an array (with optional embedded text) which can be used for formatting console output
-- [jdhitsolutions/PSBackup](https://github.com/jdhitsolutions/PSBackup) - A collection of PowerShell scripts and functions that I use to backup key files and folders.
+- [jdhitsolutions/PSBackup](https://github.com/jdhitsolutions/PSBackup) - A collection of PowerShell scripts and functions that I use to backup key files and folders. This *is not* a PowerShell module.
 - [alt3/Docusaurus.Powershell](https://github.com/alt3/Docusaurus.Powershell) - Docusaurus websites for PowerShell modules
 - [techthoughts2/Catesta](https://github.com/techthoughts2/Catesta) - Catesta is a PowerShell module and vault project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.
 - [techthoughts2/PSGalleryExplorer](https://github.com/techthoughts2/PSGalleryExplorer) - Search, explore, and discover PowerShell Gallery modules.
@@ -845,7 +845,7 @@
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
 
 ## SCSS 
