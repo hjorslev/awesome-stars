@@ -440,6 +440,7 @@
 
 ## PowerShell 
 
+- [DanysysTeam/PS-SFTA](https://github.com/DanysysTeam/PS-SFTA) - PowerShell Set File Type Association
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [HCRitter/entra-powershell](https://github.com/HCRitter/entra-powershell) - Microsoft Entra PowerShell
 - [rafallz10100/AutopilotV2](https://github.com/rafallz10100/AutopilotV2) - Device Serial Number Import Tool for Intune Autopilot V2
