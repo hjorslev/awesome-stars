@@ -463,7 +463,7 @@
 - [mtniehaus/PS7Bootstrap](https://github.com/mtniehaus/PS7Bootstrap) - 
 - [ChrisTitusTech/powershell-profile](https://github.com/ChrisTitusTech/powershell-profile) - Pretty PowerShell that looks good and functions almost as good as Linux terminal
 - [Joly0/Run-in-Sandbox](https://github.com/Joly0/Run-in-Sandbox) - Run PS1, VBS, EXE, MSI in Windows Sandbox very quickly just from a right-click
-- [microsoft/mggraph-intune-samples](https://github.com/microsoft/mggraph-intune-samples) - Repository to hold Intune script samples for the Microsoft Graph PowerShell SDK
+- [microsoft/mggraph-intune-samples](https://github.com/microsoft/mggraph-intune-samples) - Repository to hold Microsoft Intune script samples for the Microsoft Graph PowerShell SDK
 - [belibug/Mold](https://github.com/belibug/Mold) - Mold is a fast and powerful templating and cloning engine for PowerShell (and beyond!)
 - [ThomasKur/M365Documentation](https://github.com/ThomasKur/M365Documentation) - Automatic Microsoft 365 Documentation to simplify the life of admins and consultants.
 - [petripaavola/Get-IntuneManagementExtensionDiagnostics](https://github.com/petripaavola/Get-IntuneManagementExtensionDiagnostics) - Get-IntuneManagementExtensionDiagnostics script analyzes Intune IME logs and shows events in Timeline
