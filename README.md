@@ -900,7 +900,7 @@
 
 ## Smarty 
 
-- [Shadowss/TravianZ](https://github.com/Shadowss/TravianZ) - Travian T3.6 , BEST VERSION EVER | Server restarted ! Speed 50x , Troops 50x.
+- [Shadowss/TravianZ](https://github.com/Shadowss/TravianZ) - Travian T3.6 , BEST VERSION EVER
 
 ## Svelte 
 
