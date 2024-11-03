@@ -440,6 +440,7 @@
 
 ## PowerShell 
 
+- [ugurkocde/IntuneBrew](https://github.com/ugurkocde/IntuneBrew) - 
 - [philjorgensen/Intune](https://github.com/philjorgensen/Intune) - 
 - [DanysysTeam/PS-SFTA](https://github.com/DanysysTeam/PS-SFTA) - PowerShell Set File Type Association
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
