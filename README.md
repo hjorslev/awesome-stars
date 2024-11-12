@@ -441,6 +441,7 @@
 
 ## PowerShell 
 
+- [Spicy-Toaster/ActiveDirectory-Tiering](https://github.com/Spicy-Toaster/ActiveDirectory-Tiering) - Scripts and a short guide for using them to tier an Active Directory. Made for BSides Copenhagen 2024
 - [ugurkocde/IntuneBrew](https://github.com/ugurkocde/IntuneBrew) - 
 - [philjorgensen/Intune](https://github.com/philjorgensen/Intune) - 
 - [DanysysTeam/PS-SFTA](https://github.com/DanysysTeam/PS-SFTA) - PowerShell Set File Type Association
