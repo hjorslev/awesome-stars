@@ -319,6 +319,7 @@
 
 ## Others 
 
+- [ugurkocde/KQL_Intune](https://github.com/ugurkocde/KQL_Intune) - 
 - [thenikk/Oceanleaf](https://github.com/thenikk/Oceanleaf) - Scripts & files for my blog.
 - [SkipToTheEndpoint/OpenIntuneBaseline](https://github.com/SkipToTheEndpoint/OpenIntuneBaseline) - Community-driven baseline to accelerate Intune adoption and learning.
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
