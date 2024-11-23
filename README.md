@@ -443,6 +443,7 @@
 
 ## PowerShell 
 
+- [MSEndpointMgr/IntuneAppFactory](https://github.com/MSEndpointMgr/IntuneAppFactory) - Intune App Factory automates Win32 application packaging in Intune.
 - [tugich/DeploymentEditor](https://github.com/tugich/DeploymentEditor) - Deployment Editor simplifies software packaging with PSAppDeployToolkit (PSADT). You can click your sequence for PSADT through the easy GUI.
 - [Spicy-Toaster/ActiveDirectory-Tiering](https://github.com/Spicy-Toaster/ActiveDirectory-Tiering) - Scripts and a short guide for using them to tier an Active Directory. Made for BSides Copenhagen 2024
 - [ugurkocde/IntuneBrew](https://github.com/ugurkocde/IntuneBrew) - 
