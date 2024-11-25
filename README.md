@@ -489,7 +489,6 @@
 - [andrew-s-taylor/public](https://github.com/andrew-s-taylor/public) - Public Scripts and Apps
 - [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve 
-- [voytas75/VoytasCodeLab](https://github.com/voytas75/VoytasCodeLab) - A diverse collection of scripts, snippets, and functions
 - [Micke-K/IntuneManagement](https://github.com/Micke-K/IntuneManagement) - Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and ed
 - [MSEndpointMgr/ConfigMgr](https://github.com/MSEndpointMgr/ConfigMgr) - Microsoft Endpoint Configuration Manager scripts and tools
 - [MSEndpointMgr/IntuneWin32App](https://github.com/MSEndpointMgr/IntuneWin32App) - Provides a set of functions to manage all aspects of Win32 apps in Microsoft Intune.
@@ -782,6 +781,7 @@
 
 ## Python 
 
+- [voytas75/VoytasCodeLab](https://github.com/voytas75/VoytasCodeLab) - A diverse collection of scripts, snippets, and functions
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [cisagov/LME](https://github.com/cisagov/LME) - Logging Made Easy (LME) is a no cost, open source platform that centralizes log collection, enhances threat detection, and enables real-time alerting, helping small to medium-sized organizations secur
 - [socfortress/Wazuh-Rules](https://github.com/socfortress/Wazuh-Rules) - Advanced Wazuh Rules for more accurate threat detection. Feel free to implement within your own Wazuh environment, contribute, or fork!
