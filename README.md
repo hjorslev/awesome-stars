@@ -118,6 +118,7 @@
 - [PoshCode/Pansies](https://github.com/PoshCode/Pansies) - Powershell ANSI Escape Sequences, functions for colored output, etc.
 - [Invoke-IR/PowerForensics](https://github.com/Invoke-IR/PowerForensics) - PowerForensics provides an all in one platform for live disk forensic analysis
 - [cjmurph/PmsService](https://github.com/cjmurph/PmsService) - Plex Media Server service wrapper for windows
+- [PSAppDeployToolkit/PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) - Project Homepage & Forums
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [thoemmi/7Zip4Powershell](https://github.com/thoemmi/7Zip4Powershell) - Powershell module for creating and extracting 7-Zip archives
 - [PhonicUK/CLRCLI](https://github.com/PhonicUK/CLRCLI) - CLRCLI is an event-driven library for building line-art user interfaces in C#/.Net command-line applications.
@@ -769,7 +770,6 @@
 - [jdhitsolutions/PSScriptTools](https://github.com/jdhitsolutions/PSScriptTools) - :wrench: :hammer: A set of PowerShell functions you might use to enhance your own functions and scripts or to facilitate working in the console. Most should work in both Windows PowerShell and PowerSh
 - [PrateekKumarSingh/Gridify](https://github.com/PrateekKumarSingh/Gridify) - 'Gridify' Powershell module provides cmdlet that can resize and arrange applications in an automatic grid layout with predefined formats using the Processes passed as parameter
 - [damienvanrobaeys/WPF_PS_EN](https://github.com/damienvanrobaeys/WPF_PS_EN) - 
-- [PSAppDeployToolkit/PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) - Project Homepage & Forums
 - [lazywinadmin/LazyWinAdmin_GUI](https://github.com/lazywinadmin/LazyWinAdmin_GUI) - PowerShell Script that generates a GUI/WinForms loaded with tons of functions
 - [lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell) - PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...)
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
