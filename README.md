@@ -322,6 +322,7 @@
 
 ## Others 
 
+- [MoeKinani/DisableNetBIOS](https://github.com/MoeKinani/DisableNetBIOS) - 
 - [ugurkocde/KQL_Intune](https://github.com/ugurkocde/KQL_Intune) - 
 - [thenikk/Oceanleaf](https://github.com/thenikk/Oceanleaf) - Scripts & files for my blog.
 - [SkipToTheEndpoint/OpenIntuneBaseline](https://github.com/SkipToTheEndpoint/OpenIntuneBaseline) - Community-driven baseline to accelerate Intune adoption and learning.
