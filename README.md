@@ -183,7 +183,7 @@
 
 ## Game Maker Language 
 
-- [omicronrex/renex-engine](https://github.com/omicronrex/renex-engine) - A modern fork of various IWBTG engines for GM8.2
+- [omicronrex/square-renex-engine](https://github.com/omicronrex/square-renex-engine) - A modern fork of various IWBTG engines for GM8.2
 
 ## Go 
 
