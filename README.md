@@ -28,6 +28,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
 - [Markdown](#markdown)
+- [Opal](#opal)
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
@@ -319,6 +320,10 @@
 ## Markdown 
 
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+
+## Opal 
+
+- [bbmumford/Intune-Toolkit](https://github.com/bbmumford/Intune-Toolkit) - my personal collection of scripts & guides to configuring a standard enterprise Intune enviroment.
 
 ## Others 
 
@@ -932,7 +937,7 @@
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [PiotrMachowski/lovelace-xiaomi-vacuum-map-card](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card) - This card provides a user-friendly way to fully control map-based vacuums in Home Assistant. Supported brands include Xiaomi (Roborock/Viomi/Dreame/Roidmi/Valetudo/Valetudo RE), Neato, Wyze, Roomba, E
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 - [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell) - Provides PowerShell language and debugging support for Visual Studio Code
