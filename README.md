@@ -679,7 +679,7 @@
 - [jantari/LSUClient](https://github.com/jantari/LSUClient) - Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍💻
 - [psake/PowerShellBuild](https://github.com/psake/PowerShellBuild) - Common build tasks for psake and Invoke-Build that build and test PowerShell modules
 - [RootITUp/Logging](https://github.com/RootITUp/Logging) - Powershell Logging Module
-- [BloodHoundAD/BloodHound](https://github.com/BloodHoundAD/BloodHound) - Six Degrees of Domain Admin
+- [SpecterOps/BloodHound-Legacy](https://github.com/SpecterOps/BloodHound-Legacy) - Six Degrees of Domain Admin
 - [PowerShell/JEA](https://github.com/PowerShell/JEA) - Just Enough Administration
 - [RamblingCookieMonster/PSSQLite](https://github.com/RamblingCookieMonster/PSSQLite) - PowerShell module to query SQLite databases
 - [pcgeek86/PSGitHub](https://github.com/pcgeek86/PSGitHub) - This PowerShell module contains commands to manage GitHub through its REST API.
@@ -946,7 +946,7 @@
 - [AitorDB/home-assistant-sun-card](https://github.com/AitorDB/home-assistant-sun-card) - Home assistant sun card based on Google weather design
 - [denysdovhan/vacuum-card](https://github.com/denysdovhan/vacuum-card) - Vacuum cleaner card for Home Assistant Lovelace UI
 - [rbardini/resumed](https://github.com/rbardini/resumed) - 👔 Lightweight JSON Resume builder, no-frills alternative to resume-cli
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
