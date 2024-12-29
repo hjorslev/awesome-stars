@@ -455,7 +455,7 @@
 - [MSEndpointMgr/IntuneAppFactory](https://github.com/MSEndpointMgr/IntuneAppFactory) - Intune App Factory automates Win32 application packaging in Intune.
 - [tugich/DeploymentEditor](https://github.com/tugich/DeploymentEditor) - Deployment Editor simplifies software packaging with PSAppDeployToolkit (PSADT). You can click your sequence for PSADT through the easy GUI.
 - [Spicy-Toaster/ActiveDirectory-Tiering](https://github.com/Spicy-Toaster/ActiveDirectory-Tiering) - Scripts and a short guide for using them to tier an Active Directory. Made for BSides Copenhagen 2024
-- [ugurkocde/IntuneBrew](https://github.com/ugurkocde/IntuneBrew) - 
+- [ugurkocde/IntuneBrew](https://github.com/ugurkocde/IntuneBrew) - IntuneBrew is a PowerShell-based tool that simplifies the process of uploading and managing macOS applications in Microsoft Intune. It automates the entire workflow from downloading apps to uploading 
 - [philjorgensen/Intune](https://github.com/philjorgensen/Intune) - 
 - [DanysysTeam/PS-SFTA](https://github.com/DanysysTeam/PS-SFTA) - PowerShell Set File Type Association
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
@@ -465,7 +465,7 @@
 - [erlwes/Get-LenovoInfo](https://github.com/erlwes/Get-LenovoInfo) - Get product- and warranty information of Lenovo PCs
 - [asjimene/CMPackager](https://github.com/asjimene/CMPackager) - Creates ConfigMgr Applications using XML Recipe Files
 - [AntoPorter/Intune-Remediations](https://github.com/AntoPorter/Intune-Remediations) - I hope these Microsoft Intune Remediations inspire you to make your own!
-- [ugurkocde/IntuneAssignmentChecker](https://github.com/ugurkocde/IntuneAssignmentChecker) - 
+- [ugurkocde/IntuneAssignmentChecker](https://github.com/ugurkocde/IntuneAssignmentChecker) - This script enables IT administrators to efficiently analyze and audit Intune assignments. It checks assignments for specific users, groups, or devices, displays all policies and their assignments, id
 - [FlorianSLZ/scloud](https://github.com/FlorianSLZ/scloud) - Code Snippets mentioned at my Blog: scloud.work
 - [MHimken/toolbox](https://github.com/MHimken/toolbox) - This is my toolbox. Watch where you step.
 - [PatchMyPCTeam/Community-Scripts](https://github.com/PatchMyPCTeam/Community-Scripts) - This repository contains, curated scripts from the Patch My PC community. Note this repository is managed by the Patch My PC team. Please see the read me for additional information.
