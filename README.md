@@ -17,16 +17,15 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Fluent](#fluent)
-- [GLSL](#glsl)
 - [Game Maker Language](#game-maker-language)
 - [Go](#go)
-- [HCL](#hcl)
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Markdown](#markdown)
 - [Opal](#opal)
 - [Others](#others)
@@ -43,12 +42,14 @@
 - [Shell](#shell)
 - [Smarty](#smarty)
 - [Svelte](#svelte)
+- [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [UnrealScript](#unrealscript)
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 - [YAML](#yaml)
+- [YARA](#yara)
 
 ## Arduino 
 
@@ -60,11 +61,13 @@
 
 ## Batchfile 
 
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [kaburkett/office-pranks](https://github.com/kaburkett/office-pranks) - Compilation of assorted pranks designed for Windows OS. Most require admin privileges only, or access to a users pc while they are away.
 
 ## C 
 
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
+- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [fooinha/nginx-json-log](https://github.com/fooinha/nginx-json-log) - Highly configurable JSON format logging per Location - nginx logging module - aka. kasha 🍲
 - [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests based on MITRE's ATT&CK.
 - [gtworek/PSBits](https://github.com/gtworek/PSBits) - Simple (relatively) things allowing you to dig a bit deeper than usual.
@@ -74,6 +77,11 @@
 
 ## C# # 
 
+- [EricZimmerman/PECmd](https://github.com/EricZimmerman/PECmd) - Prefetch Explorer Command Line
+- [devinmcelheran/Printune](https://github.com/devinmcelheran/Printune) - A one-stop utility for creating Intune packages to deploy printers and printer drivers.
+- [EvotecIT/OfficeIMO](https://github.com/EvotecIT/OfficeIMO) - Fast and easy to use cross-platform .NET library that creates or modifies Microsoft Word (DocX) and later also Excel (XLSX) files without installing any software. Library is based on Open XML SDK
+- [Grace-Solutions/PSProxmox](https://github.com/Grace-Solutions/PSProxmox) - PSProxmox is a PowerShell module for managing Proxmox VE clusters. It provides a comprehensive set of cmdlets for managing virtual machines, storage, networks, users, roles, and more.
+- [mdgrs-mei/WinUIShell](https://github.com/mdgrs-mei/WinUIShell) - Scripting WinUI 3 with PowerShell
 - [rzander/sccmclictr](https://github.com/rzander/sccmclictr) - Client Center for Configuration Manager
 - [MSEndpointMgr/PSInvoker](https://github.com/MSEndpointMgr/PSInvoker) - Utility application to silently running PowerShell scripts without flashing windows.
 - [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) - Blazor Component Library based on Material Design principles with an emphasis on ease of use and extensibility
@@ -85,7 +93,8 @@
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [eviabs/downtify-premium](https://github.com/eviabs/downtify-premium) - Downtify is an open source Spofity downloader which makes it possible to download all your favourite songs and/or playlists directly from spotify. A Spotify Premium account is required.
 - [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
-- [santisq/PSTree](https://github.com/santisq/PSTree) - tree like PowerShell cmdlet!
+- [EvotecIT/PSPGP](https://github.com/EvotecIT/PSPGP) - PSPGP is a PowerShell module that provides PGP functionality in PowerShell. It allows encrypting and decrypting files/folders and strings using PGP.
+- [santisq/PSTree](https://github.com/santisq/PSTree) - Tree-like cmdlets for file system and registry exploration!
 - [insomnimus/ps-dotenv](https://github.com/insomnimus/ps-dotenv) - A feature complete and unintrusive direnv for Powershell Core
 - [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Download ScriptAnalyzer from PowerShellGallery
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
@@ -93,7 +102,7 @@
 - [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) - The main repository for the development of the evolution game Thrive.
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [PowerShell/SecretManagement](https://github.com/PowerShell/SecretManagement) - PowerShell module to consistent usage of secrets through different extension vaults
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 - [olefriis/Eco2](https://github.com/olefriis/Eco2) - Take control of your Danfoss Eco™ 2 thermostats!
 - [shravan2x/Gameloop.Vdf](https://github.com/shravan2x/Gameloop.Vdf) - A fast, easy-to-use Valve Data Format parser for .NET
 - [SeeminglyScience/EditorServicesCommandSuite](https://github.com/SeeminglyScience/EditorServicesCommandSuite) - Collection of editor commands for use in PowerShell Editor Services.
@@ -102,6 +111,7 @@
 - [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine) - A bash inspired readline implementation for PowerShell
 - [microsoft/PSRule](https://github.com/microsoft/PSRule) - Validate infrastructure as code (IaC) and objects using PowerShell rules.
 - [powercode/PSParallel](https://github.com/powercode/PSParallel) - PowerShell module to invoke scriptblocks in parallel runspaces
+- [EvotecIT/PSWritePDF](https://github.com/EvotecIT/PSWritePDF) - PowerShell Module to create, edit, split, merge PDF files on Windows / Linux and MacOS
 - [ctigeek/InvokeQueryPowershellModule](https://github.com/ctigeek/InvokeQueryPowershellModule) - A Powershell module of Cmdlets for querying most types of databases.
 - [frgnca/AudioDeviceCmdlets](https://github.com/frgnca/AudioDeviceCmdlets) - AudioDeviceCmdlets is a suite of PowerShell Cmdlets to control audio devices on Windows
 - [luisperezphd/RunAsService](https://github.com/luisperezphd/RunAsService) - RunAsService is a command line tool that allows you to setup a regular  console application to run as a service.
@@ -127,17 +137,16 @@
 ## C++ 
 
 - [Neo23x0/Raccine](https://github.com/Neo23x0/Raccine) - A Simple Ransomware Vaccine
-- [electronicarts/CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) - 
+- [electronicarts/CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) - Command & Conquer: Remastered Collection
 - [textbrowser/spot-on](https://github.com/textbrowser/spot-on) - Complexity is beautiful. Anyware, everyone. Completed.
-- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181.
+- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.7
 - [arvidn/libtorrent](https://github.com/arvidn/libtorrent) - an efficient feature complete C++ bittorrent implementation
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [chrxh/alien](https://github.com/chrxh/alien) - ALIEN is a CUDA-powered artificial life simulation program.
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
-- [diasurgical/devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems
+- [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX) - Diablo build for modern operating systems
 - [microsoft/mfcmapi](https://github.com/microsoft/mfcmapi) - MFCMAPI
 - [HCI-Lab-Saarland/MultiTouchKit](https://github.com/HCI-Lab-Saarland/MultiTouchKit) - 
 - [adafruit/Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel) - Arduino library for controlling single-wire LED pixels (NeoPixel, WS2812, etc.)
@@ -149,7 +158,6 @@
 
 - [fudfomo/BlazorAuthDemo](https://github.com/fudfomo/BlazorAuthDemo) - 
 - [damienbod/MicrosoftEntraIDMudBlazor](https://github.com/damienbod/MicrosoftEntraIDMudBlazor) - Securing a MudBlazor UI web application using security headers and Microsoft Entra ID
-- [lipis/flag-icons](https://github.com/lipis/flag-icons) - :flags: A curated collection of all country flags in SVG — plus the CSS for easier integration
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [EliverLara/firefox-sweet-theme](https://github.com/EliverLara/firefox-sweet-theme) - :candy: A dark and modern theme for firefox with vibrant colors
@@ -165,26 +173,24 @@
 
 ## Dart 
 
-- [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - BitTorrent client ⚡. For mobile, desktop & server.
+- [annu8055/Intune-Log-Reader-for-Windows](https://github.com/annu8055/Intune-Log-Reader-for-Windows) - 📊 Analyze and monitor Microsoft Intune Management Extension logs on Windows for real-time insights and error detection.
+- [pathaksomesh06/Intune-Log-Reader-for-Windows](https://github.com/pathaksomesh06/Intune-Log-Reader-for-Windows) - Intune Log Reader provides real-time analysis and monitoring of Microsoft Intune Management Extension logs on Windows systems.
+- [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - Pick a Torrent, stream and download on all your devices
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## Dockerfile 
 
-- [MicrosoftDocs/windows-powershell-docs](https://github.com/MicrosoftDocs/windows-powershell-docs) - This repo is used to contribute to Windows 10, Windows Server 2016, and MDOP PowerShell module documentation.
+- [MicrosoftDocs/windows-powershell-docs](https://github.com/MicrosoftDocs/windows-powershell-docs) - This repo is used to contribute to Windows, Windows Server, and MDOP PowerShell module documentation.
 - [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 
 ## Fluent 
 
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 
-## GLSL 
-
-- [mthcht/awesome-lists](https://github.com/mthcht/awesome-lists) - Awesome Security lists for SOC/CERT/CTI
-
 ## Game Maker Language 
 
-- [omicronrex/square-renex-engine](https://github.com/omicronrex/square-renex-engine) - A modern fork of various IWBTG engines for GM8.2
+- [omicronrex/renex2-engine](https://github.com/omicronrex/renex2-engine) - A modern fork of various IWBTG engines designed for GM8.2
 
 ## Go 
 
@@ -196,11 +202,11 @@
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
-- [lkarlslund/Adalanche](https://github.com/lkarlslund/Adalanche) - Active Directory ACL Visualizer and Explorer - who's really Domain Admin? (Commerical versions available from NetSection)
+- [lkarlslund/Adalanche](https://github.com/lkarlslund/Adalanche) - Attack Graph Visualizer and Explorer (Active Directory) ...Who's *really* Domain Admin?
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -210,15 +216,13 @@
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
-## HCL 
-
-- [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
-
 ## HTML 
 
+- [ugurkocde/IntuneRBAC](https://github.com/ugurkocde/IntuneRBAC) - 
 - [microsoftgraph/msgraph-sample-blazor-clientside](https://github.com/microsoftgraph/msgraph-sample-blazor-clientside) - This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from Blazor WebAssembly apps.
-- [maester365/maester](https://github.com/maester365/maester) - The core repository for the Maester module with helper cmdlets that will be called from the Pester tests.
+- [maester365/maester](https://github.com/maester365/maester) - Maester is a PowerShell based test automation framework to help you stay in control of your Microsoft security configuration.
 - [VulcanWM/global-css-art](https://github.com/VulcanWM/global-css-art) - 
+- [lipis/flag-icons](https://github.com/lipis/flag-icons) - :flags: A curated collection of all country flags in SVG — plus the CSS for easier integration
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [lamw/homelab](https://github.com/lamw/homelab) - VMware Community Homelabs
 - [clong/DetectionLab](https://github.com/clong/DetectionLab) - Automate the creation of a lab environment complete with security tooling and logging best practices
@@ -226,13 +230,12 @@
 - [neonpangolin/geospatial-intelligence-library](https://github.com/neonpangolin/geospatial-intelligence-library) - 🛰 Your geospatial intelligence tool belt for digital investigations
 - [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 - [xvvvyz/tilde](https://github.com/xvvvyz/tilde) - Minimal browser startpage.
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [SorkinType/Merriweather](https://github.com/SorkinType/Merriweather) - Merriweather is a serif typeface. It is offered in Variable font format and static formats ( OTF, TTF WOFF etc).
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-- [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 - [Xainey/PSTestReport](https://github.com/Xainey/PSTestReport) - Simple Bootstrap PowerShell Test Report
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [RetroPage/RetroPage](https://github.com/RetroPage/RetroPage) - A lightweight homepage to quickly get you where you need to go.
 
 ## Java 
@@ -242,6 +245,7 @@
 
 ## JavaScript 
 
+- [SkipToTheEndpoint/OIBDeployer](https://github.com/SkipToTheEndpoint/OIBDeployer) - 
 - [wpaix/magnethover.js](https://github.com/wpaix/magnethover.js) - Dynamic magnet hover JS effect.
 - [tdjsnelling/sqtracker](https://github.com/tdjsnelling/sqtracker) - A modern private BitTorrent tracker platform
 - [dan335/dominus](https://github.com/dan335/dominus) - Dominus - Multiplayer Social Strategy Web Game
@@ -255,15 +259,13 @@
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [kasuganosoras/SuperMicro-IPMI-LicenseGenerator](https://github.com/kasuganosoras/SuperMicro-IPMI-LicenseGenerator) - 🔑 SuperMicro 超微主板 IPMI 高级功能授权解锁 Key 生成工具
 - [okaybenji/text-engine](https://github.com/okaybenji/text-engine) - A browser-based text adventure game engine and sample game
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [andreypopov/node-red-contrib-miio-roborock](https://github.com/andreypopov/node-red-contrib-miio-roborock) - Xioami Roborock node-red nodes
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
-- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [bludit/bludit](https://github.com/bludit/bludit) - Simple, Fast, Secure, Flat-File CMS
 - [magicsunday/webtrees-pedigree-chart](https://github.com/magicsunday/webtrees-pedigree-chart) - SVG based pedigree chart module for webtrees genealogy application.
 - [magicsunday/webtrees-descendants-chart](https://github.com/magicsunday/webtrees-descendants-chart) - SVG based descendants chart module for webtrees genealogy application.
@@ -272,7 +274,7 @@
 - [pixelfed/docs](https://github.com/pixelfed/docs) - Pixelfed Documentation
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [typemill/typemill](https://github.com/typemill/typemill) - Typemill is a lightweight, flat-file CMS designed for simple, fast, and flexible website and eBook creation using Markdown.
+- [typemill/typemill](https://github.com/typemill/typemill) - Typemill is a flat-file CMS based on Markdown and designed for informational websites like documentation, manuals, and handbooks.
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [emilstahl/ipv6](https://github.com/emilstahl/ipv6) - IPv6-adresse.dk source & data
@@ -291,6 +293,7 @@
 - [WeiChiaChang/modern-js-cheatsheet](https://github.com/WeiChiaChang/modern-js-cheatsheet) - Modern-JS-Cheatsheet 繁體中文版
 - [evanplaice/jquery-csv](https://github.com/evanplaice/jquery-csv) - A jQuery CSV parser plugin. Battle Tested | Optimized | 100% IETF RFC 4180 Complete
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [Xainey/powershell-electron-demo](https://github.com/Xainey/powershell-electron-demo) - A PowerShell and Electron Demo
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
@@ -302,6 +305,7 @@
 
 ## Jinja 
 
+- [maxhoesel-ansible/ansible-collection-pterodactyl](https://github.com/maxhoesel-ansible/ansible-collection-pterodactyl) - A collection to manage Pterodactyl Panel and Daemon hosts
 - [robertdebock/ansible-role-rsyslog](https://github.com/robertdebock/ansible-role-rsyslog) - Install and configure rsyslog on your system.
 - [metno/ansible-role-rsyslog](https://github.com/metno/ansible-role-rsyslog) - Configuration of sending logs to one or more syslog servers.
 - [hifis-net/ansible-collection-toolkit](https://github.com/hifis-net/ansible-collection-toolkit) - This Ansible collection provides production-ready Ansible roles used for providing services used in research and by research software engineers, but not exclusively.
@@ -317,6 +321,10 @@
 - [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 
+## MDX 
+
+- [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
+
 ## Markdown 
 
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
@@ -327,10 +335,12 @@
 
 ## Others 
 
+- [Deepshah0308/awesome-intunetools](https://github.com/Deepshah0308/awesome-intunetools) - A curated list of awesome tools and resources for managing, troubleshooting, and automating Microsoft Intune deployments. This repository includes links to various community-built tools, scripts, and 
+- [ugurkocde/IntuneMonitoring](https://github.com/ugurkocde/IntuneMonitoring) - 
+- [PowerStacks-BI/BI-for-Intune](https://github.com/PowerStacks-BI/BI-for-Intune) - Repository for sample templates for BI for Intune reports.
 - [MoeKinani/DisableNetBIOS](https://github.com/MoeKinani/DisableNetBIOS) - 
 - [ugurkocde/KQL_Intune](https://github.com/ugurkocde/KQL_Intune) - 
-- [thenikk/Oceanleaf](https://github.com/thenikk/Oceanleaf) - Scripts & files for my blog.
-- [SkipToTheEndpoint/OpenIntuneBaseline](https://github.com/SkipToTheEndpoint/OpenIntuneBaseline) - Community-driven baseline to accelerate Intune adoption and learning.
+- [thenikk/Oceanleaf](https://github.com/thenikk/Oceanleaf) - Content from my blog.
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
 - [stamparm/ipsum](https://github.com/stamparm/ipsum) - Daily feed of bad IPs (with blacklist hit scores)
@@ -338,7 +348,7 @@
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [HDVinnie/Torrent-Tracker-Platforms](https://github.com/HDVinnie/Torrent-Tracker-Platforms) - A Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding Languages
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
+- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses with certifications. Also available at https://free-certifications.com/
 - [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
 - [LearningKijo/KQL](https://github.com/LearningKijo/KQL) - Threat Hunting query in Microsoft 365 Defender, XDR. Provide out-of-the-box KQL hunting queries - App, Email, Identity and Endpoint.
 - [fabionoth/awesome-cyber-security](https://github.com/fabionoth/awesome-cyber-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
@@ -364,13 +374,12 @@
 - [siemucsm/siemucsm](https://github.com/siemucsm/siemucsm) - SIEM USE Case Selection Methodology
 - [wallarm/awesome-nginx-security](https://github.com/wallarm/awesome-nginx-security) - 🔥 A curated list of awesome links related to application security related to the environments with NGINX or Kubernetes Ingres Controller (based on NGINX)
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [juntossomosmais/frontend-guideline](https://github.com/juntossomosmais/frontend-guideline) - 📝 Front-end Guideline by Juntos Somos Mais
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [microsoft/azure-pipelines-yaml](https://github.com/microsoft/azure-pipelines-yaml) - Azure Pipelines YAML examples, templates, and community interaction
-- [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+- [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [mjtechguy/wireguard-site-to-site](https://github.com/mjtechguy/wireguard-site-to-site) - Wireguard site-to-site (network-to-network) VPN Configuration examples
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
@@ -378,6 +387,7 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [zenika-open-source/promote-open-source-project](https://github.com/zenika-open-source/promote-open-source-project) - 📄 How to promote my open source project?
 - [bennettsharon/AZ-Study-Guides](https://github.com/bennettsharon/AZ-Study-Guides) - 
+- [EnergizedProtection/block](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether!
 - [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - 🔣 A collection of GitHub issue, pull request and security templates
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -405,11 +415,9 @@
 - [phpipam/phpipam](https://github.com/phpipam/phpipam) - phpipam development repository
 - [MISP/MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform
 - [bsmithio/OPNsense-Dashboard](https://github.com/bsmithio/OPNsense-Dashboard) - A functional and useful dashboard for OPNsense that utilizes InfluxDB, Grafana, Graylog, and Telegraf.
-- [Yupy/BtiTracker-1.5.0](https://github.com/Yupy/BtiTracker-1.5.0) - BitTorrent Tracker Source
 - [mkucej/i-librarian-free](https://github.com/mkucej/i-librarian-free) - I, Librarian - open-source version of  a PDF managing SaaS.
 - [fr0tt/benotes](https://github.com/fr0tt/benotes) - An open source self hosted notes and bookmarks taking web app.
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
-- [verza22/glarium](https://github.com/verza22/glarium) - Ikariam clone
 - [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
 - [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while ex
 - [Yaro2709/New-Star](https://github.com/Yaro2709/New-Star) - Web. browser game engine :)
@@ -450,11 +458,39 @@
 
 ## PowerShell 
 
+- [Jordan-Albaladejo/Responding-To-Responder-Guide-0001](https://github.com/Jordan-Albaladejo/Responding-To-Responder-Guide-0001) - This repository provides practical guidance and scripts for defending Windows environments against Responder tool attacks.  Blocking, defending and securing common discovery protocols: LLMNR, NetBIOS,
+- [ChrFrohn/Entra-Lifecycle-Workflows](https://github.com/ChrFrohn/Entra-Lifecycle-Workflows) - Code for Microsoft Entra ID Lifecycle Workflows (Custom extensions)
+- [dgulle/Security-Baselines](https://github.com/dgulle/Security-Baselines) - 
+- [microsoft/intune-my-macs](https://github.com/microsoft/intune-my-macs) - intune-my-macs is an automation project designed to quickly and simply configure your Microsoft Intune environment for macOS device management. It includes scripts, profiles, and setup guidance to hel
+- [ugurkocde/DeviceOffboardingManager](https://github.com/ugurkocde/DeviceOffboardingManager) - A PowerShell GUI tool for efficiently managing and offboarding devices from Microsoft Intune, Autopilot, and Entra ID, featuring bulk operations and real-time analytics for streamlined device lifecycl
+- [jorgeasaurus/IntuneHydrationKit](https://github.com/jorgeasaurus/IntuneHydrationKit) - Quick way to import starter configs into Intune
+- [enigma-tek/CodeOrganizer](https://github.com/enigma-tek/CodeOrganizer) - Web based PowerShell driven, PowerShell and KQL organizer
+- [imabdk/Toast-Notification-Script](https://github.com/imabdk/Toast-Notification-Script) - My Windows Toast Notification Script explained in details here: https://imab.dk/windows-10-toast-notification-script/
+- [PSModule/docs](https://github.com/PSModule/docs) - Docs for the PSModule framework
+- [NicklasAhlberg/Intune](https://github.com/NicklasAhlberg/Intune) - 
+- [mtniehaus/UEFIv2](https://github.com/mtniehaus/UEFIv2) - UEFIv2 master
+- [ennnbeee/IntuneAppAssigner](https://github.com/ennnbeee/IntuneAppAssigner) - The IntuneAppAssigner PowerShell script allows for the bulk update or replacement of assignments for Android, iOS, macOS, and Windows apps in Intune.
+- [rink-turksma/IntunePrepTool](https://github.com/rink-turksma/IntunePrepTool) - IntunePrepTool is a tool designed for creating Intune packages using the MS Win32 Content Prep Tool. The tool aims to simplify the process of packaging applications for deployment through Intune by au
+- [jeffdfield/GeneralPublic](https://github.com/jeffdfield/GeneralPublic) - 
+- [eskonr/MEMPowered](https://github.com/eskonr/MEMPowered) - This is repository of tools,scripts and reports that are created by Eswar and also collected from other sources to help community.
+- [aaronparker/icons](https://github.com/aaronparker/icons) - Icons for use with applications deployed via Microsoft Intune / MDM / ConfigMgr etc.
+- [1RedOne/Invoke-Clippy](https://github.com/1RedOne/Invoke-Clippy) - Celebrate the magic of Clippy with your family this holiday season
+- [petripaavola/IntuneDeviceDetailsGUI](https://github.com/petripaavola/IntuneDeviceDetailsGUI) - Intune Device Details GUI
+- [JayRHa/EndpointAnalyticsRemediationScripts](https://github.com/JayRHa/EndpointAnalyticsRemediationScripts) - 
+- [stevenbartcom/SCCMRepair](https://github.com/stevenbartcom/SCCMRepair) - 
+- [damienvanrobaeys/Intune_BIOS_Password_KeyVault](https://github.com/damienvanrobaeys/Intune_BIOS_Password_KeyVault) - Store BIOS passwords on Azure Key Vault and set devices password with Intune (for Lenovo, Dell, HP)
+- [ugurkocde/IntuneAutomation](https://github.com/ugurkocde/IntuneAutomation) - 
+- [ennnbeee/IntuneFirewallMigration](https://github.com/ennnbeee/IntuneFirewallMigration) - IntuneFirewallMigration is an updated version of the originally Microsoft provided tool to capture firewall rules from a target machine and upload them to Intune.
+- [jflieben/M365Permissions](https://github.com/jflieben/M365Permissions) - Generate a 360 degree view of a user's permissions in Microsoft 365
+- [jorgeasaurus/MgConsoleGuiGraphSearch](https://github.com/jorgeasaurus/MgConsoleGuiGraphSearch) - Interactive Microsoft Graph search tool using console GUI for various Microsoft 365 and Azure AD object types.
+- [SMSAgentSoftware/ConfigMgrCleanup](https://github.com/SMSAgentSoftware/ConfigMgrCleanup) - Contains SQL queries and scripts to aid in identifying legacy or unused items for a ConfigMgr clean up project
+- [jflieben/assortedFunctionsV2](https://github.com/jflieben/assortedFunctionsV2) - 
+- [matheusdantas-md/automacao-sccm-instaladores](https://github.com/matheusdantas-md/automacao-sccm-instaladores) - 
+- [aclifford81/PRAutopilotEnroll](https://github.com/aclifford81/PRAutopilotEnroll) - Proactive Remediation to auto onboard devices into Autopilot
 - [MHimken/GroupCentricDocumentation](https://github.com/MHimken/GroupCentricDocumentation) - Group centric documentation will provide you with information about your Intune assignments to groups.
 - [MSEndpointMgr/IntuneAppFactory](https://github.com/MSEndpointMgr/IntuneAppFactory) - Intune App Factory automates Win32 application packaging in Intune.
 - [tugich/DeploymentEditor](https://github.com/tugich/DeploymentEditor) - Deployment Editor simplifies software packaging with PSAppDeployToolkit (PSADT). You can click your sequence for PSADT through the easy GUI.
 - [Spicy-Toaster/ActiveDirectory-Tiering](https://github.com/Spicy-Toaster/ActiveDirectory-Tiering) - Scripts and a short guide for using them to tier an Active Directory. Made for BSides Copenhagen 2024
-- [ugurkocde/IntuneBrew](https://github.com/ugurkocde/IntuneBrew) - IntuneBrew is a PowerShell-based tool that simplifies the process of uploading and managing macOS applications in Microsoft Intune. It automates the entire workflow from downloading apps to uploading 
 - [philjorgensen/Intune](https://github.com/philjorgensen/Intune) - 
 - [DanysysTeam/PS-SFTA](https://github.com/DanysysTeam/PS-SFTA) - PowerShell Set File Type Association
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
@@ -464,12 +500,12 @@
 - [erlwes/Get-LenovoInfo](https://github.com/erlwes/Get-LenovoInfo) - Get product- and warranty information of Lenovo PCs
 - [asjimene/CMPackager](https://github.com/asjimene/CMPackager) - Creates ConfigMgr Applications using XML Recipe Files
 - [AntoPorter/Intune-Remediations](https://github.com/AntoPorter/Intune-Remediations) - I hope these Microsoft Intune Remediations inspire you to make your own!
-- [ugurkocde/IntuneAssignmentChecker](https://github.com/ugurkocde/IntuneAssignmentChecker) - This script enables IT administrators to efficiently analyze and audit Intune assignments. It checks assignments for specific users, groups, or devices, displays all policies and their assignments, id
+- [ugurkocde/IntuneAssignmentChecker](https://github.com/ugurkocde/IntuneAssignmentChecker) - This script enables IT administrators to analyze and audit Intune assignments. It checks assignments for specific users, groups, or devices, displays all policies and their assignments, identifies una
 - [FlorianSLZ/scloud](https://github.com/FlorianSLZ/scloud) - Code Snippets mentioned at my Blog: scloud.work
 - [MHimken/toolbox](https://github.com/MHimken/toolbox) - This is my toolbox. Watch where you step.
 - [PatchMyPCTeam/Community-Scripts](https://github.com/PatchMyPCTeam/Community-Scripts) - This repository contains, curated scripts from the Patch My PC community. Note this repository is managed by the Patch My PC team. Please see the read me for additional information.
 - [FlorianSLZ/IntuneBulkMaster](https://github.com/FlorianSLZ/IntuneBulkMaster) - The IntuneBulkMaster provides a set of functions for managing and interacting with Microsoft Intune. It is designed to perform bulk operations on Intune-managed devices, such as rebooting, collecting 
-- [erlwes/PSAdaptiveCards](https://github.com/erlwes/PSAdaptiveCards) - Generate Adaptive Cards JSON with PowerShell-code
+- [erlwes/PSAdaptiveCard](https://github.com/erlwes/PSAdaptiveCard) - Generate Adaptive Cards JSON with PowerShell-code
 - [LearningKijo/MDEtester](https://github.com/LearningKijo/MDEtester) - MDE Tester is designed to help testing various features in Microsoft Defender for Endpoint.
 - [ugurkocde/Intune](https://github.com/ugurkocde/Intune) - Intune related scripts
 - [okieselbach/Intune](https://github.com/okieselbach/Intune) - Intune Scripts and Helpers.
@@ -482,13 +518,13 @@
 - [belibug/Mold](https://github.com/belibug/Mold) - Mold is a fast and powerful templating and cloning engine for PowerShell (and beyond!)
 - [ThomasKur/M365Documentation](https://github.com/ThomasKur/M365Documentation) - Automatic Microsoft 365 Documentation to simplify the life of admins and consultants.
 - [petripaavola/Get-IntuneManagementExtensionDiagnostics](https://github.com/petripaavola/Get-IntuneManagementExtensionDiagnostics) - Get-IntuneManagementExtensionDiagnostics script analyzes Intune IME logs and shows events in Timeline
-- [OSDeploy/OSDCloud](https://github.com/OSDeploy/OSDCloud) - OSDCloud is a process to fully deploy a Windows OS from a WinPE Environment
 - [damienvanrobaeys/Run-in-Sandbox](https://github.com/damienvanrobaeys/Run-in-Sandbox) - Run PS1, VBS, CMD, EXE, MSI, Intunewin, MSIX, or extract ISO, ZIP in Windows Sandbox very quickly just from a right-click
 - [haavarstein/Intune](https://github.com/haavarstein/Intune) - 
 - [haavarstein/Automation-Framework-Community-Edition](https://github.com/haavarstein/Automation-Framework-Community-Edition) - 
 - [windows-admins/Intune](https://github.com/windows-admins/Intune) - 
 - [windows-admins/ConfigMgr](https://github.com/windows-admins/ConfigMgr) - 
 - [mtniehaus/UpdateOS](https://github.com/mtniehaus/UpdateOS) - Sample app for installing Windows updates during an Autopilot deployment
+- [SkipToTheEndpoint/OpenIntuneBaseline](https://github.com/SkipToTheEndpoint/OpenIntuneBaseline) - Community-driven baseline to accelerate Intune adoption and learning.
 - [MG-Cloudflow/Intune-Toolkit](https://github.com/MG-Cloudflow/Intune-Toolkit) - The Intune-Toolkit offers a basic & user-friendly interface to connect to Microsoft Graph, manage policy assignments, and handle backup and restore operations
 - [byteben/Win32App-Migration-Tool](https://github.com/byteben/Win32App-Migration-Tool) - 
 - [PeterKlapwijk/PowerShell](https://github.com/PeterKlapwijk/PowerShell) - 
@@ -496,18 +532,18 @@
 - [MSEndpointMgr/IntuneEnhancedInventory](https://github.com/MSEndpointMgr/IntuneEnhancedInventory) - Repository for the Intune Enhanced Inventory solution by MSEndpointmgr.com
 - [andrew-s-taylor/public](https://github.com/andrew-s-taylor/public) - Public Scripts and Apps
 - [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve 
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
 - [Micke-K/IntuneManagement](https://github.com/Micke-K/IntuneManagement) - Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and ed
 - [MSEndpointMgr/ConfigMgr](https://github.com/MSEndpointMgr/ConfigMgr) - Microsoft Endpoint Configuration Manager scripts and tools
 - [MSEndpointMgr/IntuneWin32App](https://github.com/MSEndpointMgr/IntuneWin32App) - Provides a set of functions to manage all aspects of Win32 apps in Microsoft Intune.
 - [MSEndpointMgr/Intune](https://github.com/MSEndpointMgr/Intune) - Microsoft Intune scripts
-- [OSDeploy/OSD](https://github.com/OSDeploy/OSD) - OSD Shared Functions
+- [OSDeploy/OSD](https://github.com/OSDeploy/OSD) - PowerShell Module OSD
 - [ztrhgf/useful_powershell_modules](https://github.com/ztrhgf/useful_powershell_modules) - Source code for modules placed in PowerShell Gallery and on my https://doitpshway.com blog.
 - [djust270/IntuneEndpointTools](https://github.com/djust270/IntuneEndpointTools) - A set of tools for managing and diagnosing Intune on Windows endpoints
 - [DeploymentResearch/HydrationKitWS2022](https://github.com/DeploymentResearch/HydrationKitWS2022) - 
 - [38ES/PSMake](https://github.com/38ES/PSMake) - PSMake is an all-in-one project management and lifecycle toolset for PowerShell.
 - [canix1/ADACLScanner](https://github.com/canix1/ADACLScanner) - Repo for ADACLScan.ps1 - Your number one script for ACL's in Active Directory
-- [evild3ad/Microsoft-Analyzer-Suite](https://github.com/evild3ad/Microsoft-Analyzer-Suite) - A collection of PowerShell scripts for analyzing data from Microsoft 365 and Microsoft Entra ID
+- [LETHAL-FORENSICS/Microsoft-Analyzer-Suite](https://github.com/LETHAL-FORENSICS/Microsoft-Analyzer-Suite) - A collection of PowerShell scripts for analyzing data from Microsoft 365 and Microsoft Entra ID
 - [invictus-ir/Microsoft-Extractor-Suite](https://github.com/invictus-ir/Microsoft-Extractor-Suite) - A PowerShell module for acquisition of data from Microsoft 365 and Azure for Incident Response and Cyber Security purposes.
 - [farag2/Utilities](https://github.com/farag2/Utilities) - Useful things
 - [imabdk/PowerShell](https://github.com/imabdk/PowerShell) - All my PowerShell scripts which I'm referencing in the various posts on https://imab.dk
@@ -517,10 +553,10 @@
 - [Romanitho/Winget-AutoUpdate](https://github.com/Romanitho/Winget-AutoUpdate) - WAU daily updates apps as system and notify connected users. (Allowlist and Blocklist support)
 - [PSModule/Utilities](https://github.com/PSModule/Utilities) - A PowerShell module with a collection of functions that should have been in PowerShell to start with.
 - [PSModule/Template-PSModule](https://github.com/PSModule/Template-PSModule) - Template for a PowerShell module repo.
-- [PSModule/Build-PSModule](https://github.com/PSModule/Build-PSModule) - Action that is used to build a PowerShell module.
+- [PSModule/Build-PSModule](https://github.com/PSModule/Build-PSModule) - Action that is used to build a PowerShell module and it's manifest
 - [PSModule/Process-PSModule](https://github.com/PSModule/Process-PSModule) - Process a module from source code to published module.
 - [JustinGrote/ModuleFast-action](https://github.com/JustinGrote/ModuleFast-action) - 
-- [TrimarcJake/Locksmith](https://github.com/TrimarcJake/Locksmith) - A small tool built to find and fix common misconfigurations in Active Directory Certificate Services.
+- [jakehildreth/Locksmith](https://github.com/jakehildreth/Locksmith) - A small tool built to find and fix common misconfigurations in Active Directory Certificate Services.
 - [JustinGrote/ModuleFast](https://github.com/JustinGrote/ModuleFast) - A "fast and loose" way to install modules from Powershell Gallery quickly. Meant for CICD, not production
 - [ansible-collections/ansible.windows](https://github.com/ansible-collections/ansible.windows) - Windows core collection for Ansible
 - [fsackur/poke](https://github.com/fsackur/poke) - A powerful reflection module for powershell.
@@ -530,7 +566,7 @@
 - [jaols/ServiceAccountHandler](https://github.com/jaols/ServiceAccountHandler) - Handle change of windows service account passwords. Highly adapteble.
 - [S3cur3Th1sSh1t/PowerSharpPack](https://github.com/S3cur3Th1sSh1t/PowerSharpPack) - 
 - [PoshCode/Actions](https://github.com/PoshCode/Actions) - Github actions for PowerShell projects
-- [rstolpe/MaintainModule](https://github.com/rstolpe/MaintainModule) - This module update, install, uninstall old versions of your PowerShell modules in a easy way
+- [rwidmark/MaintainModule](https://github.com/rwidmark/MaintainModule) - This module update, install, uninstall old versions of your PowerShell modules in a easy way
 - [NetSPI/MicroBurst](https://github.com/NetSPI/MicroBurst) - A collection of scripts for assessing Microsoft Azure security
 - [psclplg/aad-guardian](https://github.com/psclplg/aad-guardian) - 
 - [EvotecIT/PowerBGInfo](https://github.com/EvotecIT/PowerBGInfo) - PowerBGInfo is a PowerShell module that is used to generate background information for Windows machines. It's a replacement for BGInfo that doesn't require installation and is much more flexible.
@@ -542,7 +578,6 @@
 - [LxLeChat/ConvertToPSClass](https://github.com/LxLeChat/ConvertToPSClass) - Convert PSObject to PS Classes. I'm using it to create PS Classes from Json strings.
 - [12Knocksinna/Office365itpros](https://github.com/12Knocksinna/Office365itpros) - PowerShell examples for articles published on https://office365itpros.com and https://practical365.com. See https://o365itpros.gumroad.com/l/M365PS for the Automating Microsoft 365 with PowerShell eBo
 - [mdgrs-mei/FancyClearHost](https://github.com/mdgrs-mei/FancyClearHost) - Clears your PowerShell host in a fancy way.
-- [EvotecIT/PSPGP](https://github.com/EvotecIT/PSPGP) - PSPGP is a PowerShell module that provides PGP functionality in PowerShell. It allows encrypting and decrypting files/folders and strings using PGP.
 - [TobiasPSP/Modules.PsoProgressButton](https://github.com/TobiasPSP/Modules.PsoProgressButton) - Easy access to taskbar button animation such as progress bar or colorization
 - [microsoft/Microsoft365DSC](https://github.com/microsoft/Microsoft365DSC) - Manages, configures, extracts and monitors Microsoft 365 tenant configurations
 - [safebuffer/vulnerable-AD](https://github.com/safebuffer/vulnerable-AD) - Create a vulnerable active directory that's allowing you to test most of the active directory attacks in a local lab
@@ -558,7 +593,7 @@
 - [soteria-security/365Inspect](https://github.com/soteria-security/365Inspect) - A PowerShell script that automates the security assessment of Microsoft 365 environments.
 - [ConfigJon/Firmware-Management](https://github.com/ConfigJon/Firmware-Management) - Firmware and BIOS management scripts.
 - [mmims/PSUtilities](https://github.com/mmims/PSUtilities) - Collection of PowerShell utility scripts.
-- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ free PowerShell scripts (.ps1) for Linux, Mac OS, and Windows.
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ free PowerShell scripts (.ps1) for Linux, macOS, and Windows.
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [Gerenios/AADInternals](https://github.com/Gerenios/AADInternals) - AADInternals PowerShell module for administering Azure AD and Office 365
 - [FriedrichWeinmann/Refactor](https://github.com/FriedrichWeinmann/Refactor) - PowerShell Code analysis and refactoring framework
@@ -646,14 +681,13 @@
 - [lwsrbrts/PoSHue](https://github.com/lwsrbrts/PoSHue) - Windows PowerShell 5/PowerShell Core 6 Classes for controlling Philips Hue Bridge and Hue Lights, Groups, Sensors.
 - [EliteLoser/PSipcalc](https://github.com/EliteLoser/PSipcalc) - Svendsen Tech's PSipcalc mimics the Linux utility ipcalc in PowerShell and shows extensive network information given a CIDR or IP and subnet mask.
 - [ryan-leap/ShapeArray](https://github.com/ryan-leap/ShapeArray) - Produces an array (with optional embedded text) which can be used for formatting console output
-- [jdhitsolutions/PSBackup](https://github.com/jdhitsolutions/PSBackup) - This is a private repo for my PowerShell backup tools
+- [jdhitsolutions/PSBackup](https://github.com/jdhitsolutions/PSBackup) - This is a collection of my PowerShell backup tools
 - [alt3/Docusaurus.Powershell](https://github.com/alt3/Docusaurus.Powershell) - Docusaurus websites for PowerShell modules
 - [techthoughts2/Catesta](https://github.com/techthoughts2/Catesta) - Catesta is a PowerShell module and vault project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.
 - [techthoughts2/PSGalleryExplorer](https://github.com/techthoughts2/PSGalleryExplorer) - Search, explore, and discover PowerShell Gallery modules.
 - [gravejester/psInlineProgress](https://github.com/gravejester/psInlineProgress) - Write inline progress bars in PowerShell.
 - [lazywinadmin/nxtools](https://github.com/lazywinadmin/nxtools) - PowerShell tools for Linux Operating System
 - [nightroman/PowerShellTraps](https://github.com/nightroman/PowerShellTraps) - Collection of PowerShell traps and oddities
-- [EvotecIT/PSWritePDF](https://github.com/EvotecIT/PSWritePDF) - PowerShell Module to create, edit, split, merge PDF files on Windows / Linux and MacOS
 - [bmoadmin/PowerplanUtils](https://github.com/bmoadmin/PowerplanUtils) - PowerShell module to interact with Windows power plans.
 - [miriamxyra/EventList](https://github.com/miriamxyra/EventList) - EventList
 - [PowerShellMafia/PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - PowerSploit - A PowerShell Post-Exploitation Framework
@@ -762,10 +796,10 @@
 - [steviecoaster/PSSysadminToolkit](https://github.com/steviecoaster/PSSysadminToolkit) - A collection of Powershell scripts to make life as a sysadmin just a tiny bit more bearable
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [junecastillote/Get-WebUpStatus](https://github.com/junecastillote/Get-WebUpStatus) - Use Get-WebUpStatus.ps1 to programmatically check the availability status of Sharepoint Sites or any WebSites
-- [microsoft/MSLab](https://github.com/microsoft/MSLab) - Azure Stack HCI, Windows 10 and Windows Server rapid lab deployment scripts
+- [microsoft/MSLab](https://github.com/microsoft/MSLab) - Azure Local (formerly Azure Stack HCI), Windows 10 and Windows Server rapid lab deployment scripts
 - [iainbrighton/PScribo](https://github.com/iainbrighton/PScribo) - PowerShell documentation framework
 - [PrateekKumarSingh/Graphical](https://github.com/PrateekKumarSingh/Graphical) - Open-Source, Platform independent module that consumes data points as input and plots them on a 2D graph 📈📊💹 [Scatter / Bar / Line] on the PowerShell Console/Terminal
-- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
+- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - This repository has been moved to https://codeberg.org/janikvonrotz/awesome-powershell. Please visit the new location for the latest updates.
 - [FuzzySecurity/PowerShell-Suite](https://github.com/FuzzySecurity/PowerShell-Suite) - My musings with PowerShell
 - [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
 - [RamblingCookieMonster/PSStackExchange](https://github.com/RamblingCookieMonster/PSStackExchange) - PowerShell module to query Stack Exchange API
@@ -788,27 +822,28 @@
 
 ## Python 
 
+- [almenscorner/IntuneCD](https://github.com/almenscorner/IntuneCD) - Tool to backup, update and document configurations in Intune
+- [microsoft/secureboot_objects](https://github.com/microsoft/secureboot_objects) - Secure boot objects recommended by Microsoft.
 - [voytas75/VoytasCodeLab](https://github.com/voytas75/VoytasCodeLab) - A diverse collection of scripts, snippets, and functions
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
-- [cisagov/LME](https://github.com/cisagov/LME) - Logging Made Easy (LME) is a no cost, open source platform that centralizes log collection, enhances threat detection, and enables real-time alerting, helping small to medium-sized organizations secur
 - [socfortress/Wazuh-Rules](https://github.com/socfortress/Wazuh-Rules) - Advanced Wazuh Rules for more accurate threat detection. Feel free to implement within your own Wazuh environment, contribute, or fork!
 - [CorralPeltzer/newTrackon](https://github.com/CorralPeltzer/newTrackon) - newTrackon, a public open BitTorrent trackers monitoring tool
 - [jerrymakesjelly/autoremove-torrents](https://github.com/jerrymakesjelly/autoremove-torrents) - Automatically remove torrents according to your strategies.
-- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.9+) and Qt 5 (5.15) for cros
+- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels.
 - [thinkst/opencanary](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [JPCERTCC/LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log
 - [GNS3/gns3-gui](https://github.com/GNS3/gns3-gui) - GNS3 Graphical Network Simulator
-- [maxhoesel-ansible/ansible-collection-pterodactyl](https://github.com/maxhoesel-ansible/ansible-collection-pterodactyl) - A collection to manage Pterodactyl Panel and Daemon hosts
-- [mvelazc0/BadZure](https://github.com/mvelazc0/BadZure) - BadZure orchestrates the setup of Azure AD tenants, populating them with diverse entities while also introducing common security misconfigurations to create vulnerable tenants with multiple attack pat
+- [mvelazc0/BadZure](https://github.com/mvelazc0/BadZure) - BadZure automates the deployment of intentionally misconfigured Entra ID tenants and Azure subscriptions, populating them with diverse entities and configurable, traversable attack paths.
 - [OTRF/ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - A community-driven, open-source project to share detection logic, adversary tradecraft and resources to make detection development more efficient.
 - [ckan/ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.hu
+- [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
 - [TKCERT/pfFocus](https://github.com/TKCERT/pfFocus) - Generate meaningful output from your pfSense configuration backup, like Markdown documentation.
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [yandex/gixy](https://github.com/yandex/gixy) - Nginx configuration static analyzer
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [tohojo/flent](https://github.com/tohojo/flent) - The FLExible Network Tester.
 - [byt3bl33d3r/CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - A swiss army knife for pentesting networks
@@ -821,7 +856,7 @@
 - [openai/glide-text2im](https://github.com/openai/glide-text2im) - GLIDE: a diffusion-based text-conditional image synthesis model
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
 - [fuatakgun/eufy_security](https://github.com/fuatakgun/eufy_security) - Home Assistant integration to manage Eufy Security devices as cameras, home base stations, doorbells, motion and contact sensors.
 - [JonasPed/homeassistant-eloverblik](https://github.com/JonasPed/homeassistant-eloverblik) - Home Assistant Custom Component showing data from eloverblik.dk
 - [jkirkcaldy/plex-utills](https://github.com/jkirkcaldy/plex-utills) - Manage your Plex library automatically
@@ -835,13 +870,14 @@
 - [nonsleepr/ha-eufy-security](https://github.com/nonsleepr/ha-eufy-security) - Custom integration of Home Assistant with EufySecurity
 - [roflcoopter/viseron](https://github.com/roflcoopter/viseron) - Self-hosted, local only NVR and AI Computer Vision software.  With features such as object detection, motion detection, face recognition and more, it gives you the power to keep an eye on your home, o
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [PiotrMachowski/Xiaomi-cloud-tokens-extractor](https://github.com/PiotrMachowski/Xiaomi-cloud-tokens-extractor) - This tool/script retrieves tokens for all devices connected to Xiaomi cloud and encryption keys for BLE devices.
+- [PiotrMachowski/Xiaomi-cloud-tokens-extractor](https://github.com/PiotrMachowski/Xiaomi-cloud-tokens-extractor) - This tool retrieves tokens for all devices connected to Xiaomi cloud and encryption keys for BLE devices.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [itu-summer/qualification-seminar-materials-2018](https://github.com/itu-summer/qualification-seminar-materials-2018) - Material for the qualification seminar 2018
 
 ## Ruby 
 
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [fluent/fluentd](https://github.com/fluent/fluentd) - Fluentd: Unified Logging Layer (project under CNCF)
 - [hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
@@ -854,7 +890,7 @@
 - [torrust/torrust-index](https://github.com/torrust/torrust-index) - This repository serves as the backend for the Torrust Index project.
 - [PowerShell/DSC](https://github.com/PowerShell/DSC) - This repo is for the DSC v3 project
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
-- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -876,11 +912,13 @@
 
 ## Shell 
 
-- [bhdicaire/visioStencils](https://github.com/bhdicaire/visioStencils) - 4,450 visio :art: shapes, stencils, symbols, and icons collection to visually represent your IT infrastructure
+- [ugurkocde/IntuneBrew](https://github.com/ugurkocde/IntuneBrew) - IntuneBrew is a PowerShell-based tool that simplifies the process of uploading and managing macOS applications in Microsoft Intune. It automates the entire workflow from downloading apps to uploading 
+- [bhdicaire/visioStencils](https://github.com/bhdicaire/visioStencils) - 4,486 visio :art: shapes, stencils, symbols, and icons collection to visually represent your IT infrastructure
 - [microsoft/mdatp-xplat](https://github.com/microsoft/mdatp-xplat) - Microsoft Defender for macOS/Linux - config samples, auxiliary tools
 - [X4BNet/lists_vpn](https://github.com/X4BNet/lists_vpn) - Lists of VPN providers (automatically updated)
+- [cisagov/LME](https://github.com/cisagov/LME) - Logging Made Easy (LME) is a no cost, open source platform that centralizes log collection, enhances threat detection, and enables real-time alerting, helping small to medium-sized organizations secur
 - [firehol/blocklist-ipsets](https://github.com/firehol/blocklist-ipsets) - ipsets dynamically updated with firehol's update-ipsets.sh script
-- [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way!
+- [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 8.XX Support and macOS High Sierra ~ macOS Sequoia Support.
 - [infothrill/ansible-role-lynis](https://github.com/infothrill/ansible-role-lynis) - An Ansible role to install Lynis, an open source security auditing tool.
 - [MisterCalvin/pterodactyl-swat4-egg](https://github.com/MisterCalvin/pterodactyl-swat4-egg) - SWAT 4 egg for Pterodactyl Panel
 - [MisterCalvin/swat4-server-docker](https://github.com/MisterCalvin/swat4-server-docker) - SWAT 4 Dedicated server running inside a Docker container (with mod support)
@@ -892,7 +930,7 @@
 - [nextcloud/vm](https://github.com/nextcloud/vm) - 💻☁📦 The Nextcloud VM (virtual machine appliance), Home/SME Server and scripts for RPi (4-5). Community developed and maintained.
 - [netson/ubuntu-unattended](https://github.com/netson/ubuntu-unattended) - Script to create unattended Ubuntu ISO
 - [unofficial-unifi/unifi-pfsense](https://github.com/unofficial-unifi/unifi-pfsense) - A script that installs the UniFi Controller software on pfSense and other FreeBSD systems
-- [StamusNetworks/SELKS](https://github.com/StamusNetworks/SELKS) - A Suricata based IDS/IPS/NSM distro
+- [StamusNetworks/Clear-NDR-ISO](https://github.com/StamusNetworks/Clear-NDR-ISO) - A Suricata based NDR distribution
 - [hassio-addons/addon-matrix](https://github.com/hassio-addons/addon-matrix) - Matrix - Home Assistant Community Add-ons
 - [pfelk/pfelk](https://github.com/pfelk/pfelk) - pfSense/OPNsense + Elastic Stack
 - [ej52/proxmox-scripts](https://github.com/ej52/proxmox-scripts) - 
@@ -903,11 +941,9 @@
 - [MaxWinterstein/homeassistant-addons](https://github.com/MaxWinterstein/homeassistant-addons) - 
 - [GameServerManagers/LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers.
 - [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
-- [EnergizedProtection/block](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether!
 - [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - ✔️ WireGuard-Manager is an innovative tool designed to streamline the deployment and management of WireGuard VPNs. Emphasizing user-friendliness and security, it simplifies the complexities of VPN con
 - [Legion2/arduino-builder-action](https://github.com/Legion2/arduino-builder-action) - Github Action to run arduino-builder for sketches and see if they compile
-- [dgibbs64/SteamCMD-AppID-List-Servers](https://github.com/dgibbs64/SteamCMD-AppID-List-Servers) - Complete Steam Dedicated Servers AppID List
-- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
+- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
 - [pi-hole/PADD](https://github.com/pi-hole/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 
@@ -919,26 +955,34 @@
 
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 
+## Swift 
+
+- [gilburns/IntuneLogWatch](https://github.com/gilburns/IntuneLogWatch) - A macOS application for analyzing Microsoft Intune logs with human-readable insights
+
 ## TeX 
 
 - [david-christiansen/itu-thesis](https://github.com/david-christiansen/itu-thesis) - A highly unofficial, still experimental LaTeX document class for ITU M.Sc. and Ph.D. theses and dissertations
 
 ## TypeScript 
 
-- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
+- [chrisvel/tududi](https://github.com/chrisvel/tududi) - Self-hosted task management that combines the simplicity of personal with the power of professional project organization. Built for individuals and teams who value privacy, control, and efficiency.
+- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
+- [verza22/glarium](https://github.com/verza22/glarium) - Ikariam clone
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [PiotrMachowski/lovelace-xiaomi-vacuum-map-card](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card) - This card provides a user-friendly way to fully control map-based vacuums in Home Assistant. Supported brands include Xiaomi (Roborock/Viomi/Dreame/Roidmi/Valetudo/Valetudo RE), Neato, Wyze, Roomba, E
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell) - Provides PowerShell language and debugging support for Visual Studio Code
@@ -954,13 +998,12 @@
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
 - [pawelgrzybek/snippet-generator](https://github.com/pawelgrzybek/snippet-generator) - Snippet generator for Visual Studio Code, Sublime Text and Atom
 - [karanpratapsingh/fullstack-starterkit](https://github.com/karanpratapsingh/fullstack-starterkit) - GraphQL first full-stack starter kit with Node, React. Powered by TypeScript
-- [material-extensions/vscode-material-icon-theme](https://github.com/material-extensions/vscode-material-icon-theme) - Available on the VSCode Marketplace
+- [material-extensions/vscode-material-icon-theme](https://github.com/material-extensions/vscode-material-icon-theme) - Material Design icons for VS Code
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [pnp/cli-microsoft365](https://github.com/pnp/cli-microsoft365) - Manage Microsoft 365 and SharePoint Framework projects on any platform
 - [mqttjs/MQTT.js](https://github.com/mqttjs/MQTT.js) - The MQTT client for Node.js and the browser
 - [ng-bootstrap/ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) - Angular powered Bootstrap
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [schickling/chromeless](https://github.com/schickling/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 
@@ -984,6 +1027,10 @@
 ## YAML 
 
 - [ansible-lockdown/UBUNTU22-CIS](https://github.com/ansible-lockdown/UBUNTU22-CIS) - Automated CIS Benchmark Compliance Remediation for Ubuntu 22 with Ansible
+
+## YARA 
+
+- [mthcht/awesome-lists](https://github.com/mthcht/awesome-lists) - Awesome Security lists for SOC/CERT/CTI
 
 
 ## License
