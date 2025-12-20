@@ -1395,6 +1395,7 @@
 
 ## others 
 
+- [SkipToTheEndpoint/IntuneComplianceMaintainer](https://github.com/SkipToTheEndpoint/IntuneComplianceMaintainer) - Minimum OS Version Automation for Intune Compliance and App Protection
 - [Jordan-Albaladejo/Responding-To-Responder-Guide-0001](https://github.com/Jordan-Albaladejo/Responding-To-Responder-Guide-0001) - This repository provides practical guidance and scripts for defending Windows environments against Responder tool attacks.  Blocking, defending and securing common discovery protocols: LLMNR, NetBIOS,
 - [dgulle/Security-Baselines](https://github.com/dgulle/Security-Baselines) - 
 - [microsoft/intune-my-macs](https://github.com/microsoft/intune-my-macs) - intune-my-macs is an automation project designed to quickly and simply configure your Microsoft Intune environment for macOS device management. It includes scripts, profiles, and setup guidance to hel
