@@ -458,6 +458,7 @@
 
 ## PowerShell 
 
+- [Jatin-Makhija-sys/Powershell-Scripts](https://github.com/Jatin-Makhija-sys/Powershell-Scripts) - 
 - [SkipToTheEndpoint/IntuneComplianceMaintainer](https://github.com/SkipToTheEndpoint/IntuneComplianceMaintainer) - Minimum OS Version Automation for Intune Compliance and App Protection
 - [Jordan-Albaladejo/Responding-To-Responder-Guide-0001](https://github.com/Jordan-Albaladejo/Responding-To-Responder-Guide-0001) - This repository provides practical guidance and scripts for defending Windows environments against Responder tool attacks.  Blocking, defending and securing common discovery protocols: LLMNR, NetBIOS,
 - [ChrFrohn/Entra-Lifecycle-Workflows](https://github.com/ChrFrohn/Entra-Lifecycle-Workflows) - Code for Microsoft Entra ID Lifecycle Workflows (Custom extensions)
