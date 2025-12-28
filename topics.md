@@ -289,7 +289,7 @@
 - [ansible-lockdown/UBUNTU22-CIS](https://github.com/ansible-lockdown/UBUNTU22-CIS) - Automated CIS Benchmark Compliance Remediation for Ubuntu 22 with Ansible
 - [S3cur3Th1sSh1t/WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn) - Automation for internal Windows Penetrationtest / AD-Security
 - [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) - Module template with build pipeline and examples, including DSC elements.
-- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ free PowerShell scripts (.ps1) for Linux, macOS, and Windows.
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 600+ free PowerShell scripts (.ps1) for Linux, macOS, and Windows.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [dgoldman-msft/PSServicePrincipal](https://github.com/dgoldman-msft/PSServicePrincipal) - PowerShell module for creating and deleting enterprise and registered applications as well as SPN object (single and batch) for automation. This can be used as a facilitator for setting up Exchange Po
 - [nightroman/Invoke-Build](https://github.com/nightroman/Invoke-Build) - Build Automation in PowerShell
@@ -438,6 +438,7 @@
 
 ## cli 
 
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
@@ -491,7 +492,7 @@
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [lptstr/winfetch](https://github.com/lptstr/winfetch) - 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
-- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ free PowerShell scripts (.ps1) for Linux, macOS, and Windows.
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 600+ free PowerShell scripts (.ps1) for Linux, macOS, and Windows.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
@@ -1894,7 +1895,7 @@
 - [insomnimus/ps-dotenv](https://github.com/insomnimus/ps-dotenv) - A feature complete and unintrusive direnv for Powershell Core
 - [scriptrunner/ActionPacks](https://github.com/scriptrunner/ActionPacks) - Public PowerShell script gallery for ScriptRunner.
 - [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Download ScriptAnalyzer from PowerShellGallery
-- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ free PowerShell scripts (.ps1) for Linux, macOS, and Windows.
+- [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 600+ free PowerShell scripts (.ps1) for Linux, macOS, and Windows.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [PhrozenIO/PowerRemoteDesktop](https://github.com/PhrozenIO/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell.
 - [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
