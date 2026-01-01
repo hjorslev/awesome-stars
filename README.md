@@ -126,7 +126,6 @@
 - [cjmurph/PmsService](https://github.com/cjmurph/PmsService) - Plex Media Server service wrapper for windows
 - [PSAppDeployToolkit/PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) - Project Homepage & Forums
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-- [thoemmi/7Zip4Powershell](https://github.com/thoemmi/7Zip4Powershell) - Powershell module for creating and extracting 7-Zip archives
 - [PhonicUK/CLRCLI](https://github.com/PhonicUK/CLRCLI) - CLRCLI is an event-driven library for building line-art user interfaces in C#/.Net command-line applications.
 
 ## C++ 
@@ -811,6 +810,7 @@
 - [lazywinadmin/LazyWinAdmin_GUI](https://github.com/lazywinadmin/LazyWinAdmin_GUI) - PowerShell Script that generates a GUI/WinForms loaded with tons of functions
 - [lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell) - PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...)
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
+- [thoemmi/7Zip4Powershell](https://github.com/thoemmi/7Zip4Powershell) - Powershell module for creating and extracting 7-Zip archives
 - [torgro/cliMenu](https://github.com/torgro/cliMenu) - Build interactive CLI menus in Powershell
 
 ## PureBasic 
