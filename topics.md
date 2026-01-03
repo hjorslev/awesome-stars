@@ -1396,6 +1396,7 @@
 
 ## others 
 
+- [MrtnRQL/Companyportaliconsdotcom](https://github.com/MrtnRQL/Companyportaliconsdotcom) - 
 - [NateHutch365/MDEValidator](https://github.com/NateHutch365/MDEValidator) - 
 - [Jatin-Makhija-sys/Powershell-Scripts](https://github.com/Jatin-Makhija-sys/Powershell-Scripts) - 
 - [SkipToTheEndpoint/IntuneComplianceMaintainer](https://github.com/SkipToTheEndpoint/IntuneComplianceMaintainer) - Minimum OS Version Automation for Intune Compliance and App Protection
