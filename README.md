@@ -239,6 +239,7 @@
 
 ## JavaScript 
 
+- [MrtnRQL/Companyportaliconsdotcom](https://github.com/MrtnRQL/Companyportaliconsdotcom) - 
 - [SkipToTheEndpoint/OIBDeployer](https://github.com/SkipToTheEndpoint/OIBDeployer) - 
 - [wpaix/magnethover.js](https://github.com/wpaix/magnethover.js) - Dynamic magnet hover JS effect.
 - [tdjsnelling/sqtracker](https://github.com/tdjsnelling/sqtracker) - A modern private BitTorrent tracker platform
