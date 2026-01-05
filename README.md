@@ -100,6 +100,7 @@
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 - [olefriis/Eco2](https://github.com/olefriis/Eco2) - Take control of your Danfoss Eco™ 2 thermostats!
 - [shravan2x/Gameloop.Vdf](https://github.com/shravan2x/Gameloop.Vdf) - A fast, easy-to-use Valve Data Format parser for .NET
+- [EvotecIT/PSPublishModule](https://github.com/EvotecIT/PSPublishModule) - This module is a module builder helper that helps build PowerShell modules "Evotec way". It allows us to make sure our modules are built the same way every time making the process really easy to build
 - [SeeminglyScience/EditorServicesCommandSuite](https://github.com/SeeminglyScience/EditorServicesCommandSuite) - Collection of editor commands for use in PowerShell Editor Services.
 - [AdhocAdam/smletsexchangeconnector](https://github.com/AdhocAdam/smletsexchangeconnector) - SMLets PowerShell based Exchange Connector for controlling Microsoft System Center Service Manager 2016+
 - [PowerShell/ConsoleGuiTools](https://github.com/PowerShell/ConsoleGuiTools) - Modules that mix PowerShell and GUIs/CUIs!
@@ -664,7 +665,6 @@
 - [AutomationStudyGroup/Homework](https://github.com/AutomationStudyGroup/Homework) - Homework
 - [TheTaylorLee/AdminToolbox](https://github.com/TheTaylorLee/AdminToolbox) - Repository for the AdminToolbox PowerShell Modules
 - [SteffenBlake/PowershellOauth](https://github.com/SteffenBlake/PowershellOauth) - An extremely simple lightweight standalone Powershell script that lets you perform OAuth in the command line
-- [EvotecIT/PSPublishModule](https://github.com/EvotecIT/PSPublishModule) - This module is a module builder helper that helps build PowerShell modules "Evotec way". It allows us to make sure our modules are built the same way every time making the process really easy to build
 - [blindzero/Connect-MS365](https://github.com/blindzero/Connect-MS365) - Powershell module to connect to all MS365 services and install required modules or packages.
 - [JanDeDobbeleer/oh-my-posh2](https://github.com/JanDeDobbeleer/oh-my-posh2) - A prompt theming engine for Powershell
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
