@@ -1232,6 +1232,7 @@
 
 ## macos 
 
+- [gilburns/IntuneLogWatch](https://github.com/gilburns/IntuneLogWatch) - IntuneLogWatch is a macOS application for analyzing Microsoft Intune logs and delivering human-readable insights. It converts raw log data into understandable summaries, highlighting trends and issues
 - [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels.
 - [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 8.XX Support and macOS High Sierra ~ macOS Sequoia Support.
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
@@ -1409,7 +1410,6 @@
 - [dgulle/Security-Baselines](https://github.com/dgulle/Security-Baselines) - 
 - [microsoft/intune-my-macs](https://github.com/microsoft/intune-my-macs) - intune-my-macs is an automation project designed to quickly and simply configure your Microsoft Intune environment for macOS device management. It includes scripts, profiles, and setup guidance to hel
 - [ugurkocde/DeviceOffboardingManager](https://github.com/ugurkocde/DeviceOffboardingManager) - A PowerShell GUI tool for efficiently managing and offboarding devices from Microsoft Intune, Autopilot, and Entra ID, featuring bulk operations and real-time analytics for streamlined device lifecycl
-- [gilburns/IntuneLogWatch](https://github.com/gilburns/IntuneLogWatch) - A macOS application for analyzing Microsoft Intune logs with human-readable insights
 - [enigma-tek/CodeOrganizer](https://github.com/enigma-tek/CodeOrganizer) - Web based PowerShell driven, PowerShell and KQL organizer
 - [imabdk/Toast-Notification-Script](https://github.com/imabdk/Toast-Notification-Script) - My Windows Toast Notification Script explained in details here: https://imab.dk/windows-10-toast-notification-script/
 - [PSModule/docs](https://github.com/PSModule/docs) - Docs for the PSModule framework
