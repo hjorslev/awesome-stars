@@ -454,6 +454,8 @@
 
 ## PowerShell 
 
+- [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11
+- [mardahl/PSBucket](https://github.com/mardahl/PSBucket) - PowerShell scripts that relate to blog articles I write on iphase.dk, msendpointmgr.com or technet gallery.
 - [NateHutch365/MDEValidator](https://github.com/NateHutch365/MDEValidator) - 
 - [Jatin-Makhija-sys/Powershell-Scripts](https://github.com/Jatin-Makhija-sys/Powershell-Scripts) - 
 - [SkipToTheEndpoint/IntuneComplianceMaintainer](https://github.com/SkipToTheEndpoint/IntuneComplianceMaintainer) - Minimum OS Version Automation for Intune Compliance and App Protection
