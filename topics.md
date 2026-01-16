@@ -960,7 +960,6 @@
 - [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Download ScriptAnalyzer from PowerShellGallery
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
-- [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
@@ -1410,6 +1409,7 @@
 
 ## others 
 
+- [UniFy-Endpoint/Windows-Updates-Readiness](https://github.com/UniFy-Endpoint/Windows-Updates-Readiness) - 
 - [mardahl/PSBucket](https://github.com/mardahl/PSBucket) - PowerShell scripts that relate to blog articles I write on iphase.dk, msendpointmgr.com or technet gallery.
 - [MrtnRQL/Companyportaliconsdotcom](https://github.com/MrtnRQL/Companyportaliconsdotcom) - 
 - [NateHutch365/MDEValidator](https://github.com/NateHutch365/MDEValidator) - 
