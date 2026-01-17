@@ -454,6 +454,8 @@
 
 ## PowerShell 
 
+- [MichaelEscamilla/GetFileHashInformation](https://github.com/MichaelEscamilla/GetFileHashInformation) - Drag and Drop Application to view File Hash Information
+- [MichaelEscamilla/GetMSIInformation](https://github.com/MichaelEscamilla/GetMSIInformation) - Drag and Drop Application to view key MSI Information
 - [UniFy-Endpoint/Windows-Updates-Readiness](https://github.com/UniFy-Endpoint/Windows-Updates-Readiness) - 
 - [microsoftgraph/entra-powershell](https://github.com/microsoftgraph/entra-powershell) - Microsoft Entra PowerShell
 - [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11
