@@ -942,6 +942,7 @@
 
 ## hacktoberfest 
 
+- [torrust/torrust-tracker](https://github.com/torrust/torrust-tracker) - A modern and feature-rich (private) BitTorrent tracker.
 - [EvotecIT/OfficeIMO](https://github.com/EvotecIT/OfficeIMO) - Fast and easy to use cross-platform .NET library that creates or modifies Microsoft Word (DocX) and later also Excel (XLSX) files without installing any software. Library is based on Open XML SDK
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [matiasdelellis/facerecognition](https://github.com/matiasdelellis/facerecognition) - Nextcloud app that implement a basic facial recognition system.
@@ -1409,6 +1410,9 @@
 
 ## others 
 
+- [Zorlin/torrust-installer](https://github.com/Zorlin/torrust-installer) - Ansible installer for Torrust.
+- [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
+- [dev7060/Legal-Torrenting](https://github.com/dev7060/Legal-Torrenting) - List of legitimate torrents you can download
 - [MichaelEscamilla/GetFileHashInformation](https://github.com/MichaelEscamilla/GetFileHashInformation) - Drag and Drop Application to view File Hash Information
 - [MichaelEscamilla/GetMSIInformation](https://github.com/MichaelEscamilla/GetMSIInformation) - Drag and Drop Application to view key MSI Information
 - [UniFy-Endpoint/Windows-Updates-Readiness](https://github.com/UniFy-Endpoint/Windows-Updates-Readiness) - 
@@ -1781,6 +1785,7 @@
 
 ## p2p 
 
+- [torrust/torrust-tracker](https://github.com/torrust/torrust-tracker) - A modern and feature-rich (private) BitTorrent tracker.
 - [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - Pick a Torrent, stream and download on all your devices
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 
@@ -2185,6 +2190,7 @@
 
 ## rust 
 
+- [torrust/torrust-tracker](https://github.com/torrust/torrust-tracker) - A modern and feature-rich (private) BitTorrent tracker.
 - [torrust/torrust-index](https://github.com/torrust/torrust-index) - This repository serves as the backend for the Torrust Index project.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
