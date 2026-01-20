@@ -207,7 +207,7 @@
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+- [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -457,6 +457,8 @@
 
 ## PowerShell 
 
+- [thisisevilevil/IntunePublic](https://github.com/thisisevilevil/IntunePublic) - Public Intune repository of scripts that I create/maintain
+- [UniverseCitiz3n/Intune-App-Sandbox](https://github.com/UniverseCitiz3n/Intune-App-Sandbox) - 
 - [MichaelEscamilla/GetFileHashInformation](https://github.com/MichaelEscamilla/GetFileHashInformation) - Drag and Drop Application to view File Hash Information
 - [MichaelEscamilla/GetMSIInformation](https://github.com/MichaelEscamilla/GetMSIInformation) - Drag and Drop Application to view key MSI Information
 - [UniFy-Endpoint/Windows-Updates-Readiness](https://github.com/UniFy-Endpoint/Windows-Updates-Readiness) - 
