@@ -457,6 +457,7 @@
 
 ## PowerShell 
 
+- [imabdk/Intune-Registry-Management](https://github.com/imabdk/Intune-Registry-Management) - A PowerShell template for managing registry settings on Windows devices using Microsoft Intune Remediations
 - [ckdalton01/Get-AllAppsAllAssignments](https://github.com/ckdalton01/Get-AllAppsAllAssignments) - Get Intune Apps and Assignments
 - [thisisevilevil/IntunePublic](https://github.com/thisisevilevil/IntunePublic) - Public Intune repository of scripts that I create/maintain
 - [UniverseCitiz3n/Intune-App-Sandbox](https://github.com/UniverseCitiz3n/Intune-App-Sandbox) - 
