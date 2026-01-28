@@ -72,6 +72,7 @@
 
 ## C# # 
 
+- [Consolonia/Consolonia](https://github.com/Consolonia/Consolonia) - A cross-platform UI framework for .NET.
 - [EricZimmerman/PECmd](https://github.com/EricZimmerman/PECmd) - Prefetch Explorer Command Line
 - [devinmcelheran/Printune](https://github.com/devinmcelheran/Printune) - A one-stop utility for creating Intune packages to deploy printers and printer drivers.
 - [EvotecIT/OfficeIMO](https://github.com/EvotecIT/OfficeIMO) - Fast and easy to use cross-platform .NET library that creates or modifies Microsoft Word (DocX) and later also Excel (XLSX) files without installing any software. Library is based on Open XML SDK
@@ -459,7 +460,8 @@
 
 ## PowerShell 
 
-- [imabdk/Intune-Registry-Management](https://github.com/imabdk/Intune-Registry-Management) - A PowerShell template for managing registry settings on Windows devices using Microsoft Intune Remediations
+- [Noble-Effeciency13/PIMActivation](https://github.com/Noble-Effeciency13/PIMActivation) - PIMActivation is a PowerShell module designed to streamline Microsoft Entra Privileged Identity Management (PIM) activations. It supports bulk role activations while dynamically adhering to the specif
+- [imabdk/Intune-Registry-Management](https://github.com/imabdk/Intune-Registry-Management) - The only PowerShell script you need to manage registry on Windows devices using Microsoft Intune Remediations
 - [ckdalton01/Get-AllAppsAllAssignments](https://github.com/ckdalton01/Get-AllAppsAllAssignments) - Get Intune Apps and Assignments
 - [thisisevilevil/IntunePublic](https://github.com/thisisevilevil/IntunePublic) - Public Intune repository of scripts that I create/maintain
 - [UniverseCitiz3n/Intune-App-Sandbox](https://github.com/UniverseCitiz3n/Intune-App-Sandbox) - 
