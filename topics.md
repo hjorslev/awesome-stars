@@ -130,6 +130,7 @@
 - [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
+- [malware](#malware)
 - [markdown](#markdown)
 - [material-design](#material-design)
 - [mcp](#mcp)
@@ -918,6 +919,7 @@
 
 ## gui 
 
+- [Consolonia/Consolonia](https://github.com/Consolonia/Consolonia) - A cross-platform UI framework for .NET.
 - [rink-turksma/IntunePrepTool](https://github.com/rink-turksma/IntunePrepTool) - IntunePrepTool is a tool designed for creating Intune packages using the MS Win32 Content Prep Tool. The tool aims to simplify the process of packaging applications for deployment through Intune by au
 - [mdgrs-mei/WinUIShell](https://github.com/mdgrs-mei/WinUIShell) - Scripting WinUI 3 with PowerShell
 - [tugich/DeploymentEditor](https://github.com/tugich/DeploymentEditor) - Deployment Editor simplifies software packaging with PSAppDeployToolkit (PSADT). You can click your sequence for PSADT through the easy GUI.
@@ -1262,6 +1264,12 @@
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 
+## malware 
+
+- [firehol/blocklist-ipsets](https://github.com/firehol/blocklist-ipsets) - ipsets dynamically updated with firehol's update-ipsets.sh script
+- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
+- [EnergizedProtection/block](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether!
+
 ## markdown 
 
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
@@ -1426,7 +1434,8 @@
 
 ## others 
 
-- [imabdk/Intune-Registry-Management](https://github.com/imabdk/Intune-Registry-Management) - A PowerShell template for managing registry settings on Windows devices using Microsoft Intune Remediations
+- [Noble-Effeciency13/PIMActivation](https://github.com/Noble-Effeciency13/PIMActivation) - PIMActivation is a PowerShell module designed to streamline Microsoft Entra Privileged Identity Management (PIM) activations. It supports bulk role activations while dynamically adhering to the specif
+- [imabdk/Intune-Registry-Management](https://github.com/imabdk/Intune-Registry-Management) - The only PowerShell script you need to manage registry on Windows devices using Microsoft Intune Remediations
 - [ckdalton01/Get-AllAppsAllAssignments](https://github.com/ckdalton01/Get-AllAppsAllAssignments) - Get Intune Apps and Assignments
 - [thisisevilevil/IntunePublic](https://github.com/thisisevilevil/IntunePublic) - Public Intune repository of scripts that I create/maintain
 - [Zorlin/torrust-installer](https://github.com/Zorlin/torrust-installer) - Ansible installer for Torrust.
@@ -1538,7 +1547,6 @@
 - [JustinGrote/ModuleFast-action](https://github.com/JustinGrote/ModuleFast-action) - 
 - [socfortress/Wazuh-Rules](https://github.com/socfortress/Wazuh-Rules) - Advanced Wazuh Rules for more accurate threat detection. Feel free to implement within your own Wazuh environment, contribute, or fork!
 - [textbrowser/spot-on](https://github.com/textbrowser/spot-on) - Complexity is beautiful. Anyware, everyone. Completed.
-- [firehol/blocklist-ipsets](https://github.com/firehol/blocklist-ipsets) - ipsets dynamically updated with firehol's update-ipsets.sh script
 - [pallebone/StrictBlockPAllebone](https://github.com/pallebone/StrictBlockPAllebone) - Manually curated IP Blocklist. Recommended only to update your firewalls weekly with this list. Please read how to use before implementing.
 - [CorralPeltzer/newTrackon](https://github.com/CorralPeltzer/newTrackon) - newTrackon, a public open BitTorrent trackers monitoring tool
 - [JustinGrote/ModuleFast](https://github.com/JustinGrote/ModuleFast) - A "fast and loose" way to install modules from Powershell Gallery quickly. Meant for CICD, not production
@@ -2413,6 +2421,7 @@
 
 ## tui 
 
+- [Consolonia/Consolonia](https://github.com/Consolonia/Consolonia) - A cross-platform UI framework for .NET.
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [PhonicUK/CLRCLI](https://github.com/PhonicUK/CLRCLI) - CLRCLI is an event-driven library for building line-art user interfaces in C#/.Net command-line applications.
 
@@ -2446,6 +2455,7 @@
 
 ## ui 
 
+- [Consolonia/Consolonia](https://github.com/Consolonia/Consolonia) - A cross-platform UI framework for .NET.
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 
