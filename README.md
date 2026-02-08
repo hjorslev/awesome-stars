@@ -151,6 +151,7 @@
 
 ## CSS 
 
+- [telephone/LookingGlass](https://github.com/telephone/LookingGlass) - A user-friendly PHP Looking Glass
 - [fudfomo/BlazorAuthDemo](https://github.com/fudfomo/BlazorAuthDemo) - 
 - [damienbod/MicrosoftEntraIDMudBlazor](https://github.com/damienbod/MicrosoftEntraIDMudBlazor) - Securing a MudBlazor UI web application using security headers and Microsoft Entra ID
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
@@ -408,6 +409,7 @@
 
 ## PHP 
 
+- [hybula/lookingglass](https://github.com/hybula/lookingglass) - Modern, super simple and fresh looking glass based on Bootstrap 5 and PHP 8.
 - [torrentpier/torrentpier](https://github.com/torrentpier/torrentpier) - 🐂 TorrentPier. Bull-powered BitTorrent tracker engine
 - [matiasdelellis/facerecognition](https://github.com/matiasdelellis/facerecognition) - Nextcloud app that implement a basic facial recognition system.
 - [inovector/MixpostApp](https://github.com/inovector/MixpostApp) - Standalone application with the Laravel Package of Mixpost Lite pre-installed and configured
