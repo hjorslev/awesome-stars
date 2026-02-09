@@ -409,6 +409,7 @@
 
 ## PHP 
 
+- [sbpp/sourcebans-pp](https://github.com/sbpp/sourcebans-pp) - Admin, ban, and comms management system for the Source engine
 - [hybula/lookingglass](https://github.com/hybula/lookingglass) - Modern, super simple and fresh looking glass based on Bootstrap 5 and PHP 8.
 - [torrentpier/torrentpier](https://github.com/torrentpier/torrentpier) - 🐂 TorrentPier. Bull-powered BitTorrent tracker engine
 - [matiasdelellis/facerecognition](https://github.com/matiasdelellis/facerecognition) - Nextcloud app that implement a basic facial recognition system.
