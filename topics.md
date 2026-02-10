@@ -1437,6 +1437,7 @@
 
 ## others 
 
+- [dfinke/PSClaudeCode](https://github.com/dfinke/PSClaudeCode) - A PowerShell implementation of Claude Code: agent loop + tools + permissions.
 - [hybula/lookingglass](https://github.com/hybula/lookingglass) - Modern, super simple and fresh looking glass based on Bootstrap 5 and PHP 8.
 - [telephone/LookingGlass](https://github.com/telephone/LookingGlass) - A user-friendly PHP Looking Glass
 - [NX211/traefik-proxmox-provider](https://github.com/NX211/traefik-proxmox-provider) - A Traefik provider plugin that automatically configures routing based on Proxmox VE virtual machines and containers
@@ -2302,6 +2303,7 @@
 
 ## self-hosted 
 
+- [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
