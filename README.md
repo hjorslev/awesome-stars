@@ -464,6 +464,7 @@
 
 ## PowerShell 
 
+- [dfinke/PSClaudeCode](https://github.com/dfinke/PSClaudeCode) - A PowerShell implementation of Claude Code: agent loop + tools + permissions.
 - [Noble-Effeciency13/PIMActivation](https://github.com/Noble-Effeciency13/PIMActivation) - PIMActivation is a PowerShell module designed to streamline Microsoft Entra Privileged Identity Management (PIM) activations. It supports bulk role activations while dynamically adhering to the specif
 - [imabdk/Intune-Registry-Management](https://github.com/imabdk/Intune-Registry-Management) - The only PowerShell script you need to manage registry on Windows devices using Microsoft Intune Remediations
 - [ckdalton01/Get-AllAppsAllAssignments](https://github.com/ckdalton01/Get-AllAppsAllAssignments) - Get Intune Apps and Assignments
@@ -1041,6 +1042,7 @@
 
 ## Vue 
 
+- [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 - [joni1802/ts3-manager](https://github.com/joni1802/ts3-manager) - A modern web interface for maintaining Teamspeak3 servers
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 
