@@ -1445,6 +1445,7 @@
 
 ## others 
 
+- [imabdk/Intune-Win32-PowerShell-Script-Installer-Template](https://github.com/imabdk/Intune-Win32-PowerShell-Script-Installer-Template) - 
 - [Avihs-G/wp-torrent-parser](https://github.com/Avihs-G/wp-torrent-parser) - 
 - [dfinke/PSClaudeCode](https://github.com/dfinke/PSClaudeCode) - A PowerShell implementation of Claude Code: agent loop + tools + permissions.
 - [hybula/lookingglass](https://github.com/hybula/lookingglass) - Modern, super simple and fresh looking glass based on Bootstrap 5 and PHP 8.
