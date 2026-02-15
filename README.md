@@ -465,6 +465,7 @@
 
 ## PowerShell 
 
+- [imabdk/Intune-Win32-PowerShell-Script-Installer-Template](https://github.com/imabdk/Intune-Win32-PowerShell-Script-Installer-Template) - 
 - [dfinke/PSClaudeCode](https://github.com/dfinke/PSClaudeCode) - A PowerShell implementation of Claude Code: agent loop + tools + permissions.
 - [Noble-Effeciency13/PIMActivation](https://github.com/Noble-Effeciency13/PIMActivation) - PIMActivation is a PowerShell module designed to streamline Microsoft Entra Privileged Identity Management (PIM) activations. It supports bulk role activations while dynamically adhering to the specif
 - [imabdk/Intune-Registry-Management](https://github.com/imabdk/Intune-Registry-Management) - The only PowerShell script you need to manage registry on Windows devices using Microsoft Intune Remediations
