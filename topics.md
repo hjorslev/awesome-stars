@@ -1445,7 +1445,7 @@
 
 ## others 
 
-- [imabdk/Intune-Win32-PowerShell-Script-Installer-Template](https://github.com/imabdk/Intune-Win32-PowerShell-Script-Installer-Template) - 
+- [imabdk/Intune-Win32-PowerShell-Script-Installer-Template](https://github.com/imabdk/Intune-Win32-PowerShell-Script-Installer-Template) - PowerShell script installer template for Win32 apps in Microsoft Intune. Handles MSI/EXE installs, file operations, and registry settings
 - [Avihs-G/wp-torrent-parser](https://github.com/Avihs-G/wp-torrent-parser) - 
 - [dfinke/PSClaudeCode](https://github.com/dfinke/PSClaudeCode) - A PowerShell implementation of Claude Code: agent loop + tools + permissions.
 - [hybula/lookingglass](https://github.com/hybula/lookingglass) - Modern, super simple and fresh looking glass based on Bootstrap 5 and PHP 8.
@@ -1555,7 +1555,7 @@
 - [PowerShell/DSC-Samples](https://github.com/PowerShell/DSC-Samples) - Samples and tutorials for DSC v3
 - [Neo23x0/Raccine](https://github.com/Neo23x0/Raccine) - A Simple Ransomware Vaccine
 - [canix1/ADACLScanner](https://github.com/canix1/ADACLScanner) - Repo for ADACLScan.ps1 - Your number one script for ACL's in Active Directory
-- [imabdk/PowerShell](https://github.com/imabdk/PowerShell) - All my PowerShell scripts which I'm referencing in the various posts on https://imab.dk
+- [imabdk/PowerShell](https://github.com/imabdk/PowerShell) - Some of the PowerShell scripts which I'm referencing in the various posts on https://imab.dk
 - [gwblok/garytown](https://github.com/gwblok/garytown) - GaryTown Scripts, Downloads, Etc
 - [ChiefIntegrator/Steam-GetOnTop](https://github.com/ChiefIntegrator/Steam-GetOnTop) - This is a suite of PowerShell scripts to get on top of the burden of managing an unwieldy Steam library.
 - [Romanitho/Winget-AutoUpdate](https://github.com/Romanitho/Winget-AutoUpdate) - WAU daily updates apps as system and notify connected users. (Allowlist and Blocklist support)
