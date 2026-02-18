@@ -1777,7 +1777,7 @@
 - [BornToBeRoot/PowerShell](https://github.com/BornToBeRoot/PowerShell) - Collection of useful PowerShell functions, scripts, snippets and templates
 - [Scine/Powershell](https://github.com/Scine/Powershell) - Misc. Powershell Scripts
 - [Scine/Office365](https://github.com/Scine/Office365) - Office 365 Powershell scripts
-- [pi0/clippyjs](https://github.com/pi0/clippyjs) - Add Clippy or his friends to any website for instant nostalgia
+- [pi0/clippy](https://github.com/pi0/clippy) - 📎 Add Clippy or his friends to any website for instant nostalgia!
 - [renisac/O365-Management-and-Log-Scripts](https://github.com/renisac/O365-Management-and-Log-Scripts) - Security-Focused O365 Management and Log Scripts
 - [MSAdministrator/PPRT](https://github.com/MSAdministrator/PPRT) - This module is used to report phishing URLs to their WHOIS/RDAP abuse contact information.
 - [MicrosoftDocs/Virtualization-Documentation](https://github.com/MicrosoftDocs/Virtualization-Documentation) - Place to store our documentation, code samples, etc for public consumption.
