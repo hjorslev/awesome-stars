@@ -72,6 +72,7 @@
 
 ## C# # 
 
+- [obselate/PoSHBlox](https://github.com/obselate/PoSHBlox) - Visual powershell node graph scripting
 - [Consolonia/Consolonia](https://github.com/Consolonia/Consolonia) - A cross-platform UI framework for .NET.
 - [EricZimmerman/PECmd](https://github.com/EricZimmerman/PECmd) - Prefetch Explorer Command Line
 - [devinmcelheran/Printune](https://github.com/devinmcelheran/Printune) - A one-stop utility for creating Intune packages to deploy printers and printer drivers.
@@ -465,6 +466,7 @@
 
 ## PowerShell 
 
+- [nathanmcnulty/nathanmcnulty](https://github.com/nathanmcnulty/nathanmcnulty) - 
 - [imabdk/Intune-Win32-PowerShell-Script-Installer-Template](https://github.com/imabdk/Intune-Win32-PowerShell-Script-Installer-Template) - PowerShell script installer template for Win32 apps in Microsoft Intune. Handles MSI/EXE installs, file operations, and registry settings
 - [dfinke/PSClaudeCode](https://github.com/dfinke/PSClaudeCode) - A PowerShell implementation of Claude Code: agent loop + tools + permissions.
 - [Noble-Effeciency13/PIMActivation](https://github.com/Noble-Effeciency13/PIMActivation) - PIMActivation is a PowerShell module designed to streamline Microsoft Entra Privileged Identity Management (PIM) activations. It supports bulk role activations while dynamically adhering to the specif
@@ -996,7 +998,7 @@
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [verza22/glarium](https://github.com/verza22/glarium) - Ikariam clone
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
@@ -1005,7 +1007,7 @@
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [PiotrMachowski/lovelace-xiaomi-vacuum-map-card](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card) - This card provides a user-friendly way to fully control map-based vacuums in Home Assistant. Supported brands include Xiaomi (Roborock/Viomi/Dreame/Roidmi/Valetudo/Valetudo RE), Neato, Wyze, Roomba, E
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Build AI Agents the easy way. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀  AI Workflow toolkit
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
