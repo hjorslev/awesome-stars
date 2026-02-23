@@ -1044,7 +1044,7 @@
 - [legrego/homeassistant-elasticsearch](https://github.com/legrego/homeassistant-elasticsearch) - Publish Home-Assistant events to Elasticsearch
 - [AitorDB/home-assistant-sun-card](https://github.com/AitorDB/home-assistant-sun-card) - Home assistant sun card based on Google weather design
 - [denysdovhan/vacuum-card](https://github.com/denysdovhan/vacuum-card) - Vacuum cleaner card for Home Assistant Lovelace UI
-- [MaxWinterstein/homeassistant-addons](https://github.com/MaxWinterstein/homeassistant-addons) - 
+- [MaxWinterstein/homeassistant-addons](https://github.com/MaxWinterstein/homeassistant-addons) - Home Assistant Add-on repository: ADS-B Multi Portal Feeder, Angry IP Scanner, TooGoodToGo MQTT Bridge, CUPS, ioBroker and more.
 
 ## homebrew 
 
@@ -1445,6 +1445,7 @@
 
 ## others 
 
+- [byteben/M365-Deployment-Tool](https://github.com/byteben/M365-Deployment-Tool) - 
 - [nathanmcnulty/nathanmcnulty](https://github.com/nathanmcnulty/nathanmcnulty) - 
 - [flaviuvlaicu/opnsense-topo-map](https://github.com/flaviuvlaicu/opnsense-topo-map) - 
 - [imabdk/Intune-Win32-PowerShell-Script-Installer-Template](https://github.com/imabdk/Intune-Win32-PowerShell-Script-Installer-Template) - PowerShell script installer template for Win32 apps in Microsoft Intune. Handles MSI/EXE installs, file operations, and registry settings
