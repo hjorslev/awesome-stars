@@ -1445,6 +1445,7 @@
 
 ## others 
 
+- [Lewis-Barry/IntuneSettingsCatalogViewer](https://github.com/Lewis-Barry/IntuneSettingsCatalogViewer) - 
 - [byteben/M365-Deployment-Tool](https://github.com/byteben/M365-Deployment-Tool) - 
 - [nathanmcnulty/nathanmcnulty](https://github.com/nathanmcnulty/nathanmcnulty) - 
 - [flaviuvlaicu/opnsense-topo-map](https://github.com/flaviuvlaicu/opnsense-topo-map) - 
