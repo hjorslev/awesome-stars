@@ -1445,6 +1445,8 @@
 
 ## others 
 
+- [MSEndpointMgr/IntuneDebugToolkit](https://github.com/MSEndpointMgr/IntuneDebugToolkit) - 
+- [okieselbach/SyncMLViewer](https://github.com/okieselbach/SyncMLViewer) - A small real time SyncML protocol Viewer
 - [Lewis-Barry/IntuneSettingsCatalogViewer](https://github.com/Lewis-Barry/IntuneSettingsCatalogViewer) - 
 - [byteben/M365-Deployment-Tool](https://github.com/byteben/M365-Deployment-Tool) - 
 - [nathanmcnulty/nathanmcnulty](https://github.com/nathanmcnulty/nathanmcnulty) - 
