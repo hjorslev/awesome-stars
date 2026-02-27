@@ -1501,7 +1501,7 @@
 - [jflieben/M365Permissions](https://github.com/jflieben/M365Permissions) - Generate a 360 degree view of a user's permissions in Microsoft 365
 - [ugurkocde/IntuneRBAC](https://github.com/ugurkocde/IntuneRBAC) - 
 - [jorgeasaurus/MgConsoleGuiGraphSearch](https://github.com/jorgeasaurus/MgConsoleGuiGraphSearch) - Interactive Microsoft Graph search tool using console GUI for various Microsoft 365 and Azure AD object types.
-- [PowerStacks-BI/BI-for-Intune](https://github.com/PowerStacks-BI/BI-for-Intune) - Repository for sample templates for BI for Intune reports.
+- [powerstacks-corp/BI-for-Intune](https://github.com/powerstacks-corp/BI-for-Intune) - Repository for sample templates for BI for Intune reports.
 - [SMSAgentSoftware/ConfigMgrCleanup](https://github.com/SMSAgentSoftware/ConfigMgrCleanup) - Contains SQL queries and scripts to aid in identifying legacy or unused items for a ConfigMgr clean up project
 - [jflieben/assortedFunctionsV2](https://github.com/jflieben/assortedFunctionsV2) - 
 - [matheusdantas-md/automacao-sccm-instaladores](https://github.com/matheusdantas-md/automacao-sccm-instaladores) - 
