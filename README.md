@@ -341,7 +341,7 @@
 - [dev7060/Legal-Torrenting](https://github.com/dev7060/Legal-Torrenting) - List of legitimate torrents you can download
 - [Deepshah0308/awesome-intunetools](https://github.com/Deepshah0308/awesome-intunetools) - A curated list of awesome tools and resources for managing, troubleshooting, and automating Microsoft Intune deployments. This repository includes links to various community-built tools, scripts, and 
 - [ugurkocde/IntuneMonitoring](https://github.com/ugurkocde/IntuneMonitoring) - 
-- [PowerStacks-BI/BI-for-Intune](https://github.com/PowerStacks-BI/BI-for-Intune) - Repository for sample templates for BI for Intune reports.
+- [powerstacks-corp/BI-for-Intune](https://github.com/powerstacks-corp/BI-for-Intune) - Repository for sample templates for BI for Intune reports.
 - [MoeKinani/DisableNetBIOS](https://github.com/MoeKinani/DisableNetBIOS) - 
 - [ugurkocde/KQL_Intune](https://github.com/ugurkocde/KQL_Intune) - 
 - [thenikk/Oceanleaf](https://github.com/thenikk/Oceanleaf) - Content from my blog.
