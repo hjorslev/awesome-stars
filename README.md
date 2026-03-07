@@ -468,6 +468,7 @@
 
 ## PowerShell 
 
+- [schenardie/WindowsReleaseInformation](https://github.com/schenardie/WindowsReleaseInformation) - 
 - [byteben/M365-Deployment-Tool](https://github.com/byteben/M365-Deployment-Tool) - 
 - [nathanmcnulty/nathanmcnulty](https://github.com/nathanmcnulty/nathanmcnulty) - 
 - [imabdk/Intune-Win32-PowerShell-Script-Installer-Template](https://github.com/imabdk/Intune-Win32-PowerShell-Script-Installer-Template) - PowerShell script installer template for Win32 apps in Microsoft Intune. Handles MSI/EXE installs, file operations, and registry settings
