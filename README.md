@@ -294,7 +294,6 @@
 - [WeiChiaChang/modern-js-cheatsheet](https://github.com/WeiChiaChang/modern-js-cheatsheet) - Modern-JS-Cheatsheet 繁體中文版
 - [evanplaice/jquery-csv](https://github.com/evanplaice/jquery-csv) - A jQuery CSV parser plugin. Battle Tested | Optimized | 100% IETF RFC 4180 Complete
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [Xainey/powershell-electron-demo](https://github.com/Xainey/powershell-electron-demo) - A PowerShell and Electron Demo
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
@@ -1037,6 +1036,7 @@
 - [mqttjs/MQTT.js](https://github.com/mqttjs/MQTT.js) - The MQTT client for Node.js and the browser
 - [pi0/clippy](https://github.com/pi0/clippy) - 📎 Add Clippy or his friends to any website for instant nostalgia!
 - [ng-bootstrap/ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) - Angular powered Bootstrap
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [schickling/chromeless](https://github.com/schickling/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 
