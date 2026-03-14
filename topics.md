@@ -1920,6 +1920,7 @@
 
 ## powershell 
 
+- [PSModule/Path](https://github.com/PSModule/Path) - A PowerShell module to manage the PATH environment variable on Windows.
 - [obselate/PoSHBlox](https://github.com/obselate/PoSHBlox) - Visual powershell node graph scripting
 - [UniverseCitiz3n/Intune-App-Sandbox](https://github.com/UniverseCitiz3n/Intune-App-Sandbox) - 
 - [microsoftgraph/entra-powershell](https://github.com/microsoftgraph/entra-powershell) - Microsoft Entra PowerShell
