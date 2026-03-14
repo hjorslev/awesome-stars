@@ -468,6 +468,7 @@
 
 ## PowerShell 
 
+- [PSModule/Path](https://github.com/PSModule/Path) - A PowerShell module to manage the PATH environment variable on Windows.
 - [schenardie/WindowsReleaseInformation](https://github.com/schenardie/WindowsReleaseInformation) - 
 - [byteben/M365-Deployment-Tool](https://github.com/byteben/M365-Deployment-Tool) - 
 - [nathanmcnulty/nathanmcnulty](https://github.com/nathanmcnulty/nathanmcnulty) - 
