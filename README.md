@@ -192,6 +192,7 @@
 
 ## Go 
 
+- [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [NX211/traefik-proxmox-provider](https://github.com/NX211/traefik-proxmox-provider) - A Traefik provider plugin that automatically configures routing based on Proxmox VE virtual machines and containers
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
@@ -737,7 +738,7 @@
 - [sysgoblin/PSUmbrella](https://github.com/sysgoblin/PSUmbrella) - Powershell module for administering Cisco Umbrella.
 - [sysgoblin/PSURLScanio](https://github.com/sysgoblin/PSURLScanio) - 🔎 Use urlscan.io with PowerShell!
 - [gpduck/MSTerminalSettings](https://github.com/gpduck/MSTerminalSettings) - 
-- [microsoft/MSCloudLoginAssistant](https://github.com/microsoft/MSCloudLoginAssistant) - PowerShell Module Handling Authentication to Cloud Services
+- [Microsoft365DSC/MSCloudLoginAssistant](https://github.com/Microsoft365DSC/MSCloudLoginAssistant) - PowerShell Module Handling Authentication to Cloud Services
 - [samratashok/nishang](https://github.com/samratashok/nishang) - Nishang - Offensive PowerShell for red team, penetration testing and offensive security.
 - [MessagingAdmin/DiskSpaceReport](https://github.com/MessagingAdmin/DiskSpaceReport) - Using PSHTML module, create a dashboard which shows Disk usage of servers in your network.
 - [chocolatey-community/chocolatey-packages-template](https://github.com/chocolatey-community/chocolatey-packages-template) - A template to use when setting up to create packages both manual and automatic
