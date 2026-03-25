@@ -375,7 +375,7 @@
 - [adamfowlerit/msportals.io](https://github.com/adamfowlerit/msportals.io) - MSPortals.io - Microsoft Administrator Sites, Training, and Licensing Resources
 - [scriptrunner/ActionPacks](https://github.com/scriptrunner/ActionPacks) - Public PowerShell script gallery for ScriptRunner.
 - [blindzero/Connect-MS365](https://github.com/blindzero/Connect-MS365) - Powershell module to connect to all MS365 services and install required modules or packages.
-- [microsoft/MSCloudLoginAssistant](https://github.com/microsoft/MSCloudLoginAssistant) - PowerShell Module Handling Authentication to Cloud Services
+- [Microsoft365DSC/MSCloudLoginAssistant](https://github.com/Microsoft365DSC/MSCloudLoginAssistant) - PowerShell Module Handling Authentication to Cloud Services
 - [pnp/cli-microsoft365](https://github.com/pnp/cli-microsoft365) - Manage Microsoft 365 and SharePoint Framework projects on any platform
 - [AutomatedLab/AutomatedLab](https://github.com/AutomatedLab/AutomatedLab) - AutomatedLab is a provisioning solution and framework that lets you deploy complex labs on HyperV and Azure with simple PowerShell scripts. It supports all Windows operating systems from 2008 R2 to 20
 - [lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell) - PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...)
@@ -478,7 +478,7 @@
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [microsoft/MSCloudLoginAssistant](https://github.com/microsoft/MSCloudLoginAssistant) - PowerShell Module Handling Authentication to Cloud Services
+- [Microsoft365DSC/MSCloudLoginAssistant](https://github.com/Microsoft365DSC/MSCloudLoginAssistant) - PowerShell Module Handling Authentication to Cloud Services
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 
 ## cms 
@@ -875,6 +875,7 @@
 
 ## go 
 
+- [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
@@ -889,6 +890,7 @@
 
 ## golang 
 
+- [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
@@ -2041,7 +2043,7 @@
 - [Badgerati/PoshHosts](https://github.com/Badgerati/PoshHosts) - Cross-platform module to control the hosts file from the command line
 - [sysgoblin/PSUmbrella](https://github.com/sysgoblin/PSUmbrella) - Powershell module for administering Cisco Umbrella.
 - [sysgoblin/PSURLScanio](https://github.com/sysgoblin/PSURLScanio) - 🔎 Use urlscan.io with PowerShell!
-- [microsoft/MSCloudLoginAssistant](https://github.com/microsoft/MSCloudLoginAssistant) - PowerShell Module Handling Authentication to Cloud Services
+- [Microsoft365DSC/MSCloudLoginAssistant](https://github.com/Microsoft365DSC/MSCloudLoginAssistant) - PowerShell Module Handling Authentication to Cloud Services
 - [samratashok/nishang](https://github.com/samratashok/nishang) - Nishang - Offensive PowerShell for red team, penetration testing and offensive security.
 - [jantari/LSUClient](https://github.com/jantari/LSUClient) - Orchestrate driver, BIOS/UEFI and firmware updates for Lenovo computers 👨‍💻
 - [psake/PowerShellBuild](https://github.com/psake/PowerShellBuild) - Common build tasks for psake and Invoke-Build that build and test PowerShell modules
