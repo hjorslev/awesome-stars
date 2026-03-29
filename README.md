@@ -817,6 +817,7 @@
 - [ironmansoftware/poshud](https://github.com/ironmansoftware/poshud) - Dashboard used for Poshud.com
 - [My-Random-Thoughts/QA-Checks-v4](https://github.com/My-Random-Thoughts/QA-Checks-v4) - PowerShell scripts to ensure consistent and reliable build quality and configuration for your servers
 - [poshbotio/PoshBot](https://github.com/poshbotio/PoshBot) - Powershell-based bot framework
+- [markdomansky/WebJEA](https://github.com/markdomansky/WebJEA) - WebJEA - Secure Self Service Web Forms from PowerShell Scripts
 - [fresh2dev/AnyBox](https://github.com/fresh2dev/AnyBox) - The easiest way to develop apps for Windows.
 - [MSAdministrator/TemplatePowerShellModule](https://github.com/MSAdministrator/TemplatePowerShellModule) - A Template PowerShell Module
 - [adamdriscoll/selenium-powershell](https://github.com/adamdriscoll/selenium-powershell) - PowerShell module to run a Selenium WebDriver.
@@ -857,7 +858,7 @@
 
 - [almenscorner/IntuneCD](https://github.com/almenscorner/IntuneCD) - Tool to backup, update and document configurations in Intune
 - [microsoft/secureboot_objects](https://github.com/microsoft/secureboot_objects) - Secure boot objects recommended by Microsoft.
-- [voytas75/VoytasCodeLab](https://github.com/voytas75/VoytasCodeLab) - A diverse collection of scripts, snippets, and functions
+- [voytas75/VoytasCodeLab](https://github.com/voytas75/VoytasCodeLab) - Code lab of reusable scripts, snippets, and small utilities across multiple languages.
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for youtube-dl / yt-dlp)
 - [socfortress/Wazuh-Rules](https://github.com/socfortress/Wazuh-Rules) - Advanced Wazuh Rules for more accurate threat detection. Feel free to implement within your own Wazuh environment, contribute, or fork!
 - [CorralPeltzer/newTrackon](https://github.com/CorralPeltzer/newTrackon) - newTrackon, a public open BitTorrent trackers monitoring tool
@@ -1055,7 +1056,6 @@
 ## Visual Basic .NET 
 
 - [mithrandyr/SimplySql](https://github.com/mithrandyr/SimplySql) - PowerShell module for querying various SQL databases
-- [markdomansky/WebJEA](https://github.com/markdomansky/WebJEA) - WebJEA - Secure Self Service Web Forms from PowerShell Scripts
 
 ## Volt 
 
