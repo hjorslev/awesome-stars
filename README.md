@@ -89,6 +89,7 @@
 - [pnp/powershell](https://github.com/pnp/powershell) - PnP PowerShell
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [eviabs/downtify-premium](https://github.com/eviabs/downtify-premium) - Downtify is an open source Spofity downloader which makes it possible to download all your favourite songs and/or playlists directly from spotify. A Spotify Premium account is required.
+- [EvotecIT/PowerBGInfo](https://github.com/EvotecIT/PowerBGInfo) - PowerBGInfo is a PowerShell module that is used to generate background information for Windows machines. It's a replacement for BGInfo that doesn't require installation and is much more flexible.
 - [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
 - [EvotecIT/PSPGP](https://github.com/EvotecIT/PSPGP) - PSPGP is a PowerShell module that provides PGP functionality in PowerShell. It allows encrypting and decrypting files/folders and strings using PGP.
 - [santisq/PSTree](https://github.com/santisq/PSTree) - Tree-like cmdlets for file system and registry exploration!
@@ -184,6 +185,7 @@
 
 ## Fluent 
 
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 
 ## Game Maker Language 
@@ -343,6 +345,7 @@
 - [dev7060/Legal-Torrenting](https://github.com/dev7060/Legal-Torrenting) - List of legitimate torrents you can download
 - [Deepshah0308/awesome-intunetools](https://github.com/Deepshah0308/awesome-intunetools) - A curated list of awesome tools and resources for managing, troubleshooting, and automating Microsoft Intune deployments. This repository includes links to various community-built tools, scripts, and 
 - [ugurkocde/IntuneMonitoring](https://github.com/ugurkocde/IntuneMonitoring) - 
+- [jflieben/M365Permissions](https://github.com/jflieben/M365Permissions) - Generate a 360 degree view of a user's permissions in Microsoft 365
 - [powerstacks-corp/BI-for-Intune](https://github.com/powerstacks-corp/BI-for-Intune) - Repository for sample templates for BI for Intune reports.
 - [MoeKinani/DisableNetBIOS](https://github.com/MoeKinani/DisableNetBIOS) - 
 - [ugurkocde/KQL_Intune](https://github.com/ugurkocde/KQL_Intune) - 
@@ -514,7 +517,6 @@
 - [damienvanrobaeys/Intune_BIOS_Password_KeyVault](https://github.com/damienvanrobaeys/Intune_BIOS_Password_KeyVault) - Store BIOS passwords on Azure Key Vault and set devices password with Intune (for Lenovo, Dell, HP)
 - [ugurkocde/IntuneAutomation](https://github.com/ugurkocde/IntuneAutomation) - 
 - [ennnbeee/IntuneFirewallMigration](https://github.com/ennnbeee/IntuneFirewallMigration) - IntuneFirewallMigration is an updated version of the originally Microsoft provided tool to capture firewall rules from a target machine and upload them to Intune.
-- [jflieben/M365Permissions](https://github.com/jflieben/M365Permissions) - Generate a 360 degree view of a user's permissions in Microsoft 365
 - [jorgeasaurus/MgConsoleGuiGraphSearch](https://github.com/jorgeasaurus/MgConsoleGuiGraphSearch) - Interactive Microsoft Graph search tool using console GUI for various Microsoft 365 and Azure AD object types.
 - [SMSAgentSoftware/ConfigMgrCleanup](https://github.com/SMSAgentSoftware/ConfigMgrCleanup) - Contains SQL queries and scripts to aid in identifying legacy or unused items for a ConfigMgr clean up project
 - [jflieben/assortedFunctionsV2](https://github.com/jflieben/assortedFunctionsV2) - 
@@ -602,7 +604,6 @@
 - [rwidmark/MaintainModule](https://github.com/rwidmark/MaintainModule) - This module update, install, uninstall old versions of your PowerShell modules in a easy way
 - [NetSPI/MicroBurst](https://github.com/NetSPI/MicroBurst) - A collection of scripts for assessing Microsoft Azure security
 - [psclplg/aad-guardian](https://github.com/psclplg/aad-guardian) - 
-- [EvotecIT/PowerBGInfo](https://github.com/EvotecIT/PowerBGInfo) - PowerBGInfo is a PowerShell module that is used to generate background information for Windows machines. It's a replacement for BGInfo that doesn't require installation and is much more flexible.
 - [adamdriscoll/pwsh-github-actions](https://github.com/adamdriscoll/pwsh-github-actions) - Examples of using PowerShell in GitHub actions
 - [PowerShellGuides/PowerShellGuide](https://github.com/PowerShellGuides/PowerShellGuide) - The Standard Repository for all PowerShell Knowledge and Wisdom
 - [Jaykul/PowerShellTemplate](https://github.com/Jaykul/PowerShellTemplate) - 
@@ -926,7 +927,6 @@
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
 - [torrust/torrust-index](https://github.com/torrust/torrust-index) - This repository serves as the backend for the Torrust Index project.
 - [PowerShell/DSC](https://github.com/PowerShell/DSC) - This repo is for the DSC v3 project
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
@@ -1033,7 +1033,7 @@
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
-- [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
+- [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, lifecycle hooks, GraphQL API, and AI-assisted development via MCP server. Built
 - [pawelgrzybek/snippet-generator](https://github.com/pawelgrzybek/snippet-generator) - Snippet generator for Visual Studio Code, Sublime Text and Atom
 - [karanpratapsingh/fullstack-starterkit](https://github.com/karanpratapsingh/fullstack-starterkit) - GraphQL first full-stack starter kit with Node, React. Powered by TypeScript
 - [material-extensions/vscode-material-icon-theme](https://github.com/material-extensions/vscode-material-icon-theme) - Material Design icons for VS Code
