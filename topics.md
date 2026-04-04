@@ -366,7 +366,7 @@
 
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
-- [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
+- [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, lifecycle hooks, GraphQL API, and AI-assisted development via MCP server. Built
 
 ## azure 
 
@@ -476,7 +476,6 @@
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager
 - [nextcloud/vm](https://github.com/nextcloud/vm) - 💻☁📦 The Nextcloud VM (virtual machine appliance), Home/SME Server and scripts for RPi (4-5). Community developed and maintained.
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
-- [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Microsoft365DSC/MSCloudLoginAssistant](https://github.com/Microsoft365DSC/MSCloudLoginAssistant) - PowerShell Module Handling Authentication to Cloud Services
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
@@ -491,7 +490,7 @@
 - [picocms/Pico](https://github.com/picocms/Pico) - Pico is a stupidly simple, blazing fast, flat file CMS.
 - [typemill/typemill](https://github.com/typemill/typemill) - Typemill is a flat-file CMS based on Markdown and designed for informational websites like documentation, manuals, and handbooks.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
-- [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
+- [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, lifecycle hooks, GraphQL API, and AI-assisted development via MCP server. Built
 - [Piwigo/Piwigo](https://github.com/Piwigo/Piwigo) - Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute!
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
@@ -922,7 +921,7 @@
 
 - [statamic/cms](https://github.com/statamic/cms) - The core Laravel CMS Composer package
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
-- [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
+- [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, lifecycle hooks, GraphQL API, and AI-assisted development via MCP server. Built
 - [karanpratapsingh/fullstack-starterkit](https://github.com/karanpratapsingh/fullstack-starterkit) - GraphQL first full-stack starter kit with Node, React. Powered by TypeScript
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 
@@ -1126,7 +1125,6 @@
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
-- [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
 - [karanpratapsingh/fullstack-starterkit](https://github.com/karanpratapsingh/fullstack-starterkit) - GraphQL first full-stack starter kit with Node, React. Powered by TypeScript
 - [andreasbm/web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
@@ -1300,6 +1298,7 @@
 ## mcp 
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, lifecycle hooks, GraphQL API, and AI-assisted development via MCP server. Built
 
 ## microsoft 
 
@@ -1370,6 +1369,7 @@
 - [tdjsnelling/sqtracker](https://github.com/tdjsnelling/sqtracker) - A modern private BitTorrent tracker platform
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
+- [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, lifecycle hooks, GraphQL API, and AI-assisted development via MCP server. Built
 
 ## no-code 
 
@@ -1398,7 +1398,7 @@
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
-- [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
+- [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, lifecycle hooks, GraphQL API, and AI-assisted development via MCP server. Built
 - [ShinobiCCTV/Shinobi](https://github.com/ShinobiCCTV/Shinobi) - :zap: Shinobi Pro - The Next Generation in Open-Source Video Management Software with support for over 6000 IP and USB Cameras
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
@@ -1422,6 +1422,7 @@
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
+- [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, lifecycle hooks, GraphQL API, and AI-assisted development via MCP server. Built
 - [zenika-open-source/promote-open-source-project](https://github.com/zenika-open-source/promote-open-source-project) - 📄 How to promote my open source project?
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
@@ -2214,7 +2215,7 @@
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
 - [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
-- [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
+- [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, lifecycle hooks, GraphQL API, and AI-assisted development via MCP server. Built
 - [karanpratapsingh/fullstack-starterkit](https://github.com/karanpratapsingh/fullstack-starterkit) - GraphQL first full-stack starter kit with Node, React. Powered by TypeScript
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
@@ -2358,7 +2359,7 @@
 
 ## serverless 
 
-- [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
+- [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, lifecycle hooks, GraphQL API, and AI-assisted development via MCP server. Built
 - [schickling/chromeless](https://github.com/schickling/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 
 ## shell 
@@ -2479,7 +2480,7 @@
 - [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
-- [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
+- [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, lifecycle hooks, GraphQL API, and AI-assisted development via MCP server. Built
 - [karanpratapsingh/fullstack-starterkit](https://github.com/karanpratapsingh/fullstack-starterkit) - GraphQL first full-stack starter kit with Node, React. Powered by TypeScript
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 
