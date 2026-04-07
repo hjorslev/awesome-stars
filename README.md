@@ -272,8 +272,8 @@
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [andreypopov/node-red-contrib-miio-roborock](https://github.com/andreypopov/node-red-contrib-miio-roborock) - Xioami Roborock node-red nodes
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
-- [magicsunday/webtrees-pedigree-chart](https://github.com/magicsunday/webtrees-pedigree-chart) - SVG based pedigree chart module for webtrees genealogy application.
-- [magicsunday/webtrees-descendants-chart](https://github.com/magicsunday/webtrees-descendants-chart) - SVG based descendants chart module for webtrees genealogy application.
+- [magicsunday/webtrees-pedigree-chart](https://github.com/magicsunday/webtrees-pedigree-chart) - SVG pedigree chart module for the webtrees genealogy application — interactive D3.js tree visualization with multiple layouts and up to 25 generations.
+- [magicsunday/webtrees-descendants-chart](https://github.com/magicsunday/webtrees-descendants-chart) - SVG descendants chart module for the webtrees genealogy application — interactive D3.js tree visualization with spouse display and up to 25 generations.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [pixelfed/docs](https://github.com/pixelfed/docs) - Pixelfed Documentation
@@ -399,6 +399,7 @@
 - [bennettsharon/AZ-Study-Guides](https://github.com/bennettsharon/AZ-Study-Guides) - 
 - [EnergizedProtection/block](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether!
 - [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - 🔣 A collection of GitHub issue, pull request and security templates
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
@@ -613,7 +614,7 @@
 - [12Knocksinna/Office365itpros](https://github.com/12Knocksinna/Office365itpros) - PowerShell examples for articles published on https://office365itpros.com and https://practical365.com. See https://o365itpros.gumroad.com/l/M365PS for the Automating Microsoft 365 with PowerShell eBo
 - [mdgrs-mei/FancyClearHost](https://github.com/mdgrs-mei/FancyClearHost) - Clears your PowerShell host in a fancy way.
 - [TobiasPSP/Modules.PsoProgressButton](https://github.com/TobiasPSP/Modules.PsoProgressButton) - Easy access to taskbar button animation such as progress bar or colorization
-- [microsoft/Microsoft365DSC](https://github.com/microsoft/Microsoft365DSC) - Manages, configures, extracts and monitors Microsoft 365 tenant configurations
+- [Microsoft365DSC/Microsoft365DSC](https://github.com/Microsoft365DSC/Microsoft365DSC) - Manages, configures, extracts and monitors Microsoft 365 tenant configurations
 - [safebuffer/vulnerable-AD](https://github.com/safebuffer/vulnerable-AD) - Create a vulnerable active directory that's allowing you to test most of the active directory attacks in a local lab
 - [S3cur3Th1sSh1t/WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn) - Automation for internal Windows Penetrationtest / AD-Security
 - [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) - Module template with build pipeline and examples, including DSC elements.
@@ -702,7 +703,6 @@
 - [SteffenBlake/PowershellOauth](https://github.com/SteffenBlake/PowershellOauth) - An extremely simple lightweight standalone Powershell script that lets you perform OAuth in the command line
 - [blindzero/Connect-MS365](https://github.com/blindzero/Connect-MS365) - Powershell module to connect to all MS365 services and install required modules or packages.
 - [JanDeDobbeleer/oh-my-posh2](https://github.com/JanDeDobbeleer/oh-my-posh2) - A prompt theming engine for Powershell
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [StartAutomating/EZOut](https://github.com/StartAutomating/EZOut) - EZOut is a PowerShell module to help take the pain out of writing format and types XML
 - [rmbolger/Posh-ACME](https://github.com/rmbolger/Posh-ACME) - PowerShell module and ACME client to create certificates from Let's Encrypt (or other ACME CA)
 - [jdhitsolutions/PSTypeExtensionTools](https://github.com/jdhitsolutions/PSTypeExtensionTools) - A set of PowerShell tools for working with type extensions.
