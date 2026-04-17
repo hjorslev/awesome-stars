@@ -173,7 +173,6 @@
 
 ## Dart 
 
-- [annu8055/Intune-Log-Reader-for-Windows](https://github.com/annu8055/Intune-Log-Reader-for-Windows) - 📊 Analyze and monitor Microsoft Intune Management Extension logs on Windows for real-time insights and error detection.
 - [pathaksomesh06/Intune-Log-Reader-for-Windows](https://github.com/pathaksomesh06/Intune-Log-Reader-for-Windows) - Intune Log Reader provides real-time analysis and monitoring of Microsoft Intune Management Extension logs on Windows systems.
 - [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - Pick a Torrent, stream and download on all your devices
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
@@ -488,7 +487,6 @@
 - [UniverseCitiz3n/Intune-App-Sandbox](https://github.com/UniverseCitiz3n/Intune-App-Sandbox) - 
 - [MichaelEscamilla/GetFileHashInformation](https://github.com/MichaelEscamilla/GetFileHashInformation) - Drag and Drop Application to view File Hash Information
 - [MichaelEscamilla/GetMSIInformation](https://github.com/MichaelEscamilla/GetMSIInformation) - Drag and Drop Application to view key MSI Information
-- [UniFy-Endpoint/Windows-Updates-Readiness](https://github.com/UniFy-Endpoint/Windows-Updates-Readiness) - 
 - [microsoftgraph/entra-powershell](https://github.com/microsoftgraph/entra-powershell) - Microsoft Entra PowerShell
 - [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11
 - [mardahl/PSBucket](https://github.com/mardahl/PSBucket) - PowerShell scripts that relate to blog articles I write on iphase.dk, msendpointmgr.com or technet gallery.
@@ -498,7 +496,6 @@
 - [Jordan-Albaladejo/Responding-To-Responder-Guide-0001](https://github.com/Jordan-Albaladejo/Responding-To-Responder-Guide-0001) - This repository provides practical guidance and scripts for defending Windows environments against Responder tool attacks.  Blocking, defending and securing common discovery protocols: LLMNR, NetBIOS,
 - [ChrFrohn/Entra-Lifecycle-Workflows](https://github.com/ChrFrohn/Entra-Lifecycle-Workflows) - Code for Microsoft Entra ID Lifecycle Workflows (Custom extensions)
 - [dgulle/Security-Baselines](https://github.com/dgulle/Security-Baselines) - 
-- [microsoft/intune-my-macs](https://github.com/microsoft/intune-my-macs) - intune-my-macs is an automation project designed to quickly and simply configure your Microsoft Intune environment for macOS device management. It includes scripts, profiles, and setup guidance to hel
 - [ugurkocde/DeviceOffboardingManager](https://github.com/ugurkocde/DeviceOffboardingManager) - A PowerShell GUI tool for efficiently managing and offboarding devices from Microsoft Intune, Autopilot, and Entra ID, featuring bulk operations and real-time analytics for streamlined device lifecycl
 - [jorgeasaurus/IntuneHydrationKit](https://github.com/jorgeasaurus/IntuneHydrationKit) - Quick way to import starter configs into Intune
 - [enigma-tek/CodeOrganizer](https://github.com/enigma-tek/CodeOrganizer) - Web based PowerShell driven, PowerShell and KQL organizer
@@ -950,6 +947,7 @@
 ## Shell 
 
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
+- [microsoft/intune-my-macs](https://github.com/microsoft/intune-my-macs) - intune-my-macs is an automation project designed to quickly and simply configure your Microsoft Intune environment for macOS device management. It includes scripts, profiles, and setup guidance to hel
 - [ugurkocde/IntuneBrew](https://github.com/ugurkocde/IntuneBrew) - IntuneBrew is a PowerShell-based tool that simplifies the process of uploading and managing macOS applications in Microsoft Intune. It automates the entire workflow from downloading apps to uploading 
 - [bhdicaire/visioStencils](https://github.com/bhdicaire/visioStencils) - 4,486 visio :art: shapes, stencils, symbols, and icons collection to visually represent your IT infrastructure
 - [microsoft/mdatp-xplat](https://github.com/microsoft/mdatp-xplat) - Microsoft Defender for macOS/Linux - config samples, auxiliary tools
