@@ -356,7 +356,6 @@
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [HDVinnie/Torrent-Tracker-Platforms](https://github.com/HDVinnie/Torrent-Tracker-Platforms) - A Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding Languages
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses with certifications. Also available at https://free-certifications.com/
 - [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
 - [LearningKijo/KQL](https://github.com/LearningKijo/KQL) - Threat Hunting query in Microsoft 365 Defender, XDR. Provide out-of-the-box KQL hunting queries - App, Email, Identity and Endpoint.
 - [fabionoth/awesome-cyber-security](https://github.com/fabionoth/awesome-cyber-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
@@ -796,7 +795,7 @@
 - [MicrosoftDocs/Virtualization-Documentation](https://github.com/MicrosoftDocs/Virtualization-Documentation) - Place to store our documentation, code samples, etc for public consumption.
 - [apurin/powershellget-module](https://github.com/apurin/powershellget-module) - Unofficial example of PowerShellGet-friendly package. How to create, publish and use.
 - [whistler-consulting/LenovoInfo](https://github.com/whistler-consulting/LenovoInfo) - Powershell module to determine Lenovo device warranty status
-- [RamblingCookieMonster/PSDepend](https://github.com/RamblingCookieMonster/PSDepend) - PowerShell Dependency Handler
+- [PowerShellOrg/PSDepend](https://github.com/PowerShellOrg/PSDepend) - PowerShell Dependency Handler
 - [EvotecIT/PSSharedGoods](https://github.com/EvotecIT/PSSharedGoods) - PSSharedGoods is little PowerShell Module that primary purpose is to be useful for multiple tasks, unrelated to each other. I've created this module as “a glue” between my other modules.
 - [dotps1/PSFunctions](https://github.com/dotps1/PSFunctions) - Repository for holding script-functions that are published to the PowerShell Gallery.
 - [devblackops/github-action-psscriptanalyzer](https://github.com/devblackops/github-action-psscriptanalyzer) - GitHub Action to run PSScriptAnalyzer static code analysis
