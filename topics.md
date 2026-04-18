@@ -313,7 +313,6 @@
 ## awesome 
 
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
-- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses with certifications. Also available at https://free-certifications.com/
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
@@ -339,7 +338,6 @@
 
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
 - [mthcht/awesome-lists](https://github.com/mthcht/awesome-lists) - Awesome Security lists for SOC/CERT/CTI
-- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses with certifications. Also available at https://free-certifications.com/
 - [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
@@ -971,7 +969,6 @@
 - [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) - Blazor Component Library based on Material Design principles. Do more with Blazor, utilizing CSS and keeping JavaScript to a bare minimum.
 - [ansible-collections/ansible.windows](https://github.com/ansible-collections/ansible.windows) - Windows core collection for Ansible
 - [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
-- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses with certifications. Also available at https://free-certifications.com/
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [pnp/powershell](https://github.com/pnp/powershell) - PnP PowerShell
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
@@ -1195,7 +1192,6 @@
 
 ## learning 
 
-- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses with certifications. Also available at https://free-certifications.com/
 - [adamfowlerit/msportals.io](https://github.com/adamfowlerit/msportals.io) - MSPortals.io - Microsoft Administrator Sites, Training, and Licensing Resources
 - [alexverboon/MDATP](https://github.com/alexverboon/MDATP) - MDATP
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
@@ -2084,7 +2080,7 @@
 - [KevinMarquette/PSGraph](https://github.com/KevinMarquette/PSGraph) - A set of utilities for working with Graphviz in Powershell
 - [Stephanevg/PSClassUtils](https://github.com/Stephanevg/PSClassUtils) - A set of utilities to work with Powershell Classes
 - [rgel/PowerShell](https://github.com/rgel/PowerShell) - Must-have PowerShell scripts and modules
-- [RamblingCookieMonster/PSDepend](https://github.com/RamblingCookieMonster/PSDepend) - PowerShell Dependency Handler
+- [PowerShellOrg/PSDepend](https://github.com/PowerShellOrg/PSDepend) - PowerShell Dependency Handler
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 - [EvotecIT/PSSharedGoods](https://github.com/EvotecIT/PSSharedGoods) - PSSharedGoods is little PowerShell Module that primary purpose is to be useful for multiple tasks, unrelated to each other. I've created this module as “a glue” between my other modules.
 - [devblackops/github-action-psscriptanalyzer](https://github.com/devblackops/github-action-psscriptanalyzer) - GitHub Action to run PSScriptAnalyzer static code analysis
