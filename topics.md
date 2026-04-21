@@ -1258,7 +1258,6 @@
 ## macos 
 
 - [gilburns/IntuneLogWatch](https://github.com/gilburns/IntuneLogWatch) - IntuneLogWatch is a macOS application for analyzing Microsoft Intune logs and delivering human-readable insights. It converts raw log data into understandable summaries, highlighting trends and issues
-- [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels.
 - [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 8.XX Support and macOS High Sierra ~ macOS Sequoia Support.
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
