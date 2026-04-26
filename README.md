@@ -419,6 +419,7 @@
 
 ## PHP 
 
+- [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [sbpp/sourcebans-pp](https://github.com/sbpp/sourcebans-pp) - Admin, ban, and comms management system for the Source engine
 - [hybula/lookingglass](https://github.com/hybula/lookingglass) - Modern, super simple and fresh looking glass based on Bootstrap 5 and PHP 8.
 - [torrentpier/torrentpier](https://github.com/torrentpier/torrentpier) - 🐂 TorrentPier. Bull-powered BitTorrent tracker engine
@@ -474,6 +475,7 @@
 
 ## PowerShell 
 
+- [OSDeploy/OSD.Workspace](https://github.com/OSDeploy/OSD.Workspace) - PowerShell Module OSD.Workspace
 - [jlabon2/PsUi](https://github.com/jlabon2/PsUi) - For building UIs in PowerShell without the misery.
 - [OSDeploy/OSDCloud](https://github.com/OSDeploy/OSDCloud) - PowerShell Module OSDCloud
 - [PSModule/Path](https://github.com/PSModule/Path) - A PowerShell module to manage the PATH environment variable on Windows.
@@ -998,6 +1000,7 @@
 
 ## TypeScript 
 
+- [openspiir-collective/openspiir](https://github.com/openspiir-collective/openspiir) - A faithful reproduction of the Spiir app, website and infrastructure, so we can keep using it.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [Lewis-Barry/IntuneSettingsCatalogViewer](https://github.com/Lewis-Barry/IntuneSettingsCatalogViewer) - 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
