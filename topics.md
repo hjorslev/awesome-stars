@@ -118,7 +118,6 @@
 - [jquery](#jquery)
 - [js](#js)
 - [json](#json)
-- [koa](#koa)
 - [kubernetes](#kubernetes)
 - [laravel](#laravel)
 - [latex](#latex)
@@ -724,7 +723,7 @@
 - [OleVik/grav-theme-scholar](https://github.com/OleVik/grav-theme-scholar) - Scholar is an academic-focused theme, for publishing papers, articles, books, documentation, your blog, and even your resumé, with Grav.
 - [pixelfed/docs](https://github.com/pixelfed/docs) - Pixelfed Documentation
 - [typemill/typemill](https://github.com/typemill/typemill) - Typemill is a flat-file CMS based on Markdown and designed for informational websites like documentation, manuals, and handbooks.
-- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
+- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - NOW MANAGED ON CODEBERG
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 
@@ -1163,10 +1162,6 @@
 - [jdhitsolutions/PSTypeExtensionTools](https://github.com/jdhitsolutions/PSTypeExtensionTools) - A set of PowerShell tools for working with type extensions.
 - [Badgerati/Fudge](https://github.com/Badgerati/Fudge) - Fudge is a PowerShell tool to help manage software packages via Chocolatey for specific development projects. Think NPM and Bower, but for Chocolatey
 
-## koa 
-
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
-
 ## kubernetes 
 
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - Create reusable templates and turn them into configurable workloads for homelabs and self-hosted infrastructure. Free and Open-Source.
@@ -1186,7 +1181,7 @@
 - [mchekin/rpg](https://github.com/mchekin/rpg) - Online Role Playing Game (based on Laravel)
 - [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
 - [pyrocms/pyrocms](https://github.com/pyrocms/pyrocms) - Pyro is an experienced and powerful Laravel PHP CMS.
-- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
+- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - NOW MANAGED ON CODEBERG
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 
 ## latex 
@@ -1914,7 +1909,7 @@
 - [emilstahl/ipv6](https://github.com/emilstahl/ipv6) - IPv6-adresse.dk source & data
 - [Art-of-WiFi/UniFi-API-browser](https://github.com/Art-of-WiFi/UniFi-API-browser) - Tool to browse data exposed by Ubiquiti's UniFi Controller API
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
-- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
+- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - NOW MANAGED ON CODEBERG
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [GetDKAN/dkan](https://github.com/GetDKAN/dkan) - DKAN Open Data Portal
 - [giansalex/Php-Nuget-Server](https://github.com/giansalex/Php-Nuget-Server) - PHP Nuget Server
