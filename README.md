@@ -818,7 +818,6 @@
 - [ironmansoftware/poshud](https://github.com/ironmansoftware/poshud) - Dashboard used for Poshud.com
 - [My-Random-Thoughts/QA-Checks-v4](https://github.com/My-Random-Thoughts/QA-Checks-v4) - PowerShell scripts to ensure consistent and reliable build quality and configuration for your servers
 - [poshbotio/PoshBot](https://github.com/poshbotio/PoshBot) - Powershell-based bot framework
-- [markdomansky/WebJEA](https://github.com/markdomansky/WebJEA) - WebJEA - Secure Self Service Web Forms from PowerShell Scripts
 - [fresh2dev/AnyBox](https://github.com/fresh2dev/AnyBox) - The easiest way to develop apps for Windows.
 - [MSAdministrator/TemplatePowerShellModule](https://github.com/MSAdministrator/TemplatePowerShellModule) - A Template PowerShell Module
 - [adamdriscoll/selenium-powershell](https://github.com/adamdriscoll/selenium-powershell) - PowerShell module to run a Selenium WebDriver.
@@ -1059,6 +1058,7 @@
 ## Visual Basic .NET 
 
 - [mithrandyr/SimplySql](https://github.com/mithrandyr/SimplySql) - PowerShell module for querying various SQL databases
+- [markdomansky/WebJEA](https://github.com/markdomansky/WebJEA) - WebJEA - Secure Self Service Web Forms from PowerShell Scripts
 
 ## Volt 
 
