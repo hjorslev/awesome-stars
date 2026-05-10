@@ -1464,7 +1464,7 @@
 
 - [OSDeploy/OSD.Workspace](https://github.com/OSDeploy/OSD.Workspace) - PowerShell Module OSD.Workspace
 - [openspiir-collective/openspiir](https://github.com/openspiir-collective/openspiir) - A faithful reproduction of the Spiir app, website and infrastructure, so we can keep using it.
-- [aelassas/servy](https://github.com/aelassas/servy) - Run Any App as a Native Windows Service - Modern Alternative to NSSM, WinSW & FireDaemon Pro
+- [aelassas/servy](https://github.com/aelassas/servy) - Professional-Grade Windows Service Wrapper with Deep Observability - Modern Alternative to NSSM, WinSW & FireDaemon Pro
 - [jlabon2/PsUi](https://github.com/jlabon2/PsUi) - For building UIs in PowerShell without the misery.
 - [adamgell/cmtraceopen](https://github.com/adamgell/cmtraceopen) - An open-source log viewer inspired by Microsoft's CMTrace.exe.
 - [TTlab-Research/awesome-wazuh](https://github.com/TTlab-Research/awesome-wazuh) - 🛡️Awesome lists about all kinds of interesting topics of Wazuh XDR/SIEM
