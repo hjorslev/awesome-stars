@@ -517,7 +517,6 @@
 - [JayRHa/EndpointAnalyticsRemediationScripts](https://github.com/JayRHa/EndpointAnalyticsRemediationScripts) - Collection of ready-to-use Intune Endpoint Analytics Proactive Remediation scripts for detection and remediation of common Windows endpoint issues including security, performance, networking, and appl
 - [stevenbartcom/SCCMRepair](https://github.com/stevenbartcom/SCCMRepair) - 
 - [damienvanrobaeys/Intune_BIOS_Password_KeyVault](https://github.com/damienvanrobaeys/Intune_BIOS_Password_KeyVault) - Store BIOS passwords on Azure Key Vault and set devices password with Intune (for Lenovo, Dell, HP)
-- [ugurkocde/IntuneAutomation](https://github.com/ugurkocde/IntuneAutomation) - 
 - [ennnbeee/IntuneFirewallMigration](https://github.com/ennnbeee/IntuneFirewallMigration) - IntuneFirewallMigration is an updated version of the originally Microsoft provided tool to capture firewall rules from a target machine and upload them to Intune.
 - [jorgeasaurus/MgConsoleGuiGraphSearch](https://github.com/jorgeasaurus/MgConsoleGuiGraphSearch) - Interactive Microsoft Graph search tool using console GUI for various Microsoft 365 and Azure AD object types.
 - [SMSAgentSoftware/ConfigMgrCleanup](https://github.com/SMSAgentSoftware/ConfigMgrCleanup) - Contains SQL queries and scripts to aid in identifying legacy or unused items for a ConfigMgr clean up project
@@ -1006,6 +1005,7 @@
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
 - [betterlytics/betterlytics](https://github.com/betterlytics/betterlytics) - Privacy-first analytics built with Rust, ClickHouse & Next.js
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
+- [ugurkocde/IntuneAutomation](https://github.com/ugurkocde/IntuneAutomation) - 
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
