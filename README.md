@@ -298,7 +298,7 @@
 - [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
 - [WeiChiaChang/modern-js-cheatsheet](https://github.com/WeiChiaChang/modern-js-cheatsheet) - Modern-JS-Cheatsheet 繁體中文版
 - [evanplaice/jquery-csv](https://github.com/evanplaice/jquery-csv) - A jQuery CSV parser plugin. Battle Tested | Optimized | 100% IETF RFC 4180 Complete
-- [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
+- [react/create-react-app](https://github.com/react/create-react-app) - Set up a modern web app by running one command.
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [Xainey/powershell-electron-demo](https://github.com/Xainey/powershell-electron-demo) - A PowerShell and Electron Demo
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
@@ -636,7 +636,7 @@
 - [LoicVeirman/HardenAD](https://github.com/LoicVeirman/HardenAD) - Hardening Active Directory version 2
 - [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
 - [improsec/Get-bADpasswords](https://github.com/improsec/Get-bADpasswords) - Get insights into the actual strength and quality of passwords in Active Directory.
-- [jdhitsolutions/PSClock](https://github.com/jdhitsolutions/PSClock) - :watch: A set of PowerShell commands for creating and managing a transparent WPF-based clock that runs on your Windows desktop.
+- [jdhitsolutions/PSClock](https://github.com/jdhitsolutions/PSClock) - :watch: A set of PowerShell commands for creating and managing clocks that can appear as a transparent WPF form, a clock in your session title bar, or in the corner of your session window.
 - [SP3269/posh-jwt](https://github.com/SP3269/posh-jwt) - JWT (JSON Web Tokens) implementation in Powershell
 - [potatoqualitee/psmodulecache](https://github.com/potatoqualitee/psmodulecache) - This action makes caching PowerShell modules from the PowerShell Gallery easy for Linux, Windows and macOS runners.
 - [dfinke/PowerShellPivot](https://github.com/dfinke/PowerShellPivot) - 
@@ -1012,7 +1012,7 @@
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [verza22/glarium](https://github.com/verza22/glarium) - Ikariam clone
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
+- [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
