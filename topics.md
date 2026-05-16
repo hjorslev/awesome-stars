@@ -1952,7 +1952,7 @@
 - [ChrFrohn/Entra-Lifecycle-Workflows](https://github.com/ChrFrohn/Entra-Lifecycle-Workflows) - Code for Microsoft Entra ID Lifecycle Workflows (Custom extensions)
 - [jorgeasaurus/IntuneHydrationKit](https://github.com/jorgeasaurus/IntuneHydrationKit) - Quick way to import starter configs into Intune
 - [rink-turksma/IntunePrepTool](https://github.com/rink-turksma/IntunePrepTool) - IntunePrepTool is a tool designed for creating Intune packages using the MS Win32 Content Prep Tool. The tool aims to simplify the process of packaging applications for deployment through Intune by au
-- [JayRHa/EndpointAnalyticsRemediationScripts](https://github.com/JayRHa/EndpointAnalyticsRemediationScripts) - Collection of ready-to-use Intune Endpoint Analytics Proactive Remediation scripts for detection and remediation of common Windows endpoint issues including security, performance, networking, and appl
+- [JayRHa/EndpointAnalyticsRemediationScripts](https://github.com/JayRHa/EndpointAnalyticsRemediationScripts) - Ready-to-use Microsoft Intune Endpoint Analytics Proactive Remediation detection and remediation scripts.
 - [Grace-Solutions/PSProxmox](https://github.com/Grace-Solutions/PSProxmox) - PSProxmox is a PowerShell module for managing Proxmox VE clusters. It provides a comprehensive set of cmdlets for managing virtual machines, storage, networks, users, roles, and more.
 - [mdgrs-mei/WinUIShell](https://github.com/mdgrs-mei/WinUIShell) - Scripting WinUI 3 with PowerShell
 - [rzander/sccmclictr](https://github.com/rzander/sccmclictr) - Client Center for Configuration Manager
@@ -2598,7 +2598,7 @@
 ## windows 
 
 - [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11
-- [JayRHa/EndpointAnalyticsRemediationScripts](https://github.com/JayRHa/EndpointAnalyticsRemediationScripts) - Collection of ready-to-use Intune Endpoint Analytics Proactive Remediation scripts for detection and remediation of common Windows endpoint issues including security, performance, networking, and appl
+- [JayRHa/EndpointAnalyticsRemediationScripts](https://github.com/JayRHa/EndpointAnalyticsRemediationScripts) - Ready-to-use Microsoft Intune Endpoint Analytics Proactive Remediation detection and remediation scripts.
 - [tugich/SetupPackagerIntune](https://github.com/tugich/SetupPackagerIntune) - Setup Packager helps you to easily package your software installation for Intune or other device management solutions. With just a few clicks you can create a PSADT-capable package from your files and
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
 - [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Persona
