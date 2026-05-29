@@ -487,6 +487,7 @@
 
 ## cloud 
 
+- [foundry-osd/foundry](https://github.com/foundry-osd/foundry) - Foundry is a modern Windows deployment solution built on a desktop app and WinPE. It helps you create deployment media and run a guided deployment with the right OS, drivers, firmware, and configurati
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager
 - [nextcloud/vm](https://github.com/nextcloud/vm) - 💻☁📦 The Nextcloud VM (virtual machine appliance), Home/SME Server and scripts for RPi (4-5). Community developed and maintained.
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
@@ -652,6 +653,7 @@
 
 ## deployment 
 
+- [foundry-osd/foundry](https://github.com/foundry-osd/foundry) - Foundry is a modern Windows deployment solution built on a desktop app and WinPE. It helps you create deployment media and run a guided deployment with the right OS, drivers, firmware, and configurati
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [tugich/DeploymentEditor](https://github.com/tugich/DeploymentEditor) - Deployment Editor simplifies software packaging with PSAppDeployToolkit (PSADT). You can click your sequence for PSADT through the easy GUI.
 - [tugich/SetupPackagerIntune](https://github.com/tugich/SetupPackagerIntune) - Setup Packager helps you to easily package your software installation for Intune or other device management solutions. With just a few clicks you can create a PSADT-capable package from your files and
@@ -1834,7 +1836,6 @@
 - [junecastillote/Get-WebUpStatus](https://github.com/junecastillote/Get-WebUpStatus) - Use Get-WebUpStatus.ps1 to programmatically check the availability status of Sharepoint Sites or any WebSites
 - [iainbrighton/PScribo](https://github.com/iainbrighton/PScribo) - PowerShell documentation framework
 - [Invoke-IR/PowerForensics](https://github.com/Invoke-IR/PowerForensics) - PowerForensics provides an all in one platform for live disk forensic analysis
-- [mex/vman.info](https://github.com/mex/vman.info) - 
 - [FuzzySecurity/PowerShell-Suite](https://github.com/FuzzySecurity/PowerShell-Suite) - My musings with PowerShell
 - [itu-summer/qualification-seminar-materials-2018](https://github.com/itu-summer/qualification-seminar-materials-2018) - Material for the qualification seminar 2018
 - [PsPsam/DSC-Lab](https://github.com/PsPsam/DSC-Lab) - My Home Lab
@@ -2597,6 +2598,7 @@
 
 ## windows 
 
+- [foundry-osd/foundry](https://github.com/foundry-osd/foundry) - Foundry is a modern Windows deployment solution built on a desktop app and WinPE. It helps you create deployment media and run a guided deployment with the right OS, drivers, firmware, and configurati
 - [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11
 - [JayRHa/EndpointAnalyticsRemediationScripts](https://github.com/JayRHa/EndpointAnalyticsRemediationScripts) - Ready-to-use Microsoft Intune Endpoint Analytics Proactive Remediation detection and remediation scripts.
 - [tugich/SetupPackagerIntune](https://github.com/tugich/SetupPackagerIntune) - Setup Packager helps you to easily package your software installation for Intune or other device management solutions. With just a few clicks you can create a PSADT-capable package from your files and
