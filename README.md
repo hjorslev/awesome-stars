@@ -41,6 +41,7 @@
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [Swift](#swift)
+- [TSQL](#tsql)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [UnrealScript](#unrealscript)
@@ -990,6 +991,10 @@
 ## Swift 
 
 - [gilburns/IntuneLogWatch](https://github.com/gilburns/IntuneLogWatch) - IntuneLogWatch is a macOS application for analyzing Microsoft Intune logs and delivering human-readable insights. It converts raw log data into understandable summaries, highlighting trends and issues
+
+## TSQL 
+
+- [olahallengren/sql-server-maintenance-solution](https://github.com/olahallengren/sql-server-maintenance-solution) - SQL Server Maintenance Solution
 
 ## TeX 
 
