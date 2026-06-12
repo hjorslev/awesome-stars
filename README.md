@@ -68,6 +68,7 @@
 - [gtworek/PSBits](https://github.com/gtworek/PSBits) - Simple (relatively) things allowing you to dig a bit deeper than usual.
 - [nbs-system/naxsi](https://github.com/nbs-system/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [heXeo/ubnt-fan-speed](https://github.com/heXeo/ubnt-fan-speed) - Ubiquiti ubnt-fan-speed
 
 ## C# # 
@@ -82,7 +83,6 @@
 - [EvotecIT/OfficeIMO](https://github.com/EvotecIT/OfficeIMO) - Fast and easy to use cross-platform .NET library that creates or modifies Microsoft Word (DocX) and later also Excel (XLSX) files without installing any software. Library is based on Open XML SDK
 - [Grace-Solutions/PSProxmox](https://github.com/Grace-Solutions/PSProxmox) - PSProxmox is a PowerShell module for managing Proxmox VE clusters. It provides a comprehensive set of cmdlets for managing virtual machines, storage, networks, users, roles, and more.
 - [mdgrs-mei/WinUIShell](https://github.com/mdgrs-mei/WinUIShell) - Scripting WinUI 3 with PowerShell
-- [jflieben/M365Permissions](https://github.com/jflieben/M365Permissions) - Generate a 360 degree view of a user's permissions in Microsoft 365
 - [rzander/sccmclictr](https://github.com/rzander/sccmclictr) - Client Center for Configuration Manager
 - [MSEndpointMgr/PSInvoker](https://github.com/MSEndpointMgr/PSInvoker) - Utility application to silently running PowerShell scripts without flashing windows.
 - [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) - Blazor Component Library based on Material Design principles. Do more with Blazor, utilizing CSS and keeping JavaScript to a bare minimum.
@@ -104,7 +104,6 @@
 - [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) - The main repository for the development of the evolution game Thrive.
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [PowerShell/SecretManagement](https://github.com/PowerShell/SecretManagement) - PowerShell module to consistent usage of secrets through different extension vaults
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [olefriis/Eco2](https://github.com/olefriis/Eco2) - Take control of your Danfoss Eco™ 2 thermostats!
 - [shravan2x/Gameloop.Vdf](https://github.com/shravan2x/Gameloop.Vdf) - A fast, easy-to-use Valve Data Format parser for .NET
 - [EvotecIT/PSPublishModule](https://github.com/EvotecIT/PSPublishModule) - This module is a module builder helper that helps build PowerShell modules "Evotec way". It allows us to make sure our modules are built the same way every time making the process really easy to build
@@ -348,6 +347,7 @@
 - [dev7060/Legal-Torrenting](https://github.com/dev7060/Legal-Torrenting) - List of legitimate torrents you can download
 - [Deepshah0308/awesome-intunetools](https://github.com/Deepshah0308/awesome-intunetools) - A curated list of awesome tools and resources for managing, troubleshooting, and automating Microsoft Intune deployments. This repository includes links to various community-built tools, scripts, and 
 - [ugurkocde/IntuneMonitoring](https://github.com/ugurkocde/IntuneMonitoring) - 
+- [jflieben/M365Permissions](https://github.com/jflieben/M365Permissions) - Generate a 360 degree view of a user's permissions in Microsoft 365
 - [powerstacks-corp/BI-for-Intune](https://github.com/powerstacks-corp/BI-for-Intune) - Repository for sample templates for BI for Intune reports.
 - [MoeKinani/DisableNetBIOS](https://github.com/MoeKinani/DisableNetBIOS) - 
 - [ugurkocde/KQL_Intune](https://github.com/ugurkocde/KQL_Intune) - 
