@@ -2362,7 +2362,7 @@
 - [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for youtube-dl / yt-dlp)
+- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
@@ -2664,7 +2664,7 @@
 
 ## youtube 
 
-- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for youtube-dl / yt-dlp)
+- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)
 
 ## zsh 
 
