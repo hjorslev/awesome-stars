@@ -1481,7 +1481,7 @@
 - [nathanmcnulty/nathanmcnulty](https://github.com/nathanmcnulty/nathanmcnulty) - 
 - [flaviuvlaicu/opnsense-topo-map](https://github.com/flaviuvlaicu/opnsense-topo-map) - 
 - [imabdk/Intune-Win32-PowerShell-Script-Installer-Template](https://github.com/imabdk/Intune-Win32-PowerShell-Script-Installer-Template) - PowerShell script installer template for Win32 apps in Microsoft Intune. Handles MSI/EXE installs, file operations, and registry settings
-- [Avihs-G/wp-torrent-parser](https://github.com/Avihs-G/wp-torrent-parser) - 
+- [shiva-gandla/wp-torrent-parser](https://github.com/shiva-gandla/wp-torrent-parser) - 
 - [dfinke/PSClaudeCode](https://github.com/dfinke/PSClaudeCode) - A PowerShell implementation of Claude Code: agent loop + tools + permissions.
 - [hybula/lookingglass](https://github.com/hybula/lookingglass) - Modern, super simple and fresh looking glass based on Bootstrap 5 and PHP 8.
 - [telephone/LookingGlass](https://github.com/telephone/LookingGlass) - A user-friendly PHP Looking Glass
