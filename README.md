@@ -224,7 +224,7 @@
 
 ## HTML 
 
-- [Avihs-G/wp-torrent-parser](https://github.com/Avihs-G/wp-torrent-parser) - 
+- [shiva-gandla/wp-torrent-parser](https://github.com/shiva-gandla/wp-torrent-parser) - 
 - [ugurkocde/IntuneRBAC](https://github.com/ugurkocde/IntuneRBAC) - 
 - [microsoftgraph/msgraph-sample-blazor-clientside](https://github.com/microsoftgraph/msgraph-sample-blazor-clientside) - This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from Blazor WebAssembly apps.
 - [maester365/maester](https://github.com/maester365/maester) - Maester is a test automation framework to help you stay in control of your Microsoft security configuration.
