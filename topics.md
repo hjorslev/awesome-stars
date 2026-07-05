@@ -1835,7 +1835,7 @@
 - [bgelens/DSCPullServerAdmin](https://github.com/bgelens/DSCPullServerAdmin) - PowerShell module to provide a better Admin oriented DSC Pull Server experience.
 - [mcaulr09/PowerShell](https://github.com/mcaulr09/PowerShell) - 
 - [ironmansoftware/poshud](https://github.com/ironmansoftware/poshud) - Dashboard used for Poshud.com
-- [markdomansky/WebJEA](https://github.com/markdomansky/WebJEA) - WebJEA - Secure Self Service Web Forms from PowerShell Scripts
+- [MarkDomansky/WebJEA](https://github.com/MarkDomansky/WebJEA) - WebJEA - Secure Self Service Web Forms from PowerShell Scripts
 - [MSAdministrator/TemplatePowerShellModule](https://github.com/MSAdministrator/TemplatePowerShellModule) - A Template PowerShell Module
 - [WeiChiaChang/modern-js-cheatsheet](https://github.com/WeiChiaChang/modern-js-cheatsheet) - Modern-JS-Cheatsheet 繁體中文版
 - [MSAdministrator/PSNetStat](https://github.com/MSAdministrator/PSNetStat) - A PowerShell Module which recreates netstat.exe functionality
