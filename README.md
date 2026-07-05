@@ -359,7 +359,6 @@
 - [pallebone/StrictBlockPAllebone](https://github.com/pallebone/StrictBlockPAllebone) - Manually curated IP Blocklist. Recommended only to update your firewalls weekly with this list. Please read how to use before implementing.
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [HDVinnie/Torrent-Tracker-Platforms](https://github.com/HDVinnie/Torrent-Tracker-Platforms) - A Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding Languages
-- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
 - [LearningKijo/KQL](https://github.com/LearningKijo/KQL) - Threat Hunting query in Microsoft 365 Defender, XDR. Provide out-of-the-box KQL hunting queries - App, Email, Identity and Endpoint.
 - [fabionoth/awesome-cyber-security](https://github.com/fabionoth/awesome-cyber-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
@@ -867,6 +866,7 @@
 - [jerrymakesjelly/autoremove-torrents](https://github.com/jerrymakesjelly/autoremove-torrents) - Automatically remove torrents according to your strategies.
 - [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels.
 - [thinkst/opencanary](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [JPCERTCC/LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log
 - [GNS3/gns3-gui](https://github.com/GNS3/gns3-gui) - GNS3 Graphical Network Simulator
@@ -1066,7 +1066,7 @@
 ## Visual Basic .NET 
 
 - [mithrandyr/SimplySql](https://github.com/mithrandyr/SimplySql) - PowerShell module for querying various SQL databases
-- [markdomansky/WebJEA](https://github.com/markdomansky/WebJEA) - WebJEA - Secure Self Service Web Forms from PowerShell Scripts
+- [MarkDomansky/WebJEA](https://github.com/MarkDomansky/WebJEA) - WebJEA - Secure Self Service Web Forms from PowerShell Scripts
 
 ## Volt 
 
