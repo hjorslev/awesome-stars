@@ -513,7 +513,7 @@
 - [rink-turksma/IntunePrepTool](https://github.com/rink-turksma/IntunePrepTool) - IntunePrepTool is a tool designed for creating Intune packages using the MS Win32 Content Prep Tool. The tool aims to simplify the process of packaging applications for deployment through Intune by au
 - [jeffdfield/GeneralPublic](https://github.com/jeffdfield/GeneralPublic) - 
 - [eskonr/MEMPowered](https://github.com/eskonr/MEMPowered) - This is repository of tools,scripts and reports that are created by Eswar and also collected from other sources to help community.
-- [aaronparker/icons](https://github.com/aaronparker/icons) - Icons for use with applications deployed via Microsoft Intune / MDM / ConfigMgr etc.
+- [aaronparker/icons](https://github.com/aaronparker/icons) - Icons for use with applications deployed via Microsoft Intune etc.
 - [1RedOne/Invoke-Clippy](https://github.com/1RedOne/Invoke-Clippy) - Celebrate the magic of Clippy with your family this holiday season
 - [petripaavola/IntuneDeviceDetailsGUI](https://github.com/petripaavola/IntuneDeviceDetailsGUI) - Intune Device Details GUI HTML v4.2 (New Updated!)
 - [JayRHa/EndpointAnalyticsRemediationScripts](https://github.com/JayRHa/EndpointAnalyticsRemediationScripts) - Ready-to-use Microsoft Intune Endpoint Analytics Proactive Remediation detection and remediation scripts.
