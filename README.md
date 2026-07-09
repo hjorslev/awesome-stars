@@ -842,7 +842,7 @@
 - [adbertram/PSADSync](https://github.com/adbertram/PSADSync) - A PowerShell module to sync users from an external data source to Active Directory.
 - [adbertram/Random-PowerShell-Work](https://github.com/adbertram/Random-PowerShell-Work) - Random PowerShell Work
 - [adbertram/PowerShellForSysadmins](https://github.com/adbertram/PowerShellForSysadmins) - 
-- [jdhitsolutions/PSScriptTools](https://github.com/jdhitsolutions/PSScriptTools) - :wrench: :hammer: A set of PowerShell functions you might use to enhance your own functions and scripts or to facilitate working in the console. Most should work in both Windows PowerShell and PowerSh
+- [jdhitsolutions/PSScriptTools](https://github.com/jdhitsolutions/PSScriptTools) - :wrench: :hammer: A set of PowerShell functions to enhance your functions and scripts or to facilitate working in the console. Most should work cross-platform and cross-version. Operating system limit
 - [PrateekKumarSingh/Gridify](https://github.com/PrateekKumarSingh/Gridify) - 'Gridify' Powershell module provides cmdlet that can resize and arrange applications in an automatic grid layout with predefined formats using the Processes passed as parameter
 - [damienvanrobaeys/WPF_PS_EN](https://github.com/damienvanrobaeys/WPF_PS_EN) - 
 - [lazywinadmin/LazyWinAdmin_GUI](https://github.com/lazywinadmin/LazyWinAdmin_GUI) - PowerShell Script that generates a GUI/WinForms loaded with tons of functions
@@ -1005,6 +1005,7 @@
 
 ## TypeScript 
 
+- [kevinmalinoski/intune-preflight](https://github.com/kevinmalinoski/intune-preflight) - Simulate an Intune endpoint and preview the exact merged policy baseline it would receive — a read-only, self-hosted preflight for Microsoft Intune.
 - [OpenAdminOS/OpenAdminOS](https://github.com/OpenAdminOS/OpenAdminOS) - 
 - [openspiir-collective/openspiir](https://github.com/openspiir-collective/openspiir) - A faithful reproduction of the Spiir app, website and infrastructure, so we can keep using it.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
