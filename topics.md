@@ -223,6 +223,7 @@
 - [website](#website)
 - [windows](#windows)
 - [wordpress](#wordpress)
+- [workflow](#workflow)
 - [xml](#xml)
 - [youtube](#youtube)
 - [zsh](#zsh)
@@ -2668,6 +2669,11 @@
 
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [SimonPadbury/b4st](https://github.com/SimonPadbury/b4st) - A Bootstrap 4 Starter Theme, for WordPress
+
+## workflow 
+
+- [PSModule/Process-PSModule](https://github.com/PSModule/Process-PSModule) - Process a module from source code to published module.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## xml 
 
