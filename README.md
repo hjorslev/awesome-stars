@@ -75,7 +75,7 @@
 
 - [mdgrs-mei/GliderUI](https://github.com/mdgrs-mei/GliderUI) - Cross-platform Desktop GUI framework for PowerShell powered by Avalonia
 - [foundry-osd/foundry](https://github.com/foundry-osd/foundry) - Foundry is a modern Windows deployment solution built on a desktop app and WinPE. It helps you create deployment media and run a guided deployment with the right OS, drivers, firmware, and configurati
-- [aelassas/servy](https://github.com/aelassas/servy) - Professional-Grade Windows Service Wrapper with Deep Observability
+- [aelassas/servy](https://github.com/aelassas/servy) - Professional-Grade Windows Service Wrapper with Real-Time Monitoring
 - [okieselbach/SyncMLViewer](https://github.com/okieselbach/SyncMLViewer) - A small real time SyncML protocol Viewer
 - [obselate/PoSHBlox](https://github.com/obselate/PoSHBlox) - Visual powershell node graph scripting
 - [Consolonia/Consolonia](https://github.com/Consolonia/Consolonia) - A cross-platform UI framework for .NET.
