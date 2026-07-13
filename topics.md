@@ -1475,7 +1475,7 @@
 - [olahallengren/sql-server-maintenance-solution](https://github.com/olahallengren/sql-server-maintenance-solution) - SQL Server Maintenance Solution
 - [OSDeploy/OSD.Workspace](https://github.com/OSDeploy/OSD.Workspace) - PowerShell Module OSD.Workspace
 - [openspiir-collective/openspiir](https://github.com/openspiir-collective/openspiir) - A faithful reproduction of the Spiir app, website and infrastructure, so we can keep using it.
-- [aelassas/servy](https://github.com/aelassas/servy) - Professional-Grade Windows Service Wrapper with Deep Observability
+- [aelassas/servy](https://github.com/aelassas/servy) - Professional-Grade Windows Service Wrapper with Real-Time Monitoring
 - [jlabon2/PsUi](https://github.com/jlabon2/PsUi) - For building UIs in PowerShell without the misery.
 - [adamgell/cmtraceopen](https://github.com/adamgell/cmtraceopen) - An open-source log viewer inspired by Microsoft's CMTrace.exe.
 - [TTlab-Research/awesome-wazuh](https://github.com/TTlab-Research/awesome-wazuh) - 🛡️Awesome lists about all kinds of interesting topics of Wazuh XDR/SIEM
