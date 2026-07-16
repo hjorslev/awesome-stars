@@ -89,6 +89,7 @@
 - [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) - Blazor Component Library based on Material Design principles. Do more with Blazor, utilizing CSS and keeping JavaScript to a bare minimum.
 - [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Persona
 - [WindowsGSM/WindowsGSM](https://github.com/WindowsGSM/WindowsGSM) - 🎲 A powerful tool to manage game servers. Equipped with a GUI for server admins to install, import, start, stop, restart, update, and automate multiple servers with a push of a button.
+- [JustinGrote/ModuleFast](https://github.com/JustinGrote/ModuleFast) - A "fast and loose" way to install modules from Powershell Gallery quickly. Meant for CICD, not production
 - [santisq/PSParallelPipeline](https://github.com/santisq/PSParallelPipeline) - Parallel processing of pipeline input objects!
 - [netwrix/pingcastle](https://github.com/netwrix/pingcastle) - PingCastle - Get Active Directory Security at 80% in 20% of the time
 - [pnp/powershell](https://github.com/pnp/powershell) - PnP PowerShell
@@ -597,7 +598,6 @@
 - [PSModule/Process-PSModule](https://github.com/PSModule/Process-PSModule) - Process a module from source code to published module.
 - [JustinGrote/ModuleFast-action](https://github.com/JustinGrote/ModuleFast-action) - 
 - [jakehildreth/Locksmith](https://github.com/jakehildreth/Locksmith) - A small tool built to find and fix common misconfigurations in Active Directory Certificate Services.
-- [JustinGrote/ModuleFast](https://github.com/JustinGrote/ModuleFast) - A "fast and loose" way to install modules from Powershell Gallery quickly. Meant for CICD, not production
 - [ansible-collections/ansible.windows](https://github.com/ansible-collections/ansible.windows) - Windows core collection for Ansible
 - [fsackur/poke](https://github.com/fsackur/poke) - A powerful reflection module for powershell.
 - [Bert-JanP/Incident-Response-Powershell](https://github.com/Bert-JanP/Incident-Response-Powershell) - PowerShell Digital Forensics & Incident Response Scripts.
