@@ -441,7 +441,7 @@
 - [Yaro2709/New-Star](https://github.com/Yaro2709/New-Star) - Web. browser game engine :)
 - [jstar88/opbe](https://github.com/jstar88/opbe) - Ogame probabilistic battle engine
 - [supernova-ws/SuperNova](https://github.com/supernova-ws/SuperNova) - oGame-like browser sci-fi space strategy
-- [Shadowss/TravianZ](https://github.com/Shadowss/TravianZ) - Travian T3.6
+- [Shadowss/TravianZ](https://github.com/Shadowss/TravianZ) - Travian T3.6 with user-configurable features (enable/disable).
 - [RackTables/racktables](https://github.com/RackTables/racktables) - RackTables current development repository
 - [statamic/cms](https://github.com/statamic/cms) - The core Laravel CMS Composer package
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
