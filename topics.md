@@ -832,7 +832,7 @@
 - [WindowsGSM/WindowsGSM](https://github.com/WindowsGSM/WindowsGSM) - 🎲 A powerful tool to manage game servers. Equipped with a GUI for server admins to install, import, start, stop, restart, update, and automate multiple servers with a push of a button.
 - [dan335/dominus](https://github.com/dan335/dominus) - Dominus - Multiplayer Social Strategy Web Game
 - [damian-pastorini/reldens](https://github.com/damian-pastorini/reldens) - Reldens - You can make it - Open Source MMORPG Platform
-- [Shadowss/TravianZ](https://github.com/Shadowss/TravianZ) - Travian T3.6
+- [Shadowss/TravianZ](https://github.com/Shadowss/TravianZ) - Travian T3.6 with user-configurable features (enable/disable).
 - [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) - The main repository for the development of the evolution game Thrive.
 - [mchekin/rpg](https://github.com/mchekin/rpg) - Online Role Playing Game (based on Laravel)
 - [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
@@ -842,7 +842,7 @@
 ## game-development 
 
 - [damian-pastorini/reldens](https://github.com/damian-pastorini/reldens) - Reldens - You can make it - Open Source MMORPG Platform
-- [Shadowss/TravianZ](https://github.com/Shadowss/TravianZ) - Travian T3.6
+- [Shadowss/TravianZ](https://github.com/Shadowss/TravianZ) - Travian T3.6 with user-configurable features (enable/disable).
 - [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 
 ## game-engine 
