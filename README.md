@@ -477,6 +477,8 @@
 
 ## PowerShell 
 
+- [mertozsoy/WindowsUpdateRemedationTool](https://github.com/mertozsoy/WindowsUpdateRemedationTool) - 
+- [boostedchaos/fleet-cve-scanner](https://github.com/boostedchaos/fleet-cve-scanner) - An open-source, single-script CVE scanner for RMM-managed fleets. Pure PowerShell 7 — joins your RMM software inventory against NVD, CISA KEV, EPSS and SSVC to answer: is this version vulnerable, and 
 - [JayRHa/IntuneDeviceTroubleshooter](https://github.com/JayRHa/IntuneDeviceTroubleshooter) - PowerShell-based troubleshooting tool for diagnosing and resolving issues on Intune-managed Windows devices.
 - [zbalkan/slmgr-ps](https://github.com/zbalkan/slmgr-ps) - A PowerShell replacement for slmgr.vbs script
 - [OSDeploy/OSD.Workspace](https://github.com/OSDeploy/OSD.Workspace) - PowerShell Module OSD.Workspace
