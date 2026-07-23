@@ -861,6 +861,7 @@
 
 ## Python 
 
+- [oabdullah3/omi-posh](https://github.com/oabdullah3/omi-posh) - Oh My Posh themes for your terminal, designed by me
 - [almenscorner/IntuneCD](https://github.com/almenscorner/IntuneCD) - Tool to backup, update and document configurations in Intune
 - [microsoft/secureboot_objects](https://github.com/microsoft/secureboot_objects) - Secure boot objects recommended by Microsoft.
 - [voytas75/VoytasCodeLab](https://github.com/voytas75/VoytasCodeLab) - Code lab of reusable scripts, snippets, and small utilities across multiple languages.
