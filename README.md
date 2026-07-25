@@ -161,7 +161,7 @@
 
 ## CSS 
 
-- [telephone/LookingGlass](https://github.com/telephone/LookingGlass) - A user-friendly PHP Looking Glass
+- [LupinTraderIII/LookingGlass](https://github.com/LupinTraderIII/LookingGlass) - A user-friendly PHP Looking Glass
 - [fudfomo/BlazorAuthDemo](https://github.com/fudfomo/BlazorAuthDemo) - 
 - [damienbod/MicrosoftEntraIDMudBlazor](https://github.com/damienbod/MicrosoftEntraIDMudBlazor) - Securing a MudBlazor UI web application using security headers and Microsoft Entra ID
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
