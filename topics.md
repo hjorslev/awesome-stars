@@ -1495,7 +1495,7 @@
 - [shiva-gandla/wp-torrent-parser](https://github.com/shiva-gandla/wp-torrent-parser) - 
 - [dfinke/PSClaudeCode](https://github.com/dfinke/PSClaudeCode) - A PowerShell implementation of Claude Code: agent loop + tools + permissions.
 - [hybula/lookingglass](https://github.com/hybula/lookingglass) - Modern, super simple and fresh looking glass based on Bootstrap 5 and PHP 8.
-- [telephone/LookingGlass](https://github.com/telephone/LookingGlass) - A user-friendly PHP Looking Glass
+- [LupinTraderIII/LookingGlass](https://github.com/LupinTraderIII/LookingGlass) - A user-friendly PHP Looking Glass
 - [NX211/traefik-proxmox-provider](https://github.com/NX211/traefik-proxmox-provider) - A Traefik provider plugin that automatically configures routing based on Proxmox VE virtual machines and containers
 - [Noble-Effeciency13/PIMActivation](https://github.com/Noble-Effeciency13/PIMActivation) - PIMActivation is a PowerShell module designed to streamline Microsoft Entra Privileged Identity Management (PIM) activations. It supports bulk role activations while dynamically adhering to the specif
 - [imabdk/Intune-Registry-Management](https://github.com/imabdk/Intune-Registry-Management) - The only PowerShell script you need to manage registry on Windows devices using Microsoft Intune Remediations
