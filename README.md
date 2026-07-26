@@ -227,6 +227,7 @@
 
 ## HTML 
 
+- [xz/new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
 - [shiva-gandla/wp-torrent-parser](https://github.com/shiva-gandla/wp-torrent-parser) - 
 - [ugurkocde/IntuneRBAC](https://github.com/ugurkocde/IntuneRBAC) - 
 - [microsoftgraph/msgraph-sample-blazor-clientside](https://github.com/microsoftgraph/msgraph-sample-blazor-clientside) - This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from Blazor WebAssembly apps.
