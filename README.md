@@ -676,7 +676,7 @@
 - [rabadiw/ps1](https://github.com/rabadiw/ps1) - PowerShell scripts and modules to help with daily developer tasks.
 - [PoshCode/Metadata](https://github.com/PoshCode/Metadata) - Serialization for the PowerShell metadata format
 - [PowerShell/Crescendo](https://github.com/PowerShell/Crescendo) - a module for wrapping native applications in a PowerShell function and module
-- [pspete/psPAS](https://github.com/pspete/psPAS) - PowerShell module for CyberArk Privileged Access Security REST API
+- [pspete/psPAS](https://github.com/pspete/psPAS) - PowerShell module for Idira (CyberArk) Privileged Access Security REST API
 - [StartAutomating/Irregular](https://github.com/StartAutomating/Irregular) - Regular Expressions made Strangely Simple
 - [EliteLoser/ConvertTo-Json](https://github.com/EliteLoser/ConvertTo-Json) - Svendsen Tech's ConvertTo-STJson is a pure-PowerShell ConvertTo-Json for PowerShell version 2
 - [JustinGrote/Press](https://github.com/JustinGrote/Press) - A continuous developement environment for Powershell Modules either via local development or leveraging GitHub and Github Actions
