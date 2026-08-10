@@ -520,7 +520,6 @@
 - [jorgeasaurus/IntuneHydrationKit](https://github.com/jorgeasaurus/IntuneHydrationKit) - Quick way to import starter configs into Intune
 - [enigma-tek/CodeOrganizer](https://github.com/enigma-tek/CodeOrganizer) - Web based PowerShell driven, PowerShell and KQL organizer
 - [imabdk/Toast-Notification-Script](https://github.com/imabdk/Toast-Notification-Script) - My Windows Toast Notification Script explained in details here: https://imab.dk/windows-10-toast-notification-script/
-- [PSModule/docs](https://github.com/PSModule/docs) - Docs for the PSModule framework
 - [NicklasAhlberg/Intune](https://github.com/NicklasAhlberg/Intune) - 
 - [mtniehaus/UEFIv2](https://github.com/mtniehaus/UEFIv2) - UEFIv2 master
 - [ennnbeee/IntuneAppAssigner](https://github.com/ennnbeee/IntuneAppAssigner) - The IntuneAppAssigner PowerShell script allows for the bulk update or replacement of assignments for Android, iOS, macOS, and Windows apps in Intune.
@@ -605,7 +604,6 @@
 - [Romanitho/Winget-AutoUpdate](https://github.com/Romanitho/Winget-AutoUpdate) - WAU daily updates apps as system and notify connected users. (Allowlist and Blocklist support)
 - [PSModule/Utilities](https://github.com/PSModule/Utilities) - A PowerShell module with a collection of functions that should have been in PowerShell to start with.
 - [PSModule/Template-PSModule](https://github.com/PSModule/Template-PSModule) - Template for a PowerShell module repo.
-- [PSModule/Build-PSModule](https://github.com/PSModule/Build-PSModule) - Action that is used to build a PowerShell module and it's manifest
 - [PSModule/Process-PSModule](https://github.com/PSModule/Process-PSModule) - Process a module from source code to published module.
 - [JustinGrote/ModuleFast-action](https://github.com/JustinGrote/ModuleFast-action) - 
 - [jakehildreth/Locksmith](https://github.com/jakehildreth/Locksmith) - A small tool built to find and fix common misconfigurations in Active Directory Certificate Services.
