@@ -1518,7 +1518,6 @@
 - [ugurkocde/DeviceOffboardingManager](https://github.com/ugurkocde/DeviceOffboardingManager) - A PowerShell GUI tool for efficiently managing and offboarding devices from Microsoft Intune, Autopilot, and Entra ID, featuring bulk operations and real-time analytics for streamlined device lifecycl
 - [enigma-tek/CodeOrganizer](https://github.com/enigma-tek/CodeOrganizer) - Web based PowerShell driven, PowerShell and KQL organizer
 - [imabdk/Toast-Notification-Script](https://github.com/imabdk/Toast-Notification-Script) - My Windows Toast Notification Script explained in details here: https://imab.dk/windows-10-toast-notification-script/
-- [PSModule/docs](https://github.com/PSModule/docs) - Docs for the PSModule framework
 - [EricZimmerman/PECmd](https://github.com/EricZimmerman/PECmd) - Prefetch Explorer Command Line
 - [NicklasAhlberg/Intune](https://github.com/NicklasAhlberg/Intune) - 
 - [mtniehaus/UEFIv2](https://github.com/mtniehaus/UEFIv2) - UEFIv2 master
@@ -1988,7 +1987,6 @@
 - [I-Am-Jakoby/PowerShell-for-Hackers](https://github.com/I-Am-Jakoby/PowerShell-for-Hackers) - This repository is a collection of powershell functions every hacker should know
 - [PSModule/Utilities](https://github.com/PSModule/Utilities) - A PowerShell module with a collection of functions that should have been in PowerShell to start with.
 - [PSModule/Template-PSModule](https://github.com/PSModule/Template-PSModule) - Template for a PowerShell module repo.
-- [PSModule/Build-PSModule](https://github.com/PSModule/Build-PSModule) - Action that is used to build a PowerShell module and it's manifest
 - [PSModule/Process-PSModule](https://github.com/PSModule/Process-PSModule) - Process a module from source code to published module.
 - [jakehildreth/Locksmith](https://github.com/jakehildreth/Locksmith) - A small tool built to find and fix common misconfigurations in Active Directory Certificate Services.
 - [santisq/PSParallelPipeline](https://github.com/santisq/PSParallelPipeline) - Parallel processing of pipeline input objects!
