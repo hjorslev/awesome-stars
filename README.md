@@ -80,7 +80,7 @@
 
 - [mdgrs-mei/GliderUI](https://github.com/mdgrs-mei/GliderUI) - Cross-platform Desktop GUI framework for PowerShell powered by Avalonia
 - [foundry-osd/foundry](https://github.com/foundry-osd/foundry) - Foundry is a modern Windows deployment solution built on a desktop app and WinPE. It helps you create deployment media and run a guided deployment with the right OS, drivers, firmware, and configurati
-- [aelassas/servy](https://github.com/aelassas/servy) - Run Any App as a Native Windows Service with Real-Time Monitoring
+- [aelassas/servy](https://github.com/aelassas/servy) - Enterprise-Grade Windows Service Wrapper with Real-Time Monitoring
 - [okieselbach/SyncMLViewer](https://github.com/okieselbach/SyncMLViewer) - A small real time SyncML protocol Viewer
 - [obselate/PoSHBlox](https://github.com/obselate/PoSHBlox) - Visual powershell node graph scripting
 - [Consolonia/Consolonia](https://github.com/Consolonia/Consolonia) - A cross-platform UI framework for .NET.
@@ -1085,6 +1085,7 @@
 
 ## Vue 
 
+- [caddymanager/caddymanager](https://github.com/caddymanager/caddymanager) - Easily manage your Caddy2 servers using a modern web-UI, built on the MEVN stack.
 - [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 - [joni1802/ts3-manager](https://github.com/joni1802/ts3-manager) - A modern web interface for maintaining Teamspeak3 servers
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
