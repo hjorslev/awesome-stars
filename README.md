@@ -125,6 +125,7 @@
 - [frgnca/AudioDeviceCmdlets](https://github.com/frgnca/AudioDeviceCmdlets) - AudioDeviceCmdlets is a suite of PowerShell Cmdlets to control audio devices on Windows
 - [luisperezphd/RunAsService](https://github.com/luisperezphd/RunAsService) - RunAsService is a command line tool that allows you to setup a regular  console application to run as a service.
 - [armageddonapps/QueryMaster](https://github.com/armageddonapps/QueryMaster) - 
+- [EvotecIT/EventViewerX](https://github.com/EvotecIT/EventViewerX) - Windows Event Log tooling for PowerShell and .NET: typed queries, reporting, export, WEC, automation, and the PSEventViewer module.
 - [Pscx/Pscx](https://github.com/Pscx/Pscx) - PowerShell Community Extensions module repository
 - [raandree/NTFSSecurity](https://github.com/raandree/NTFSSecurity) - Managing permissions with PowerShell is only a bit easier than in VBS or the command line as there are no cmdlets for most day-to-day tasks like getting a permission report or adding permission to an 
 - [EvotecIT/PSTeams](https://github.com/EvotecIT/PSTeams) - PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. I
@@ -765,7 +766,6 @@
 - [RamblingCookieMonster/PSSQLite](https://github.com/RamblingCookieMonster/PSSQLite) - PowerShell module to query SQLite databases
 - [pcgeek86/PSGitHub](https://github.com/pcgeek86/PSGitHub) - This PowerShell module contains commands to manage GitHub through its REST API.
 - [EvotecIT/PSDiscord](https://github.com/EvotecIT/PSDiscord) - Simple PowerShell module allowing to send messages to Discord Channel over webhooks
-- [EvotecIT/PSWinReporting](https://github.com/EvotecIT/PSWinReporting) - This PowerShell Module has multiple functionalities, but one of the signature features of this module is the ability to parse Security logs on Domain Controllers providing easy to use access to AD Eve
 - [devblackops/Stucco](https://github.com/devblackops/Stucco) - An opinionated Plaster template for high-quality PowerShell modules
 - [IISResetMe/PSCache](https://github.com/IISResetMe/PSCache) - Generic PowerShell cache implementation
 - [dfinke/PSKit](https://github.com/dfinke/PSKit) - A suite of command-line tools for working with PowerShell Arrays. From querying to doing array statistics.
