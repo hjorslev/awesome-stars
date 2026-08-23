@@ -404,7 +404,7 @@
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [microsoft/azure-pipelines-yaml](https://github.com/microsoft/azure-pipelines-yaml) - Azure Pipelines YAML examples, templates, and community interaction
 - [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [mjtechguy/wireguard-site-to-site](https://github.com/mjtechguy/wireguard-site-to-site) - Wireguard site-to-site (network-to-network) VPN Configuration examples
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [OyvindSabo/gremlin-style-guide](https://github.com/OyvindSabo/gremlin-style-guide) - A style guide for the Gremlin query language
