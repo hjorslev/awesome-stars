@@ -492,7 +492,6 @@
 
 ## cloud 
 
-- [foundry-osd/foundry](https://github.com/foundry-osd/foundry) - Foundry is a modern Windows deployment solution built on a desktop app and WinPE. It helps you create deployment media and run a guided deployment with the right OS, drivers, firmware, and configurati
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager
 - [nextcloud/vm](https://github.com/nextcloud/vm) - 💻☁📦 The Nextcloud VM (virtual machine appliance), Home/SME Server and scripts for RPi (4-5). Community developed and maintained.
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
@@ -659,7 +658,7 @@
 
 ## deployment 
 
-- [foundry-osd/foundry](https://github.com/foundry-osd/foundry) - Foundry is a modern Windows deployment solution built on a desktop app and WinPE. It helps you create deployment media and run a guided deployment with the right OS, drivers, firmware, and configurati
+- [foundry-osd/foundry](https://github.com/foundry-osd/foundry) - Foundry is a modern, open-source Windows deployment solution with a graphical interface. Create bootable media and deploy Windows with the right OS, drivers, firmware, and configuration.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [tugich/DeploymentEditor](https://github.com/tugich/DeploymentEditor) - Deployment Editor simplifies software packaging with PSAppDeployToolkit (PSADT). You can click your sequence for PSADT through the easy GUI.
 - [tugich/SetupPackagerIntune](https://github.com/tugich/SetupPackagerIntune) - Setup Packager helps you to easily package your software installation for Intune or other device management solutions. With just a few clicks you can create a PSADT-capable package from your files and
@@ -1286,7 +1285,7 @@
 ## macos 
 
 - [gilburns/IntuneLogWatch](https://github.com/gilburns/IntuneLogWatch) - IntuneLogWatch is a macOS application for analyzing Microsoft Intune logs and delivering human-readable insights. It converts raw log data into understandable summaries, highlighting trends and issues
-- [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 8.XX Support and macOS High Sierra ~ macOS Sequoia Support.
+- [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 9.XX Support and macOS High Sierra ~ macOS Tahoe Support.
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
@@ -1446,6 +1445,7 @@
 
 ## open-source 
 
+- [foundry-osd/foundry](https://github.com/foundry-osd/foundry) - Foundry is a modern, open-source Windows deployment solution with a graphical interface. Create bootable media and deploy Windows with the right OS, drivers, firmware, and configuration.
 - [electronicarts/CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) - Command & Conquer: Remastered Collection
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
@@ -1970,6 +1970,7 @@
 
 - [boostedchaos/fleet-cve-scanner](https://github.com/boostedchaos/fleet-cve-scanner) - An open-source, single-script CVE scanner for RMM-managed fleets. Pure PowerShell 7 — joins your RMM software inventory against NVD, CISA KEV, EPSS and SSVC to answer: is this version vulnerable, and 
 - [JayRHa/IntuneDeviceTroubleshooter](https://github.com/JayRHa/IntuneDeviceTroubleshooter) - PowerShell-based troubleshooting tool for diagnosing and resolving issues on Intune-managed Windows devices.
+- [foundry-osd/foundry](https://github.com/foundry-osd/foundry) - Foundry is a modern, open-source Windows deployment solution with a graphical interface. Create bootable media and deploy Windows with the right OS, drivers, firmware, and configuration.
 - [PSModule/Path](https://github.com/PSModule/Path) - A PowerShell module to manage the PATH environment variable on Windows.
 - [obselate/PoSHBlox](https://github.com/obselate/PoSHBlox) - Visual powershell node graph scripting
 - [UniverseCitiz3n/Intune-App-Sandbox](https://github.com/UniverseCitiz3n/Intune-App-Sandbox) - 
@@ -2642,7 +2643,7 @@
 
 - [JayRHa/IntuneDeviceTroubleshooter](https://github.com/JayRHa/IntuneDeviceTroubleshooter) - PowerShell-based troubleshooting tool for diagnosing and resolving issues on Intune-managed Windows devices.
 - [zbalkan/slmgr-ps](https://github.com/zbalkan/slmgr-ps) - A PowerShell replacement for slmgr.vbs script
-- [foundry-osd/foundry](https://github.com/foundry-osd/foundry) - Foundry is a modern Windows deployment solution built on a desktop app and WinPE. It helps you create deployment media and run a guided deployment with the right OS, drivers, firmware, and configurati
+- [foundry-osd/foundry](https://github.com/foundry-osd/foundry) - Foundry is a modern, open-source Windows deployment solution with a graphical interface. Create bootable media and deploy Windows with the right OS, drivers, firmware, and configuration.
 - [adamgell/cmtraceopen](https://github.com/adamgell/cmtraceopen) - Free, open-source CMTrace replacement for Windows log files: ConfigMgr/SCCM, Intune IME, and Autopilot ESP diagnostics, DSRegCmd triage, .evtx viewing, real-time tailing, and Windows error-code lookup
 - [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11
 - [JayRHa/EndpointAnalyticsRemediationScripts](https://github.com/JayRHa/EndpointAnalyticsRemediationScripts) - Ready-to-use Microsoft Intune Endpoint Analytics Proactive Remediation detection and remediation scripts.
