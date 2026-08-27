@@ -79,7 +79,7 @@
 ## C# # 
 
 - [mdgrs-mei/GliderUI](https://github.com/mdgrs-mei/GliderUI) - Cross-platform Desktop GUI framework for PowerShell powered by Avalonia
-- [foundry-osd/foundry](https://github.com/foundry-osd/foundry) - Foundry is a modern Windows deployment solution built on a desktop app and WinPE. It helps you create deployment media and run a guided deployment with the right OS, drivers, firmware, and configurati
+- [foundry-osd/foundry](https://github.com/foundry-osd/foundry) - Foundry is a modern, open-source Windows deployment solution with a graphical interface. Create bootable media and deploy Windows with the right OS, drivers, firmware, and configuration.
 - [aelassas/servy](https://github.com/aelassas/servy) - Enterprise-Grade Windows Service Wrapper with Real-Time Monitoring
 - [okieselbach/SyncMLViewer](https://github.com/okieselbach/SyncMLViewer) - A small real time SyncML protocol Viewer
 - [obselate/PoSHBlox](https://github.com/obselate/PoSHBlox) - Visual powershell node graph scripting
@@ -972,7 +972,7 @@
 - [X4BNet/lists_vpn](https://github.com/X4BNet/lists_vpn) - Lists of VPN providers (automatically updated)
 - [cisagov/LME](https://github.com/cisagov/LME) - Logging Made Easy (LME) is a no cost, open source platform that centralizes log collection, enhances threat detection, and enables real-time alerting, helping small to medium-sized organizations secur
 - [firehol/blocklist-ipsets](https://github.com/firehol/blocklist-ipsets) - ipsets dynamically updated with firehol's update-ipsets.sh script
-- [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 8.XX Support and macOS High Sierra ~ macOS Sequoia Support.
+- [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 9.XX Support and macOS High Sierra ~ macOS Tahoe Support.
 - [infothrill/ansible-role-lynis](https://github.com/infothrill/ansible-role-lynis) - An Ansible role to install Lynis, an open source security auditing tool.
 - [MisterCalvin/pterodactyl-swat4-egg](https://github.com/MisterCalvin/pterodactyl-swat4-egg) - SWAT 4 egg for Pterodactyl Panel
 - [MisterCalvin/swat4-server-docker](https://github.com/MisterCalvin/swat4-server-docker) - SWAT 4 Dedicated server running inside a Docker container (with mod support)
