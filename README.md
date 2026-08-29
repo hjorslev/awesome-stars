@@ -488,6 +488,7 @@
 
 ## PowerShell 
 
+- [ugurkocde/TenuVault](https://github.com/ugurkocde/TenuVault) - Backup & Restore for Intune
 - [rbalsleyMSFT/FFU](https://github.com/rbalsleyMSFT/FFU) - Using Full Flash Update files to speed up Windows Deployment
 - [mertozsoy/WindowsUpdateRemedationTool](https://github.com/mertozsoy/WindowsUpdateRemedationTool) - 
 - [boostedchaos/fleet-cve-scanner](https://github.com/boostedchaos/fleet-cve-scanner) - An open-source, single-script CVE scanner for RMM-managed fleets. Pure PowerShell 7 — joins your RMM software inventory against NVD, CISA KEV, EPSS and SSVC to answer: is this version vulnerable, and 
