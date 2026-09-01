@@ -237,7 +237,6 @@
 - [xz/new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
 - [shiva-gandla/wp-torrent-parser](https://github.com/shiva-gandla/wp-torrent-parser) - 
 - [ugurkocde/IntuneRBAC](https://github.com/ugurkocde/IntuneRBAC) - 
-- [MHimken/toolbox](https://github.com/MHimken/toolbox) - This is my toolbox. Watch where you step.
 - [microsoftgraph/msgraph-sample-blazor-clientside](https://github.com/microsoftgraph/msgraph-sample-blazor-clientside) - This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from Blazor WebAssembly apps.
 - [maester365/maester](https://github.com/maester365/maester) - Maester is a test automation framework to help you stay in control of your Microsoft security configuration.
 - [VulcanWM/global-css-art](https://github.com/VulcanWM/global-css-art) - 
@@ -435,6 +434,7 @@
 ## PHP 
 
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
+- [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 - [sbpp/sourcebans-pp](https://github.com/sbpp/sourcebans-pp) - Admin, ban, and comms management system for the Source engine
 - [hybula/lookingglass](https://github.com/hybula/lookingglass) - Modern, super simple and fresh looking glass based on Bootstrap 5 and PHP 8.
 - [torrentpier/torrentpier](https://github.com/torrentpier/torrentpier) - 🐂 TorrentPier. Bull-powered BitTorrent tracker engine
@@ -557,6 +557,7 @@
 - [AntoPorter/Intune-Remediations](https://github.com/AntoPorter/Intune-Remediations) - I hope these Microsoft Intune Remediations inspire you to make your own!
 - [ugurkocde/IntuneAssignmentChecker](https://github.com/ugurkocde/IntuneAssignmentChecker) - This script enables IT administrators to analyze and audit Intune assignments. It checks assignments for specific users, groups, or devices, displays all policies and their assignments, identifies una
 - [FlorianSLZ/scloud](https://github.com/FlorianSLZ/scloud) - Code Snippets mentioned at my Blog: scloud.work
+- [MHimken/toolbox](https://github.com/MHimken/toolbox) - This is my toolbox. Watch where you step.
 - [PatchMyPCTeam/Community-Scripts](https://github.com/PatchMyPCTeam/Community-Scripts) - This repository contains, curated scripts from the Patch My PC community. Note this repository is managed by the Patch My PC team. Please see the read me for additional information.
 - [FlorianSLZ/IntuneBulkMaster](https://github.com/FlorianSLZ/IntuneBulkMaster) - The IntuneBulkMaster provides a set of functions for managing and interacting with Microsoft Intune. It is designed to perform bulk operations on Intune-managed devices, such as rebooting, collecting 
 - [erlwes/PSAdaptiveCard](https://github.com/erlwes/PSAdaptiveCard) - Generate Adaptive Cards JSON with PowerShell-code
@@ -881,7 +882,7 @@
 - [saga-soft/novelWriter](https://github.com/saga-soft/novelWriter) - novelWriter is an open source plain text editor designed for writing novels.
 - [thinkst/opencanary](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/Quivr](https://github.com/The-Vibe-Company/Quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [JPCERTCC/LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log
 - [GNS3/gns3-gui](https://github.com/GNS3/gns3-gui) - GNS3 Graphical Network Simulator
 - [mvelazc0/BadZure](https://github.com/mvelazc0/BadZure) - BadZure automates the deployment of intentionally misconfigured Entra ID tenants and Azure subscriptions, populating them with diverse entities and configurable, traversable attack paths.
@@ -890,6 +891,7 @@
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - Create reusable templates and turn them into configurable workloads for homelabs and self-hosted infrastructure. Free and Open-Source.
 - [TKCERT/pfFocus](https://github.com/TKCERT/pfFocus) - Generate meaningful output from your pfSense configuration backup, like Markdown documentation.
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
+- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [yandex/gixy](https://github.com/yandex/gixy) - Nginx configuration static analyzer
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
@@ -944,7 +946,6 @@
 - [torrust/torrust-index](https://github.com/torrust/torrust-index) - This repository serves as the backend for the Torrust Index project.
 - [PowerShell/DSC](https://github.com/PowerShell/DSC) - This repo is for the DSC v3 project
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
-- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -1087,7 +1088,6 @@
 ## Vue 
 
 - [caddymanager/caddymanager](https://github.com/caddymanager/caddymanager) - Easily manage your Caddy2 servers using a modern web-UI, built on the MEVN stack.
-- [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 - [joni1802/ts3-manager](https://github.com/joni1802/ts3-manager) - A modern web interface for maintaining Teamspeak3 servers
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 
