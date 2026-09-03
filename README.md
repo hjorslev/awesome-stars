@@ -360,7 +360,6 @@
 - [TTlab-Research/awesome-wazuh](https://github.com/TTlab-Research/awesome-wazuh) - 🛡️Awesome lists about all kinds of interesting topics of Wazuh XDR/SIEM
 - [MSEndpointMgr/IntuneDebugToolkit](https://github.com/MSEndpointMgr/IntuneDebugToolkit) - 
 - [dev7060/Legal-Torrenting](https://github.com/dev7060/Legal-Torrenting) - List of legitimate torrents you can download
-- [Deepshah0308/awesome-intunetools](https://github.com/Deepshah0308/awesome-intunetools) - A curated list of awesome tools and resources for managing, troubleshooting, and automating Microsoft Intune deployments. This repository includes links to various community-built tools, scripts, and 
 - [ugurkocde/IntuneMonitoring](https://github.com/ugurkocde/IntuneMonitoring) - 
 - [jflieben/M365Permissions](https://github.com/jflieben/M365Permissions) - Generate a 360 degree view of a user's permissions in Microsoft 365
 - [powerstacks-corp/BI-for-Intune](https://github.com/powerstacks-corp/BI-for-Intune) - Repository for sample templates for BI for Intune reports.
@@ -873,6 +872,7 @@
 
 - [oabdullah3/omi-posh](https://github.com/oabdullah3/omi-posh) - Oh My Posh themes for your terminal, designed by me
 - [almenscorner/IntuneCD](https://github.com/almenscorner/IntuneCD) - Tool to backup, update and document configurations in Intune
+- [Deepshah0308/awesome-intunetools](https://github.com/Deepshah0308/awesome-intunetools) - A curated, searchable directory of 122 community tools, scripts and utilities for Microsoft Intune administrators.
 - [microsoft/secureboot_objects](https://github.com/microsoft/secureboot_objects) - Secure boot objects recommended by Microsoft.
 - [voytas75/VoytasCodeLab](https://github.com/voytas75/VoytasCodeLab) - Code lab of reusable scripts, snippets, and small utilities across multiple languages.
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)
@@ -1089,7 +1089,7 @@
 
 - [caddymanager/caddymanager](https://github.com/caddymanager/caddymanager) - Easily manage your Caddy2 servers using a modern web-UI, built on the MEVN stack.
 - [joni1802/ts3-manager](https://github.com/joni1802/ts3-manager) - A modern web interface for maintaining Teamspeak3 servers
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 
 ## YAML 
 
