@@ -346,6 +346,7 @@
 
 ## awesome-list 
 
+- [Deepshah0308/awesome-intunetools](https://github.com/Deepshah0308/awesome-intunetools) - A curated, searchable directory of 122 community tools, scripts and utilities for Microsoft Intune administrators.
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
 - [mthcht/awesome-lists](https://github.com/mthcht/awesome-lists) - Awesome Security lists for SOC/CERT/CTI
 - [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
@@ -520,6 +521,7 @@
 
 ## command-line 
 
+- [okibcn/nano-for-windows](https://github.com/okibcn/nano-for-windows) - Windows version of the GNU Nano editor
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [lptstr/winfetch](https://github.com/lptstr/winfetch) - 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
@@ -555,7 +557,7 @@
 
 ## continuous-integration 
 
-- [RamblingCookieMonster/BuildHelpers](https://github.com/RamblingCookieMonster/BuildHelpers) - Helper functions for PowerShell CI/CD scenarios
+- [PowerShellOrg/BuildHelpers](https://github.com/PowerShellOrg/BuildHelpers) - Helper functions for PowerShell CI/CD scenarios
 
 ## cpp 
 
@@ -747,7 +749,7 @@
 - [pixelfed/docs](https://github.com/pixelfed/docs) - Pixelfed Documentation
 - [typemill/typemill](https://github.com/typemill/typemill) - Typemill is a flat-file CMS based on Markdown and designed for informational websites like documentation, manuals, and handbooks.
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - NOW MANAGED ON CODEBERG
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 
 ## dotnet 
@@ -889,7 +891,7 @@
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 
 ## github 
@@ -1309,7 +1311,7 @@
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [picocms/Pico](https://github.com/picocms/Pico) - Pico is a stupidly simple, blazing fast, flat file CMS.
 - [typemill/typemill](https://github.com/typemill/typemill) - Typemill is a flat-file CMS based on Markdown and designed for informational websites like documentation, manuals, and handbooks.
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [StartAutomating/HelpOut](https://github.com/StartAutomating/HelpOut) - A Helpful Toolkit for Managing PowerShell Help
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 
@@ -1430,7 +1432,7 @@
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, lifecycle hooks, GraphQL API, and AI-assisted development via MCP server. Built
 - [ShinobiCCTV/Shinobi](https://github.com/ShinobiCCTV/Shinobi) - :zap: Shinobi Pro - The Next Generation in Open-Source Video Management Software with support for over 6000 IP and USB Cameras
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 
 ## obsidian 
@@ -1455,7 +1457,7 @@
 - [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, lifecycle hooks, GraphQL API, and AI-assisted development via MCP server. Built
 - [zenika-open-source/promote-open-source-project](https://github.com/zenika-open-source/promote-open-source-project) - 📄 How to promote my open source project?
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [Piwigo/Piwigo](https://github.com/Piwigo/Piwigo) - Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute!
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -1479,6 +1481,7 @@
 
 ## others 
 
+- [blawalt/WinPEAP](https://github.com/blawalt/WinPEAP) - 
 - [ugurkocde/TenuVault](https://github.com/ugurkocde/TenuVault) - Backup & Restore for Intune
 - [caddymanager/caddymanager](https://github.com/caddymanager/caddymanager) - Easily manage your Caddy2 servers using a modern web-UI, built on the MEVN stack.
 - [rbalsleyMSFT/FFU](https://github.com/rbalsleyMSFT/FFU) - Using Full Flash Update files to speed up Windows Deployment
@@ -1536,7 +1539,6 @@
 - [SkipToTheEndpoint/OIBDeployer](https://github.com/SkipToTheEndpoint/OIBDeployer) - 
 - [jeffdfield/GeneralPublic](https://github.com/jeffdfield/GeneralPublic) - 
 - [eskonr/MEMPowered](https://github.com/eskonr/MEMPowered) - This is repository of tools,scripts and reports that are created by Eswar and also collected from other sources to help community.
-- [Deepshah0308/awesome-intunetools](https://github.com/Deepshah0308/awesome-intunetools) - A curated list of awesome tools and resources for managing, troubleshooting, and automating Microsoft Intune deployments. This repository includes links to various community-built tools, scripts, and 
 - [aaronparker/icons](https://github.com/aaronparker/icons) - Icons for use with applications deployed via Microsoft Intune etc.
 - [1RedOne/Invoke-Clippy](https://github.com/1RedOne/Invoke-Clippy) - Celebrate the magic of Clippy with your family this holiday season
 - [devinmcelheran/Printune](https://github.com/devinmcelheran/Printune) - A one-stop utility for creating Intune packages to deploy printers and printer drivers.
@@ -1979,6 +1981,7 @@
 - [ChrFrohn/Entra-Lifecycle-Workflows](https://github.com/ChrFrohn/Entra-Lifecycle-Workflows) - Code for Microsoft Entra ID Lifecycle Workflows (Custom extensions)
 - [jorgeasaurus/IntuneHydrationKit](https://github.com/jorgeasaurus/IntuneHydrationKit) - Quick way to import starter configs into Intune
 - [rink-turksma/IntunePrepTool](https://github.com/rink-turksma/IntunePrepTool) - IntunePrepTool is a tool designed for creating Intune packages using the MS Win32 Content Prep Tool. The tool aims to simplify the process of packaging applications for deployment through Intune by au
+- [Deepshah0308/awesome-intunetools](https://github.com/Deepshah0308/awesome-intunetools) - A curated, searchable directory of 122 community tools, scripts and utilities for Microsoft Intune administrators.
 - [JayRHa/EndpointAnalyticsRemediationScripts](https://github.com/JayRHa/EndpointAnalyticsRemediationScripts) - Ready-to-use Microsoft Intune Endpoint Analytics Proactive Remediation detection and remediation scripts.
 - [Grace-Solutions/PSProxmox](https://github.com/Grace-Solutions/PSProxmox) - PSProxmox is a PowerShell module for managing Proxmox VE clusters. It provides a comprehensive set of cmdlets for managing virtual machines, storage, networks, users, roles, and more.
 - [mdgrs-mei/WinUIShell](https://github.com/mdgrs-mei/WinUIShell) - Scripting WinUI 3 with PowerShell
@@ -2100,7 +2103,7 @@
 - [EvotecIT/EventViewerX](https://github.com/EvotecIT/EventViewerX) - Windows Event Log tooling for PowerShell and .NET: typed queries, reporting, export, WEC, automation, and the PSEventViewer module.
 - [devblackops/Stucco](https://github.com/devblackops/Stucco) - An opinionated Plaster template for high-quality PowerShell modules
 - [IISResetMe/PSCache](https://github.com/IISResetMe/PSCache) - Generic PowerShell cache implementation
-- [RamblingCookieMonster/BuildHelpers](https://github.com/RamblingCookieMonster/BuildHelpers) - Helper functions for PowerShell CI/CD scenarios
+- [PowerShellOrg/BuildHelpers](https://github.com/PowerShellOrg/BuildHelpers) - Helper functions for PowerShell CI/CD scenarios
 - [Windos/BurntToast](https://github.com/Windos/BurntToast) - Module for creating and displaying Toast Notifications on Microsoft Windows 10.
 - [StartAutomating/Splatter](https://github.com/StartAutomating/Splatter) - Simple Scripts to Supercharge Splatting
 - [FriendsOfMDT/PSD](https://github.com/FriendsOfMDT/PSD) - PowerShell Deployment
@@ -2490,6 +2493,7 @@
 
 ## terminal 
 
+- [okibcn/nano-for-windows](https://github.com/okibcn/nano-for-windows) - Windows version of the GNU Nano editor
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
@@ -2641,6 +2645,7 @@
 
 ## windows 
 
+- [okibcn/nano-for-windows](https://github.com/okibcn/nano-for-windows) - Windows version of the GNU Nano editor
 - [JayRHa/IntuneDeviceTroubleshooter](https://github.com/JayRHa/IntuneDeviceTroubleshooter) - PowerShell-based troubleshooting tool for diagnosing and resolving issues on Intune-managed Windows devices.
 - [zbalkan/slmgr-ps](https://github.com/zbalkan/slmgr-ps) - A PowerShell replacement for slmgr.vbs script
 - [foundry-osd/foundry](https://github.com/foundry-osd/foundry) - Foundry is a modern, open-source Windows deployment solution with a graphical interface. Create bootable media and deploy Windows with the right OS, drivers, firmware, and configuration.
