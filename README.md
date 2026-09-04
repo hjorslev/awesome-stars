@@ -357,6 +357,7 @@
 
 ## Others 
 
+- [okibcn/nano-for-windows](https://github.com/okibcn/nano-for-windows) - Windows version of the GNU Nano editor
 - [TTlab-Research/awesome-wazuh](https://github.com/TTlab-Research/awesome-wazuh) - 🛡️Awesome lists about all kinds of interesting topics of Wazuh XDR/SIEM
 - [MSEndpointMgr/IntuneDebugToolkit](https://github.com/MSEndpointMgr/IntuneDebugToolkit) - 
 - [dev7060/Legal-Torrenting](https://github.com/dev7060/Legal-Torrenting) - List of legitimate torrents you can download
@@ -488,6 +489,7 @@
 
 ## PowerShell 
 
+- [blawalt/WinPEAP](https://github.com/blawalt/WinPEAP) - 
 - [ugurkocde/TenuVault](https://github.com/ugurkocde/TenuVault) - Backup & Restore for Intune
 - [rbalsleyMSFT/FFU](https://github.com/rbalsleyMSFT/FFU) - Using Full Flash Update files to speed up Windows Deployment
 - [mertozsoy/WindowsUpdateRemedationTool](https://github.com/mertozsoy/WindowsUpdateRemedationTool) - 
@@ -772,7 +774,7 @@
 - [dfinke/PSKit](https://github.com/dfinke/PSKit) - A suite of command-line tools for working with PowerShell Arrays. From querying to doing array statistics.
 - [jantari/poshwal](https://github.com/jantari/poshwal) - Generate terminal themes from your wallpaper with poshwal!
 - [PoshCode/ModuleBuilder](https://github.com/PoshCode/ModuleBuilder) - A PowerShell Module to help scripters write, version, sign, package, and publish.
-- [RamblingCookieMonster/BuildHelpers](https://github.com/RamblingCookieMonster/BuildHelpers) - Helper functions for PowerShell CI/CD scenarios
+- [PowerShellOrg/BuildHelpers](https://github.com/PowerShellOrg/BuildHelpers) - Helper functions for PowerShell CI/CD scenarios
 - [potatoqualitee/kbupdate](https://github.com/potatoqualitee/kbupdate) - 🛡 KB Viewer, Saver, Installer and Uninstaller
 - [Windos/BurntToast](https://github.com/Windos/BurntToast) - Module for creating and displaying Toast Notifications on Microsoft Windows 10.
 - [StartAutomating/Splatter](https://github.com/StartAutomating/Splatter) - Simple Scripts to Supercharge Splatting
