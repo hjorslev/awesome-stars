@@ -1481,6 +1481,7 @@
 
 ## others 
 
+- [sergeii/swat-patches](https://github.com/sergeii/swat-patches) - Collection of SWAT 4 server and client patches
 - [blawalt/WinPEAP](https://github.com/blawalt/WinPEAP) - 
 - [ugurkocde/TenuVault](https://github.com/ugurkocde/TenuVault) - Backup & Restore for Intune
 - [caddymanager/caddymanager](https://github.com/caddymanager/caddymanager) - Easily manage your Caddy2 servers using a modern web-UI, built on the MEVN stack.
