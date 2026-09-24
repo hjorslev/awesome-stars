@@ -1485,7 +1485,7 @@
 
 ## others 
 
-- [imabdk/intunewin-contextprep](https://github.com/imabdk/intunewin-contextprep) - 
+- [imabdk/intunewin-contextprep](https://github.com/imabdk/intunewin-contextprep) - Right-click an installer in Explorer to package it as an .intunewin, with the detection rule, install commands and architecture ready for the Intune portal
 - [call4cloud-code/Autopilot-Device-Association-Script](https://github.com/call4cloud-code/Autopilot-Device-Association-Script) - Autopilot Device Association Script to Create and Remove the Device Association
 - [a-d-m-x/admixcentral](https://github.com/a-d-m-x/admixcentral) - Admix Central
 - [TacII/WimWizard](https://github.com/TacII/WimWizard) - WimWizard is a tool to build fully patched OS-Images with languagepacks for use with SCCM/SCEM
