@@ -223,7 +223,7 @@
 - [Miguel-Dorta/rtsp-recorder](https://github.com/Miguel-Dorta/rtsp-recorder) - A very basic/simple RTSP recorder for Linux
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
-- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
+- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - Open-source IDS/IPS, WAF and bot detection for Linux, Windows, Docker and Kubernetes, with a crowdsourced blocklist of malicious IPs.
 - [lkarlslund/Adalanche](https://github.com/lkarlslund/Adalanche) - Attack Graph Visualizer and Explorer (Active Directory) ...Who's *really* Domain Admin?
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
@@ -270,7 +270,6 @@
 
 - [taobataoma/meanTorrent](https://github.com/taobataoma/meanTorrent) - meanTorrent - MEAN.JS BitTorrent Private Tracker - Full-Stack JavaScript Using MongoDB, Express, AngularJS, and Node.js, A BitTorrent Private Tracker CMS with Multilingual, and IRC announce support, C
 - [MrtnRQL/Companyportaliconsdotcom](https://github.com/MrtnRQL/Companyportaliconsdotcom) - 
-- [chrisvel/tududi](https://github.com/chrisvel/tududi) - A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
 - [SkipToTheEndpoint/OIBDeployer](https://github.com/SkipToTheEndpoint/OIBDeployer) - 
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [wpaix/magnethover.js](https://github.com/wpaix/magnethover.js) - Dynamic magnet hover JS effect.
@@ -362,6 +361,7 @@
 
 ## Others 
 
+- [ph0tacular/unifi-wazuh](https://github.com/ph0tacular/unifi-wazuh) - Decoders and rules for Wazuh
 - [sergeii/swat-patches](https://github.com/sergeii/swat-patches) - Collection of SWAT 4 server and client patches
 - [okibcn/nano-for-windows](https://github.com/okibcn/nano-for-windows) - Windows version of the GNU Nano editor
 - [TTlab-Research/awesome-wazuh](https://github.com/TTlab-Research/awesome-wazuh) - 🛡️Awesome lists about all kinds of interesting topics of Wazuh XDR/SIEM
@@ -495,7 +495,7 @@
 
 ## PowerShell 
 
-- [imabdk/intunewin-contextprep](https://github.com/imabdk/intunewin-contextprep) - 
+- [imabdk/intunewin-contextprep](https://github.com/imabdk/intunewin-contextprep) - Right-click an installer in Explorer to package it as an .intunewin, with the detection rule, install commands and architecture ready for the Intune portal
 - [call4cloud-code/Autopilot-Device-Association-Script](https://github.com/call4cloud-code/Autopilot-Device-Association-Script) - Autopilot Device Association Script to Create and Remove the Device Association
 - [TacII/WimWizard](https://github.com/TacII/WimWizard) - WimWizard is a tool to build fully patched OS-Images with languagepacks for use with SCCM/SCEM
 - [blawalt/WinPEAP](https://github.com/blawalt/WinPEAP) - 
@@ -1037,6 +1037,7 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
 - [betterlytics/betterlytics](https://github.com/betterlytics/betterlytics) - Privacy-first analytics built with Rust, ClickHouse & Next.js
+- [chrisvel/tududi](https://github.com/chrisvel/tududi) - A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
 - [ugurkocde/IntuneAutomation](https://github.com/ugurkocde/IntuneAutomation) - 
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager
