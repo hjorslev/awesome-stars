@@ -1495,7 +1495,7 @@
 - [TacII/WimWizard](https://github.com/TacII/WimWizard) - WimWizard is a tool to build fully patched OS-Images with languagepacks for use with SCCM/SCEM
 - [sergeii/swat-patches](https://github.com/sergeii/swat-patches) - Collection of SWAT 4 server and client patches
 - [blawalt/WinPEAP](https://github.com/blawalt/WinPEAP) - 
-- [ugurkocde/TenuVault](https://github.com/ugurkocde/TenuVault) - Backup & Restore for Intune
+- [ugurkocde/TenuVault-PowerShell](https://github.com/ugurkocde/TenuVault-PowerShell) - Backup & Restore for Intune
 - [caddymanager/caddymanager](https://github.com/caddymanager/caddymanager) - Easily manage your Caddy2 servers using a modern web-UI, built on the MEVN stack.
 - [rbalsleyMSFT/FFU](https://github.com/rbalsleyMSFT/FFU) - Using Full Flash Update files to speed up Windows Deployment
 - [jazwa/rackstack](https://github.com/jazwa/rackstack) - A modular 3d-printable mini rack system.
@@ -1686,7 +1686,6 @@
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 - [soteria-security/365Inspect](https://github.com/soteria-security/365Inspect) - A PowerShell script that automates the security assessment of Microsoft 365 environments.
 - [netson/ubuntu-unattended](https://github.com/netson/ubuntu-unattended) - Script to create unattended Ubuntu ISO
-- [ConfigJon/Firmware-Management](https://github.com/ConfigJon/Firmware-Management) - Firmware and BIOS management scripts.
 - [mmims/PSUtilities](https://github.com/mmims/PSUtilities) - Collection of PowerShell utility scripts.
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [MTrab/HAConfig](https://github.com/MTrab/HAConfig) - My Home Assistant Configuration
@@ -2042,6 +2041,7 @@
 - [insomnimus/ps-dotenv](https://github.com/insomnimus/ps-dotenv) - A feature complete and unintrusive direnv for Powershell Core
 - [scriptrunner/ActionPacks](https://github.com/scriptrunner/ActionPacks) - Public PowerShell script gallery for ScriptRunner.
 - [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Download ScriptAnalyzer from PowerShellGallery
+- [ConfigJon/Firmware-Management](https://github.com/ConfigJon/Firmware-Management) - PowerShell scripts for managing BIOS passwords and settings on Dell, HP, and Lenovo devices with ConfigMgr task sequences or Intune Remediations.
 - [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 600+ free PowerShell scripts (.ps1) for Linux, macOS, and Windows.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [DarkCoderSc/PowerRemoteDesktop](https://github.com/DarkCoderSc/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell.
