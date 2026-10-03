@@ -499,7 +499,7 @@
 - [call4cloud-code/Autopilot-Device-Association-Script](https://github.com/call4cloud-code/Autopilot-Device-Association-Script) - Autopilot Device Association Script to Create and Remove the Device Association
 - [TacII/WimWizard](https://github.com/TacII/WimWizard) - WimWizard is a tool to build fully patched OS-Images with languagepacks for use with SCCM/SCEM
 - [blawalt/WinPEAP](https://github.com/blawalt/WinPEAP) - 
-- [ugurkocde/TenuVault](https://github.com/ugurkocde/TenuVault) - Backup & Restore for Intune
+- [ugurkocde/TenuVault-PowerShell](https://github.com/ugurkocde/TenuVault-PowerShell) - Backup & Restore for Intune
 - [rbalsleyMSFT/FFU](https://github.com/rbalsleyMSFT/FFU) - Using Full Flash Update files to speed up Windows Deployment
 - [mertozsoy/WindowsUpdateRemedationTool](https://github.com/mertozsoy/WindowsUpdateRemedationTool) - 
 - [boostedchaos/fleet-cve-scanner](https://github.com/boostedchaos/fleet-cve-scanner) - An open-source, single-script CVE scanner for RMM-managed fleets. Pure PowerShell 7 — joins your RMM software inventory against NVD, CISA KEV, EPSS and SSVC to answer: is this version vulnerable, and 
@@ -654,7 +654,7 @@
 - [lptstr/winfetch](https://github.com/lptstr/winfetch) - 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
 - [scriptrunner/ActionPacks](https://github.com/scriptrunner/ActionPacks) - Public PowerShell script gallery for ScriptRunner.
 - [soteria-security/365Inspect](https://github.com/soteria-security/365Inspect) - A PowerShell script that automates the security assessment of Microsoft 365 environments.
-- [ConfigJon/Firmware-Management](https://github.com/ConfigJon/Firmware-Management) - Firmware and BIOS management scripts.
+- [ConfigJon/Firmware-Management](https://github.com/ConfigJon/Firmware-Management) - PowerShell scripts for managing BIOS passwords and settings on Dell, HP, and Lenovo devices with ConfigMgr task sequences or Intune Remediations.
 - [mmims/PSUtilities](https://github.com/mmims/PSUtilities) - Collection of PowerShell utility scripts.
 - [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 600+ free PowerShell scripts (.ps1) for Linux, macOS, and Windows.
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
