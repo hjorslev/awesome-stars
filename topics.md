@@ -11,7 +11,6 @@
 - [algorithm](#algorithm)
 - [algorithmic-trading](#algorithmic-trading)
 - [algorithms](#algorithms)
-- [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
 - [ansible](#ansible)
@@ -223,6 +222,7 @@
 - [webapp](#webapp)
 - [website](#website)
 - [windows](#windows)
+- [windows-11](#windows-11)
 - [wordpress](#wordpress)
 - [workflow](#workflow)
 - [xml](#xml)
@@ -260,10 +260,6 @@
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [andreasbm/web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-
-## analytics 
-
-- [betterlytics/betterlytics](https://github.com/betterlytics/betterlytics) - Privacy-first analytics built with Rust, ClickHouse & Next.js
 
 ## android 
 
@@ -1402,7 +1398,7 @@
 ## nextjs 
 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [betterlytics/betterlytics](https://github.com/betterlytics/betterlytics) - Privacy-first analytics built with Rust, ClickHouse & Next.js
+- [betterlytics/betterlytics](https://github.com/betterlytics/betterlytics) - Open-source web analytics with session replay, error tracking, Core Web Vitals and uptime monitoring in one tool. Cookieless, EU-hosted cloud or self-hosted.
 - [tdjsnelling/sqtracker](https://github.com/tdjsnelling/sqtracker) - A modern private BitTorrent tracker platform
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -2177,7 +2173,6 @@
 
 ## privacy 
 
-- [betterlytics/betterlytics](https://github.com/betterlytics/betterlytics) - Privacy-first analytics built with Rust, ClickHouse & Next.js
 - [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
 - [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
@@ -2267,7 +2262,6 @@
 
 - [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [kevinmalinoski/intune-preflight](https://github.com/kevinmalinoski/intune-preflight) - Simulate an Intune endpoint and preview the exact merged policy baseline it would receive — a read-only, self-hosted preflight for Microsoft Intune.
-- [betterlytics/betterlytics](https://github.com/betterlytics/betterlytics) - Privacy-first analytics built with Rust, ClickHouse & Next.js
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
 - [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
@@ -2327,7 +2321,7 @@
 
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [adamgell/cmtraceopen](https://github.com/adamgell/cmtraceopen) - Free, open-source CMTrace replacement for Windows log files: ConfigMgr/SCCM, Intune IME, and Autopilot ESP diagnostics, DSRegCmd triage, .evtx viewing, real-time tailing, and Windows error-code lookup
-- [betterlytics/betterlytics](https://github.com/betterlytics/betterlytics) - Privacy-first analytics built with Rust, ClickHouse & Next.js
+- [betterlytics/betterlytics](https://github.com/betterlytics/betterlytics) - Open-source web analytics with session replay, error tracking, Core Web Vitals and uptime monitoring in one tool. Cookieless, EU-hosted cloud or self-hosted.
 - [torrust/torrust-tracker](https://github.com/torrust/torrust-tracker) - A modern and feature-rich (private) BitTorrent tracker.
 - [torrust/torrust-index](https://github.com/torrust/torrust-index) - This repository serves as the backend for the Torrust Index project.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
@@ -2410,6 +2404,7 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
+- [betterlytics/betterlytics](https://github.com/betterlytics/betterlytics) - Open-source web analytics with session replay, error tracking, Core Web Vitals and uptime monitoring in one tool. Cookieless, EU-hosted cloud or self-hosted.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
@@ -2713,6 +2708,22 @@
 - [microsoft/MSLab](https://github.com/microsoft/MSLab) - Azure Local (formerly Azure Stack HCI), Windows 10 and Windows Server rapid lab deployment scripts
 - [PrateekKumarSingh/Graphical](https://github.com/PrateekKumarSingh/Graphical) - Open-Source, Platform independent module that consumes data points as input and plots them on a 2D graph 📈📊💹 [Scatter / Bar / Line] on the PowerShell Console/Terminal
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
+
+## windows-11 
+
+- [foundry-osd/foundry](https://github.com/foundry-osd/foundry) - Foundry is a modern, open-source Windows deployment solution with a graphical interface. Create bootable media and deploy Windows with the right OS, drivers, firmware, and configuration.
+- [tugich/DeploymentEditor](https://github.com/tugich/DeploymentEditor) - Deployment Editor simplifies software packaging with PSAppDeployToolkit (PSADT). You can click your sequence for PSADT through the easy GUI.
+- [tugich/SetupPackagerIntune](https://github.com/tugich/SetupPackagerIntune) - Setup Packager helps you to easily package your software installation for Intune or other device management solutions. With just a few clicks you can create a PSADT-capable package from your files and
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
+- [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
+- [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module for fine-tuning Windows 10 & Windows 11 on GitHub
+- [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
+- [DarkCoderSc/PowerRemoteDesktop](https://github.com/DarkCoderSc/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell.
+- [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening Settings
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 
 ## wordpress 
 
