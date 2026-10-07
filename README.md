@@ -58,7 +58,7 @@
 
 ## Astro 
 
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
 
 ## Batchfile 
 
@@ -282,6 +282,7 @@
 - [damian-pastorini/reldens](https://github.com/damian-pastorini/reldens) - Reldens - You can make it - Open Source MMORPG Platform
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [PaulLereverend/NextcloudDuplicateFinder](https://github.com/PaulLereverend/NextcloudDuplicateFinder) - Save some space by finding your duplicate files
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [kasuganosoras/SuperMicro-IPMI-LicenseGenerator](https://github.com/kasuganosoras/SuperMicro-IPMI-LicenseGenerator) - 🔑 SuperMicro 超微主板 IPMI 高级功能授权解锁 Key 生成工具
 - [okaybenji/text-engine](https://github.com/okaybenji/text-engine) - A browser-based text adventure game engine and sample game
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
@@ -912,7 +913,6 @@
 - [byt3bl33d3r/CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - A swiss army knife for pentesting networks
 - [MTrab/energidataservice](https://github.com/MTrab/energidataservice) - Fetches spot prices from Energi Data Service
 - [custom-components/nordpool](https://github.com/custom-components/nordpool) - This component allows you to pull in the energy prices into Home-Assistant.
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [MTrab/HAConfig](https://github.com/MTrab/HAConfig) - My Home Assistant Configuration
@@ -1031,7 +1031,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [Lewis-Barry/IntuneSettingsCatalogViewer](https://github.com/Lewis-Barry/IntuneSettingsCatalogViewer) - Browse the Intune Settings Catalog without using Intune
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
+- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted, plugin-based server management.
 - [betterlytics/betterlytics](https://github.com/betterlytics/betterlytics) - Open-source web analytics with session replay, error tracking, Core Web Vitals and uptime monitoring in one tool. Cookieless, EU-hosted cloud or self-hosted.
 - [ugurkocde/IntuneAutomation](https://github.com/ugurkocde/IntuneAutomation) - 
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
