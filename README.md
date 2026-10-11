@@ -130,7 +130,6 @@
 - [armageddonapps/QueryMaster](https://github.com/armageddonapps/QueryMaster) - 
 - [EvotecIT/EventViewerX](https://github.com/EvotecIT/EventViewerX) - Windows Event Log tooling for PowerShell and .NET: typed queries, reporting, export, WEC, automation, and the PSEventViewer module.
 - [Pscx/Pscx](https://github.com/Pscx/Pscx) - PowerShell Community Extensions module repository
-- [raandree/NTFSSecurity](https://github.com/raandree/NTFSSecurity) - Managing permissions with PowerShell is only a bit easier than in VBS or the command line as there are no cmdlets for most day-to-day tasks like getting a permission report or adding permission to an 
 - [EvotecIT/PSTeams](https://github.com/EvotecIT/PSTeams) - PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. I
 - [ebekker/ACMESharp](https://github.com/ebekker/ACMESharp) - An ACME client library and PowerShell client for the .NET platform (Let's Encrypt)
 - [renisac/O365-Management-and-Log-Scripts](https://github.com/renisac/O365-Management-and-Log-Scripts) - Security-Focused O365 Management and Log Scripts
@@ -785,6 +784,7 @@
 - [Windos/BurntToast](https://github.com/Windos/BurntToast) - Module for creating and displaying Toast Notifications on Microsoft Windows 10.
 - [StartAutomating/Splatter](https://github.com/StartAutomating/Splatter) - Simple Scripts to Supercharge Splatting
 - [FriendsOfMDT/PSD](https://github.com/FriendsOfMDT/PSD) - PowerShell Deployment
+- [raandree/NTFSSecurity](https://github.com/raandree/NTFSSecurity) - Managing permissions with PowerShell is only a bit easier than in VBS or the command line as there are no cmdlets for most day-to-day tasks like getting a permission report or adding permission to an 
 - [microsoft/Requirements](https://github.com/microsoft/Requirements) - PowerShell framework for declaratively defining and idempotently imposing system configurations
 - [jantari/powerfetch](https://github.com/jantari/powerfetch) - PowerShell-based cross-platform 'screenfetch'-like tool
 - [StartAutomating/HelpOut](https://github.com/StartAutomating/HelpOut) - A Helpful Toolkit for Managing PowerShell Help
