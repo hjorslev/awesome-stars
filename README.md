@@ -57,7 +57,7 @@
 
 ## Astro 
 
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
 
 ## Batchfile 
 
@@ -278,7 +278,6 @@
 - [damian-pastorini/reldens](https://github.com/damian-pastorini/reldens) - Reldens - You can make it - Open Source MMORPG Platform
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [PaulLereverend/NextcloudDuplicateFinder](https://github.com/PaulLereverend/NextcloudDuplicateFinder) - Save some space by finding your duplicate files
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [kasuganosoras/SuperMicro-IPMI-LicenseGenerator](https://github.com/kasuganosoras/SuperMicro-IPMI-LicenseGenerator) - 🔑 SuperMicro 超微主板 IPMI 高级功能授权解锁 Key 生成工具
 - [okaybenji/text-engine](https://github.com/okaybenji/text-engine) - A browser-based text adventure game engine and sample game
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
@@ -499,7 +498,7 @@
 - [rbalsleyMSFT/FFU](https://github.com/rbalsleyMSFT/FFU) - Using Full Flash Update files to speed up Windows Deployment
 - [mertozsoy/WindowsUpdateRemedationTool](https://github.com/mertozsoy/WindowsUpdateRemedationTool) - 
 - [boostedchaos/fleet-cve-scanner](https://github.com/boostedchaos/fleet-cve-scanner) - An open-source, single-script CVE scanner for RMM-managed fleets. Pure PowerShell 7 — joins your RMM software inventory against NVD, CISA KEV, EPSS and SSVC to answer: is this version vulnerable, and 
-- [JayRHa/IntuneDeviceTroubleshooter](https://github.com/JayRHa/IntuneDeviceTroubleshooter) - PowerShell-based troubleshooting tool for diagnosing and resolving issues on Intune-managed Windows devices.
+- [JayRHa/intune-device-troubleshooter](https://github.com/JayRHa/intune-device-troubleshooter) - PowerShell-based troubleshooting tool for diagnosing and resolving issues on Intune-managed Windows devices.
 - [zbalkan/slmgr-ps](https://github.com/zbalkan/slmgr-ps) - A PowerShell replacement for slmgr.vbs script
 - [OSDeploy/OSD.Workspace](https://github.com/OSDeploy/OSD.Workspace) - PowerShell Module OSD.Workspace
 - [jlabon2/PsUi](https://github.com/jlabon2/PsUi) - For building UIs in PowerShell without the misery.
@@ -539,7 +538,7 @@
 - [aaronparker/icons](https://github.com/aaronparker/icons) - Icons for use with applications deployed via Microsoft Intune etc.
 - [1RedOne/Invoke-Clippy](https://github.com/1RedOne/Invoke-Clippy) - Celebrate the magic of Clippy with your family this holiday season
 - [petripaavola/IntuneDeviceDetailsGUI](https://github.com/petripaavola/IntuneDeviceDetailsGUI) - Intune Device Details GUI HTML v4.2 (New Updated!)
-- [JayRHa/EndpointAnalyticsRemediationScripts](https://github.com/JayRHa/EndpointAnalyticsRemediationScripts) - Ready-to-use Microsoft Intune Endpoint Analytics Proactive Remediation detection and remediation scripts.
+- [JayRHa/intune-remediation-scripts](https://github.com/JayRHa/intune-remediation-scripts) - Detection and remediation scripts for Microsoft Intune endpoint management.
 - [stevenbartcom/SCCMRepair](https://github.com/stevenbartcom/SCCMRepair) - 
 - [damienvanrobaeys/Intune_BIOS_Password_KeyVault](https://github.com/damienvanrobaeys/Intune_BIOS_Password_KeyVault) - Store BIOS passwords on Azure Key Vault and set devices password with Intune (for Lenovo, Dell, HP)
 - [ennnbeee/IntuneFirewallMigration](https://github.com/ennnbeee/IntuneFirewallMigration) - IntuneFirewallMigration is an updated version of the originally Microsoft provided tool to capture firewall rules from a target machine and upload them to Intune.
@@ -904,11 +903,11 @@
 - [yandex/gixy](https://github.com/yandex/gixy) - Nginx configuration static analyzer
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
-- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [tohojo/flent](https://github.com/tohojo/flent) - The FLExible Network Tester.
 - [byt3bl33d3r/CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - A swiss army knife for pentesting networks
 - [MTrab/energidataservice](https://github.com/MTrab/energidataservice) - Fetches spot prices from Energi Data Service
 - [custom-components/nordpool](https://github.com/custom-components/nordpool) - This component allows you to pull in the energy prices into Home-Assistant.
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [MTrab/HAConfig](https://github.com/MTrab/HAConfig) - My Home Assistant Configuration
@@ -1065,6 +1064,7 @@
 - [pawelgrzybek/snippet-generator](https://github.com/pawelgrzybek/snippet-generator) - Snippet generator for Visual Studio Code, Sublime Text and Atom
 - [karanpratapsingh/fullstack-starterkit](https://github.com/karanpratapsingh/fullstack-starterkit) - GraphQL first full-stack starter kit with Node, React. Powered by TypeScript
 - [material-extensions/vscode-material-icon-theme](https://github.com/material-extensions/vscode-material-icon-theme) - Material Design icons for VS Code
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
@@ -1095,7 +1095,6 @@
 
 - [caddymanager/caddymanager](https://github.com/caddymanager/caddymanager) - Easily manage your Caddy2 servers using a modern web-UI, built on the MEVN stack.
 - [joni1802/ts3-manager](https://github.com/joni1802/ts3-manager) - A modern web interface for maintaining Teamspeak3 servers
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 
 ## YAML 
 
