@@ -204,7 +204,7 @@
 
 ## Go 
 
-- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
+- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
 - [gameap/gameap](https://github.com/gameap/gameap) - High-performance, free and open-source game server management panel. Pterodactyl and Pelican alternative
 - [ugurkocde/TenuVault-TUI](https://github.com/ugurkocde/TenuVault-TUI) - 
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
@@ -832,7 +832,7 @@
 - [mmims/PSConsoleTheme](https://github.com/mmims/PSConsoleTheme) - PowerShell module to manage Windows console colors and PSReadline token colors.
 - [lazywinadmin/Monitor-ADGroupMembership](https://github.com/lazywinadmin/Monitor-ADGroupMembership) - PowerShell script to monitor Active Directory groups and send an email when someone is changing the membership
 - [markwragg/PowerShell-MacNotify](https://github.com/markwragg/PowerShell-MacNotify) - A PowerShell module with a cmdlet for triggering notifications on MacOS.
-- [EvotecIT/PSWriteWord](https://github.com/EvotecIT/PSWriteWord) - PSWriteWord is powershell module to create Microsoft Word documents without Microsoft Word installed...
+- [EvotecIT/PSWriteWord](https://github.com/EvotecIT/PSWriteWord) - Moved to OfficeIMO. Development, releases, issues and pull requests: https://github.com/EvotecIT/OfficeIMO
 - [PowerShell/Polaris](https://github.com/PowerShell/Polaris) - A cross-platform, minimalist web framework for PowerShell
 - [bgelens/DSCPullServerAdmin](https://github.com/bgelens/DSCPullServerAdmin) - PowerShell module to provide a better Admin oriented DSC Pull Server experience.
 - [pester/Pester](https://github.com/pester/Pester) - Pester is the ubiquitous test and mock framework for PowerShell.
@@ -1064,7 +1064,6 @@
 - [pawelgrzybek/snippet-generator](https://github.com/pawelgrzybek/snippet-generator) - Snippet generator for Visual Studio Code, Sublime Text and Atom
 - [karanpratapsingh/fullstack-starterkit](https://github.com/karanpratapsingh/fullstack-starterkit) - GraphQL first full-stack starter kit with Node, React. Powered by TypeScript
 - [material-extensions/vscode-material-icon-theme](https://github.com/material-extensions/vscode-material-icon-theme) - Material Design icons for VS Code
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
@@ -1095,6 +1094,7 @@
 
 - [caddymanager/caddymanager](https://github.com/caddymanager/caddymanager) - Easily manage your Caddy2 servers using a modern web-UI, built on the MEVN stack.
 - [joni1802/ts3-manager](https://github.com/joni1802/ts3-manager) - A modern web interface for maintaining Teamspeak3 servers
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 
 ## YAML 
 
