@@ -14,6 +14,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Clojure](#clojure)
+- [D](#d)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Fluent](#fluent)
@@ -182,6 +183,10 @@
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 
+## D 
+
+- [abraunegg/onedrive](https://github.com/abraunegg/onedrive) - OneDrive Client for Linux
+
 ## Dart 
 
 - [pathaksomesh06/Intune-Log-Reader-for-Windows](https://github.com/pathaksomesh06/Intune-Log-Reader-for-Windows) - Intune Log Reader provides real-time analysis and monitoring of Microsoft Intune Management Extension logs on Windows systems.
@@ -287,7 +292,6 @@
 - [andreypopov/node-red-contrib-miio-roborock](https://github.com/andreypopov/node-red-contrib-miio-roborock) - Xioami Roborock node-red nodes
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
 - [magicsunday/webtrees-pedigree-chart](https://github.com/magicsunday/webtrees-pedigree-chart) - SVG pedigree chart module for the webtrees genealogy application — interactive D3.js tree visualization with multiple layouts and up to 25 generations.
-- [magicsunday/webtrees-descendants-chart](https://github.com/magicsunday/webtrees-descendants-chart) - SVG descendants chart module for the webtrees genealogy application — interactive D3.js tree visualization with spouse display and up to 25 generations.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [pixelfed/docs](https://github.com/pixelfed/docs) - Pixelfed Documentation
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
@@ -460,6 +464,7 @@
 - [mchekin/rpg](https://github.com/mchekin/rpg) - Online Role Playing Game (based on Laravel)
 - [osTicket/osTicket](https://github.com/osTicket/osTicket) - The osTicket open source ticketing system official project repository, for versions 1.8 and later
 - [bludit/bludit](https://github.com/bludit/bludit) - Simple, Fast, Secure, Flat-File CMS
+- [magicsunday/webtrees-descendants-chart](https://github.com/magicsunday/webtrees-descendants-chart) - SVG descendants chart module for the webtrees genealogy application — interactive D3.js tree visualization with spouse display and up to 25 generations.
 - [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine
@@ -931,7 +936,6 @@
 - [roflcoopter/viseron](https://github.com/roflcoopter/viseron) - Self-hosted, local only NVR and AI Computer Vision software.  With features such as object detection, motion detection, face recognition and more, it gives you the power to keep an eye on your home, o
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [PiotrMachowski/Xiaomi-cloud-tokens-extractor](https://github.com/PiotrMachowski/Xiaomi-cloud-tokens-extractor) - This tool retrieves tokens for all devices connected to Xiaomi cloud and encryption keys for BLE devices.
-- [abraunegg/onedrive](https://github.com/abraunegg/onedrive) - OneDrive Client for Linux
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [itu-summer/qualification-seminar-materials-2018](https://github.com/itu-summer/qualification-seminar-materials-2018) - Material for the qualification seminar 2018
