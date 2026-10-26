@@ -1000,7 +1000,6 @@
 
 ## hacktoberfest 
 
-- [sbpp/sourcebans-pp](https://github.com/sbpp/sourcebans-pp) - Admin, ban, and comms management system for the Source engine
 - [torrust/torrust-tracker](https://github.com/torrust/torrust-tracker) - A modern and feature-rich (private) BitTorrent tracker.
 - [EvotecIT/OfficeIMO](https://github.com/EvotecIT/OfficeIMO) - MIT-licensed, COM-free .NET libraries for creating, reading, editing, converting, rendering, and extracting Office, PDF, email, OneNote, and text formats.
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
