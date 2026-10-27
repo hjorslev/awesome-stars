@@ -480,7 +480,7 @@
 - [imperian-systems/unifi-controller](https://github.com/imperian-systems/unifi-controller) - Open source Unifi controller
 - [mdziekon/UniEngine](https://github.com/mdziekon/UniEngine) - OGame-like Game Engine
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - NOW MANAGED ON CODEBERG
-- [GetDKAN/dkan](https://github.com/GetDKAN/dkan) - DKAN Open Data Portal
+- [GetDKAN/dkan](https://github.com/GetDKAN/dkan) - Archived repo for DKAN Open Data Portal. Moved to Drupal.org!
 - [giansalex/Php-Nuget-Server](https://github.com/giansalex/Php-Nuget-Server) - PHP Nuget Server
 - [Piwigo/Piwigo](https://github.com/Piwigo/Piwigo) - Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute!
 - [SimonPadbury/b4st](https://github.com/SimonPadbury/b4st) - A Bootstrap 4 Starter Theme, for WordPress
