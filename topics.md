@@ -1449,7 +1449,7 @@
 ## open-data 
 
 - [ckan/ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.hu
-- [GetDKAN/dkan](https://github.com/GetDKAN/dkan) - DKAN Open Data Portal
+- [GetDKAN/dkan](https://github.com/GetDKAN/dkan) - Archived repo for DKAN Open Data Portal. Moved to Drupal.org!
 
 ## open-source 
 
@@ -1961,7 +1961,7 @@
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - NOW MANAGED ON CODEBERG
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
-- [GetDKAN/dkan](https://github.com/GetDKAN/dkan) - DKAN Open Data Portal
+- [GetDKAN/dkan](https://github.com/GetDKAN/dkan) - Archived repo for DKAN Open Data Portal. Moved to Drupal.org!
 - [giansalex/Php-Nuget-Server](https://github.com/giansalex/Php-Nuget-Server) - PHP Nuget Server
 - [Piwigo/Piwigo](https://github.com/Piwigo/Piwigo) - Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute!
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
