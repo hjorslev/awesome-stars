@@ -1026,7 +1026,7 @@
 ## TypeScript 
 
 - [kevinmalinoski/intune-preflight](https://github.com/kevinmalinoski/intune-preflight) - Simulate an Intune endpoint and preview the exact merged policy baseline it would receive. Read-only, runs in your browser or self-hosted.
-- [OpenAdminOS/OpenAdminOS](https://github.com/OpenAdminOS/OpenAdminOS) - OpenAdminOS is an open-source desktop app for Intune and Entra admins. Ask your tenant questions, run agents from an open registry, and approve every change before it reaches Microsoft Graph.
+- [OpenAdminOS/OpenAdminOS](https://github.com/OpenAdminOS/OpenAdminOS) - Open-source, local-first AI agents for IT administration. Start with Microsoft 365, connect any API. Data never leaves the device.
 - [openspiir-collective/openspiir](https://github.com/openspiir-collective/openspiir) - A faithful reproduction of the Spiir app, website and infrastructure, so we can keep using it.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [Lewis-Barry/IntuneSettingsCatalogViewer](https://github.com/Lewis-Barry/IntuneSettingsCatalogViewer) - Browse the Intune Settings Catalog without using Intune
