@@ -117,6 +117,7 @@
 - [PowerShell/SecretManagement](https://github.com/PowerShell/SecretManagement) - PowerShell module to consistent usage of secrets through different extension vaults
 - [olefriis/Eco2](https://github.com/olefriis/Eco2) - Take control of your Danfoss Eco™ 2 thermostats!
 - [shravan2x/Gameloop.Vdf](https://github.com/shravan2x/Gameloop.Vdf) - A fast, easy-to-use Valve Data Format parser for .NET
+- [PoShLog/PoShLog](https://github.com/PoShLog/PoShLog) - :nut_and_bolt:  PoShLog is PowerShell cross-platform logging module. It allows you to log structured event data into console, file and much more places easily. It's built upon great C# logging library
 - [EvotecIT/PSPublishModule](https://github.com/EvotecIT/PSPublishModule) - This module is a module builder helper that helps build PowerShell modules "Evotec way". It allows us to make sure our modules are built the same way every time making the process really easy to build
 - [SeeminglyScience/EditorServicesCommandSuite](https://github.com/SeeminglyScience/EditorServicesCommandSuite) - Collection of editor commands for use in PowerShell Editor Services.
 - [AdhocAdam/smletsexchangeconnector](https://github.com/AdhocAdam/smletsexchangeconnector) - SMLets PowerShell based Exchange Connector for controlling Microsoft System Center Service Manager 2016+
@@ -721,7 +722,6 @@
 - [PowershellFrameworkCollective/PSModuleDevelopment](https://github.com/PowershellFrameworkCollective/PSModuleDevelopment) - Provides tools that help with module development
 - [dataplat/dbatools](https://github.com/dataplat/dbatools) - 🚀 SQL Server automation and instance migrations have never been safer, faster or freer
 - [kevinblumenfeld/Posh365](https://github.com/kevinblumenfeld/Posh365) - Connect. Provision. Maintain.
-- [PoShLog/PoShLog](https://github.com/PoShLog/PoShLog) - :nut_and_bolt:  PoShLog is PowerShell cross-platform logging module. It allows you to log structured event data into console, file and much more places easily. It's built upon great C# logging library
 - [mandiant/flare-vm](https://github.com/mandiant/flare-vm) - A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.
 - [proxb/PoshRSJob](https://github.com/proxb/PoshRSJob) - Provides an alternative to PSjobs with greater performance and less overhead to run commands in the background, freeing up the console and allowing throttling on the jobs.
 - [majkinetor/posh](https://github.com/majkinetor/posh) - Powershell modules and functions by majkinetor
