@@ -143,6 +143,7 @@
 - [monitoring](#monitoring)
 - [mysql](#mysql)
 - [natural-language-processing](#natural-language-processing)
+- [neovim](#neovim)
 - [nestjs](#nestjs)
 - [nextjs](#nextjs)
 - [no-code](#no-code)
@@ -1395,6 +1396,10 @@
 
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 
+## neovim 
+
+- [craftzdog/dotfiles](https://github.com/craftzdog/dotfiles) - My personal dotfiles
+
 ## nestjs 
 
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
@@ -1693,7 +1698,6 @@
 - [openai/glide-text2im](https://github.com/openai/glide-text2im) - GLIDE: a diffusion-based text-conditional image synthesis model
 - [jstar88/opbe](https://github.com/jstar88/opbe) - Ogame probabilistic battle engine
 - [supernova-ws/SuperNova](https://github.com/supernova-ws/SuperNova) - oGame-like browser sci-fi space strategy
-- [craftzdog/dotfiles](https://github.com/craftzdog/dotfiles) - My personal dotfiles
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [jborean93/PSOpenAD](https://github.com/jborean93/PSOpenAD) - Cross-platform PowerShell module alternative to Microsoft's Active Directory module
 - [LoicVeirman/HardenAD](https://github.com/LoicVeirman/HardenAD) - Hardening Active Directory version 2
