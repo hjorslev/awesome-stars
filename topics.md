@@ -216,6 +216,7 @@
 - [visual-studio-code](#visual-studio-code)
 - [visualization](#visualization)
 - [vpn](#vpn)
+- [vscode](#vscode)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -1770,7 +1771,6 @@
 - [ebekker/pwsh-github-action-base](https://github.com/ebekker/pwsh-github-action-base) - Base support for implementing GitHub Actions in PowerShell
 - [scho89/Update-Office365](https://github.com/scho89/Update-Office365) - Update script for Office 365 click to run client.
 - [HumanEquivalentUnit/PowerShell-Misc](https://github.com/HumanEquivalentUnit/PowerShell-Misc) - Small proof-of-concept, testing, or demo pieces of code
-- [material-extensions/vscode-material-icon-theme](https://github.com/material-extensions/vscode-material-icon-theme) - Material Design icons for VS Code
 - [KelvinTegelaar/RunAsUser](https://github.com/KelvinTegelaar/RunAsUser) - a PowerShell module that allows you to impersonate the currently logged on user, while running PowerShell.exe as system.
 - [shravan2x/Gameloop.Vdf](https://github.com/shravan2x/Gameloop.Vdf) - A fast, easy-to-use Valve Data Format parser for .NET
 - [PowershellFrameworkCollective/PSModuleDevelopment](https://github.com/PowershellFrameworkCollective/PSModuleDevelopment) - Provides tools that help with module development
@@ -1814,7 +1814,6 @@
 - [gpduck/MSTerminalSettings](https://github.com/gpduck/MSTerminalSettings) - 
 - [spease/Sensirion](https://github.com/spease/Sensirion) - Library for Sensirion SHT1x & SHT7x family temperature and humidity sensors
 - [MessagingAdmin/DiskSpaceReport](https://github.com/MessagingAdmin/DiskSpaceReport) - Using PSHTML module, create a dashboard which shows Disk usage of servers in your network.
-- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [eezstreet/SWATEliteForce](https://github.com/eezstreet/SWATEliteForce) - A modification for SWAT 4: The Stetchkov Syndicate
 - [SpecterOps/BloodHound-Legacy](https://github.com/SpecterOps/BloodHound-Legacy) - Six Degrees of Domain Admin
 - [PowerShell/JEA](https://github.com/PowerShell/JEA) - Just Enough Administration
@@ -2618,6 +2617,11 @@
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
 - [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager) - ✔️ WireGuard-Manager is an innovative tool designed to streamline the deployment and management of WireGuard VPNs. Emphasizing user-friendliness and security, it simplifies the complexities of VPN con
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
+
+## vscode 
+
+- [material-extensions/vscode-material-icon-theme](https://github.com/material-extensions/vscode-material-icon-theme) - Material Design icons for VS Code
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 
 ## vue 
 
