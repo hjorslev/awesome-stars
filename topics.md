@@ -79,6 +79,7 @@
 - [finance](#finance)
 - [firefox](#firefox)
 - [flask](#flask)
+- [flipperzero](#flipperzero)
 - [flutter](#flutter)
 - [font](#font)
 - [framework](#framework)
@@ -813,6 +814,10 @@
 
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 
+## flipperzero 
+
+- [I-Am-Jakoby/PowerShell-for-Hackers](https://github.com/I-Am-Jakoby/PowerShell-for-Hackers) - This repository is a collection of powershell functions every hacker should know
+
 ## flutter 
 
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
@@ -1494,6 +1499,7 @@
 
 ## others 
 
+- [dknn/skills-PSValidate](https://github.com/dknn/skills-PSValidate) - 
 - [ph0tacular/unifi-wazuh](https://github.com/ph0tacular/unifi-wazuh) - Decoders and rules for Wazuh
 - [imabdk/intunewin-contextprep](https://github.com/imabdk/intunewin-contextprep) - Right-click an installer in Windows Explorer to package it as an .intunewin, with the detection rule, install commands and architecture ready for the Intune portal
 - [call4cloud-code/Autopilot-Device-Association-Script](https://github.com/call4cloud-code/Autopilot-Device-Association-Script) - Autopilot Device Association Script to Create and Remove the Device Association
@@ -1508,7 +1514,7 @@
 - [xz/new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
 - [oabdullah3/omi-posh](https://github.com/oabdullah3/omi-posh) - Oh My Posh themes for your terminal, designed by me
 - [mertozsoy/WindowsUpdateRemedationTool](https://github.com/mertozsoy/WindowsUpdateRemedationTool) - 
-- [ugurkocde/TenuVault-TUI](https://github.com/ugurkocde/TenuVault-TUI) - 
+- [ugurkocde/TenuVault-TUI](https://github.com/ugurkocde/TenuVault-TUI) - No longer developed. Replaced by TenuVault Desktop: https://www.tenuvault.com/intune-backup
 - [mdgrs-mei/GliderUI](https://github.com/mdgrs-mei/GliderUI) - Cross-platform Desktop GUI framework for PowerShell powered by Avalonia
 - [OpenAdminOS/OpenAdminOS](https://github.com/OpenAdminOS/OpenAdminOS) - Open-source, local-first AI agents for IT administration. Start with Microsoft 365, connect any API. Data never leaves the device.
 - [olahallengren/sql-server-maintenance-solution](https://github.com/olahallengren/sql-server-maintenance-solution) - SQL Server Maintenance Solution
