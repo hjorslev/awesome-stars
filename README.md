@@ -213,7 +213,7 @@
 
 - [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [gameap/gameap](https://github.com/gameap/gameap) - High-performance, free and open-source game server management panel. Pterodactyl and Pelican alternative
-- [ugurkocde/TenuVault-TUI](https://github.com/ugurkocde/TenuVault-TUI) - 
+- [ugurkocde/TenuVault-TUI](https://github.com/ugurkocde/TenuVault-TUI) - No longer developed. Replaced by TenuVault Desktop: https://www.tenuvault.com/intune-backup
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [NX211/traefik-proxmox-provider](https://github.com/NX211/traefik-proxmox-provider) - A Traefik provider plugin that automatically configures routing based on Proxmox VE virtual machines and containers
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
@@ -497,6 +497,7 @@
 
 ## PowerShell 
 
+- [dknn/skills-PSValidate](https://github.com/dknn/skills-PSValidate) - 
 - [imabdk/intunewin-contextprep](https://github.com/imabdk/intunewin-contextprep) - Right-click an installer in Windows Explorer to package it as an .intunewin, with the detection rule, install commands and architecture ready for the Intune portal
 - [call4cloud-code/Autopilot-Device-Association-Script](https://github.com/call4cloud-code/Autopilot-Device-Association-Script) - Autopilot Device Association Script to Create and Remove the Device Association
 - [TacII/WimWizard](https://github.com/TacII/WimWizard) - WimWizard is a tool to build fully patched OS-Images with languagepacks for use with SCCM/SCEM
