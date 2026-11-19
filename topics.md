@@ -197,6 +197,7 @@
 - [sql](#sql)
 - [sql-server](#sql-server)
 - [sqlite](#sqlite)
+- [static-site-generator](#static-site-generator)
 - [statistics](#statistics)
 - [svelte](#svelte)
 - [symfony](#symfony)
@@ -2491,6 +2492,10 @@
 - [mithrandyr/SimplySql](https://github.com/mithrandyr/SimplySql) - PowerShell module for querying various SQL databases
 - [RamblingCookieMonster/PSSQLite](https://github.com/RamblingCookieMonster/PSSQLite) - PowerShell module to query SQLite databases
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
+
+## static-site-generator 
+
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 
 ## statistics 
 
