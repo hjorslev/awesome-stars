@@ -6,7 +6,6 @@
 ## Contents
 
 - [Arduino](#arduino)
-- [Astro](#astro)
 - [Batchfile](#batchfile)
 - [Blade](#blade)
 - [C](#c)
@@ -55,10 +54,6 @@
 ## Arduino 
 
 - [JChristensen/ledFire_FW](https://github.com/JChristensen/ledFire_FW) - LED PWM Fire Effect using ATtiny84A (firmware)
-
-## Astro 
-
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
 
 ## Batchfile 
 
@@ -884,6 +879,7 @@
 
 ## Python 
 
+- [mthorngaard/InstallScout-releases](https://github.com/mthorngaard/InstallScout-releases) - Find silent install switches for a Windows EXE or MSI without running the installer. Try the command in Windows Sandbox, then build a PSADT .intunewin and upload the Win32 app to Intune.
 - [oabdullah3/omi-posh](https://github.com/oabdullah3/omi-posh) - Oh My Posh themes for your terminal, designed by me
 - [almenscorner/IntuneCD](https://github.com/almenscorner/IntuneCD) - Tool to backup, update and document configurations in Intune
 - [Deepshah0308/awesome-intunetools](https://github.com/Deepshah0308/awesome-intunetools) - A curated, searchable directory of 122 community tools, scripts and utilities for Microsoft Intune administrators.
@@ -1014,6 +1010,7 @@
 
 ## Swift 
 
+- [ecubrooks/DDM-Update-Companion](https://github.com/ecubrooks/DDM-Update-Companion) - A lightweight macOS SwiftUl utility that monitors DDM software update enforcement deadlines and delivers compact, non-intrusive update reminders.
 - [gilburns/IntuneLogWatch](https://github.com/gilburns/IntuneLogWatch) - IntuneLogWatch is a macOS application for analyzing Microsoft Intune logs and delivering human-readable insights. It converts raw log data into understandable summaries, highlighting trends and issues
 
 ## TSQL 
@@ -1056,6 +1053,7 @@
 - [ardoq/ardoq-sdk-js](https://github.com/ardoq/ardoq-sdk-js) - A software development kit for integrating with Ardoq
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [AitorDB/home-assistant-sun-card](https://github.com/AitorDB/home-assistant-sun-card) - Home assistant sun card based on Google weather design
 - [denysdovhan/vacuum-card](https://github.com/denysdovhan/vacuum-card) - Vacuum cleaner card for Home Assistant Lovelace UI
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
