@@ -423,7 +423,7 @@
 
 ## bootstrap 
 
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [Art-of-WiFi/UniFi-API-browser](https://github.com/Art-of-WiFi/UniFi-API-browser) - Tool to browse data exposed by Ubiquiti's UniFi Controller API
 - [ng-bootstrap/ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) - Angular powered Bootstrap
 - [ToxicRevolution/CSGORankMeWeb](https://github.com/ToxicRevolution/CSGORankMeWeb) - Web interface for Rank Me CSGO Stat tracking plugin
@@ -588,7 +588,7 @@
 - [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro. 🕹
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [juntossomosmais/frontend-guideline](https://github.com/juntossomosmais/frontend-guideline) - 📝 Front-end Guideline by Juntos Somos Mais
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [andreasbm/web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
@@ -1094,7 +1094,7 @@
 - [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [juntossomosmais/frontend-guideline](https://github.com/juntossomosmais/frontend-guideline) - 📝 Front-end Guideline by Juntos Somos Mais
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [andreasbm/web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
@@ -1104,7 +1104,7 @@
 ## html5 
 
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [RetroPage/RetroPage](https://github.com/RetroPage/RetroPage) - A lightweight homepage to quickly get you where you need to go.
 
 ## http 
@@ -1176,7 +1176,7 @@
 
 ## jekyll 
 
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 
 ## jquery 
 
@@ -1503,6 +1503,7 @@
 
 ## others 
 
+- [ecubrooks/DDM-Update-Companion](https://github.com/ecubrooks/DDM-Update-Companion) - A lightweight macOS SwiftUl utility that monitors DDM software update enforcement deadlines and delivers compact, non-intrusive update reminders.
 - [dknn/skills-PSValidate](https://github.com/dknn/skills-PSValidate) - 
 - [ph0tacular/unifi-wazuh](https://github.com/ph0tacular/unifi-wazuh) - Decoders and rules for Wazuh
 - [imabdk/intunewin-contextprep](https://github.com/imabdk/intunewin-contextprep) - Right-click an installer in Windows Explorer to package it as an .intunewin, with the detection rule, install commands and architecture ready for the Intune portal
@@ -1995,6 +1996,7 @@
 
 ## powershell 
 
+- [mthorngaard/InstallScout-releases](https://github.com/mthorngaard/InstallScout-releases) - Find silent install switches for a Windows EXE or MSI without running the installer. Try the command in Windows Sandbox, then build a PSADT .intunewin and upload the Win32 app to Intune.
 - [boostedchaos/fleet-cve-scanner](https://github.com/boostedchaos/fleet-cve-scanner) - An open-source, single-script CVE scanner for RMM-managed fleets. Pure PowerShell 7 — joins your RMM software inventory against NVD, CISA KEV, EPSS and SSVC to answer: is this version vulnerable, and 
 - [JayRHa/intune-device-troubleshooter](https://github.com/JayRHa/intune-device-troubleshooter) - PowerShell-based troubleshooting tool for diagnosing and resolving issues on Intune-managed Windows devices.
 - [PSModule/Path](https://github.com/PSModule/Path) - A PowerShell module to manage the PATH environment variable on Windows.
@@ -2350,7 +2352,7 @@
 
 ## sass 
 
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 
 ## security 
 
@@ -2687,6 +2689,7 @@
 
 ## windows 
 
+- [mthorngaard/InstallScout-releases](https://github.com/mthorngaard/InstallScout-releases) - Find silent install switches for a Windows EXE or MSI without running the installer. Try the command in Windows Sandbox, then build a PSADT .intunewin and upload the Win32 app to Intune.
 - [okibcn/nano-for-windows](https://github.com/okibcn/nano-for-windows) - Windows version of the GNU Nano editor
 - [JayRHa/intune-device-troubleshooter](https://github.com/JayRHa/intune-device-troubleshooter) - PowerShell-based troubleshooting tool for diagnosing and resolving issues on Intune-managed Windows devices.
 - [zbalkan/slmgr-ps](https://github.com/zbalkan/slmgr-ps) - A PowerShell replacement for slmgr.vbs script
@@ -2738,6 +2741,7 @@
 
 ## windows-11 
 
+- [mthorngaard/InstallScout-releases](https://github.com/mthorngaard/InstallScout-releases) - Find silent install switches for a Windows EXE or MSI without running the installer. Try the command in Windows Sandbox, then build a PSADT .intunewin and upload the Win32 app to Intune.
 - [foundry-osd/foundry](https://github.com/foundry-osd/foundry) - Open-source Windows 11 deployment solution for enterprise IT. Build bootable USB or ISO media, then deploy Windows with the right drivers, firmware, and configuration. Supports Autopilot and Active Di
 - [tugich/DeploymentEditor](https://github.com/tugich/DeploymentEditor) - Deployment Editor simplifies software packaging with PSAppDeployToolkit (PSADT). You can click your sequence for PSADT through the easy GUI.
 - [tugich/SetupPackagerIntune](https://github.com/tugich/SetupPackagerIntune) - Setup Packager helps you to easily package your software installation for Intune or other device management solutions. With just a few clicks you can create a PSADT-capable package from your files and
