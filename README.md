@@ -456,7 +456,7 @@
 - [Shadowss/TravianZ](https://github.com/Shadowss/TravianZ) - Travian T3.6 with user-configurable features (enable/disable).
 - [RackTables/racktables](https://github.com/RackTables/racktables) - RackTables current development repository
 - [statamic/cms](https://github.com/statamic/cms) - The core Laravel CMS Composer package
-- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM and backend for your agents. Remember everything about your friends, family and business relationships.
 - [mchekin/rpg](https://github.com/mchekin/rpg) - Online Role Playing Game (based on Laravel)
 - [osTicket/osTicket](https://github.com/osTicket/osTicket) - The osTicket open source ticketing system official project repository, for versions 1.8 and later
 - [bludit/bludit](https://github.com/bludit/bludit) - Simple, Fast, Secure, Flat-File CMS
