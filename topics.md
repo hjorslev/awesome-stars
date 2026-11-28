@@ -1028,7 +1028,7 @@
 - [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [legrego/homeassistant-elasticsearch](https://github.com/legrego/homeassistant-elasticsearch) - Publish Home-Assistant events to Elasticsearch
-- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM and backend for your agents. Remember everything about your friends, family and business relationships.
 - [ansible-collections/community.windows](https://github.com/ansible-collections/community.windows) - Windows community collection for Ansible
 - [juntossomosmais/frontend-guideline](https://github.com/juntossomosmais/frontend-guideline) - 📝 Front-end Guideline by Juntos Somos Mais
 - [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
@@ -1214,7 +1214,7 @@
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while ex
 - [statamic/cms](https://github.com/statamic/cms) - The core Laravel CMS Composer package
-- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM and backend for your agents. Remember everything about your friends, family and business relationships.
 - [mchekin/rpg](https://github.com/mchekin/rpg) - Online Role Playing Game (based on Laravel)
 - [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
 - [pyrocms/pyrocms](https://github.com/pyrocms/pyrocms) - Pyro is an experienced and powerful Laravel PHP CMS.
@@ -1961,7 +1961,7 @@
 - [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while ex
 - [Yaro2709/New-Star](https://github.com/Yaro2709/New-Star) - Web. browser game engine :)
 - [statamic/cms](https://github.com/statamic/cms) - The core Laravel CMS Composer package
-- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM and backend for your agents. Remember everything about your friends, family and business relationships.
 - [mchekin/rpg](https://github.com/mchekin/rpg) - Online Role Playing Game (based on Laravel)
 - [bludit/bludit](https://github.com/bludit/bludit) - Simple, Fast, Secure, Flat-File CMS
 - [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
